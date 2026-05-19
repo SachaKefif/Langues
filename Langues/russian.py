@@ -38,7 +38,7 @@ os.makedirs(DATA_DIR, exist_ok=True)
 os.makedirs(GRAPHS_DIR, exist_ok=True)
 
 # Variable pour choisir le dictionnaire
-# 1: dictionnaire complet, 2: dictionnaire échantillon
+# 1: dictionnaire complet, 2: dictionnaire échantillon, 3: dictionnaire révision
 dictionnaire = 2
 
 # Variable pour choisir le type d'entraînement
@@ -73,6 +73,8 @@ if dictionnaire == 1:
     fichier_dictionnaire = os.path.join(BASE_DIR, 'Dictionnaires', 'russian.txt')
 elif dictionnaire == 2:
     fichier_dictionnaire = os.path.join(BASE_DIR, 'Dictionnaires', 'russian_sample.txt')
+elif dictionnaire == 3:
+    fichier_dictionnaire = os.path.join(BASE_DIR, 'Dictionnaires', 'russian_revision.txt')
 else:
     fichier_dictionnaire = os.path.join(BASE_DIR, 'Dictionnaires', 'russian.txt')
 
@@ -1121,7 +1123,7 @@ class QuizApp:
 
     def update_goal_display(self):
         """Met à jour l'affichage de l'objectif de la catégorie"""
-        if dictionnaire == 2:
+        if dictionnaire in (2, 3):
             self.goal_label.config(text="")
             return
         
@@ -1142,15 +1144,22 @@ class QuizApp:
         """Change le type de dictionnaire utilisé"""
         global dictionnaire, mots_francais, mots_russes
 
-        dictionnaire = 1 if dictionnaire == 2 else 2
+        if dictionnaire == 2:
+            dictionnaire = 1
+        elif dictionnaire == 1:
+            dictionnaire = 3
+        else:
+            dictionnaire = 2
 
         mots_francais.clear()
         mots_russes.clear()
 
         if dictionnaire == 1:
             fichier_dict = os.path.join(BASE_DIR, 'Dictionnaires', 'russian.txt')
-        else:
+        elif dictionnaire == 2:
             fichier_dict = os.path.join(BASE_DIR, 'Dictionnaires', 'russian_sample.txt')
+        else:
+            fichier_dict = os.path.join(BASE_DIR, 'Dictionnaires', 'russian_revision.txt')
 
         try:
             with open(fichier_dict, 'r', encoding='utf-8') as fichier:
@@ -1213,8 +1222,10 @@ class QuizApp:
         """Met à jour l'affichage des statuts sous chaque bouton"""
         if dictionnaire == 1:
             self.dict_status.config(text="Complet", foreground="#2563eb")
-        else:
+        elif dictionnaire == 2:
             self.dict_status.config(text="Échantillon", foreground="#16a34a")
+        else:
+            self.dict_status.config(text="Révision", foreground="#f59e0b")
 
         if training_type == 0:
             self.training_status.config(text="Mixte\n(25% conj / 75% trad)", foreground="#7c3aed")

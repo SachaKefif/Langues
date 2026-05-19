@@ -2,12 +2,13 @@
 // Dictionaries embedded from text files - loaded at startup
 const DICT_COMPLETE_URL = '../../Dictionnaires/russian.txt';
 const DICT_SAMPLE_URL = '../../Dictionnaires/russian_sample.txt';
+const DICT_REVISION_URL = '../../Dictionnaires/russian_revision.txt';
 
 let motsFrancais = [];
 let motsRusses = [];
 
 // ============== STATE ==============
-let dictionnaire = 2;      // 1=complet, 2=échantillon
+let dictionnaire = 2;      // 1=complet, 2=échantillon, 3=révision
 let trainingType = 1;       // 0=mixte, 1=traduction, 2=conjugaison, 3=révision
 let verbMode = 2;           // 0=tous, 1=irréguliers, 2=réguliers
 
@@ -55,7 +56,7 @@ const questionArea = document.getElementById('questionArea');
 
 // ============== LOAD DICTIONARY ==============
 async function loadDictionary(type) {
-    const url = type === 1 ? DICT_COMPLETE_URL : DICT_SAMPLE_URL;
+    const url = type === 1 ? DICT_COMPLETE_URL : (type === 3 ? DICT_REVISION_URL : DICT_SAMPLE_URL);
     try {
         const resp = await fetch(url);
         const text = await resp.text();
@@ -99,9 +100,12 @@ function updateStatuts() {
     if (dictionnaire === 1) {
         dictStatus.textContent = "Complet";
         dictStatus.className = "control-status dict-complet";
-    } else {
+    } else if (dictionnaire === 2) {
         dictStatus.textContent = "Échantillon";
         dictStatus.className = "control-status dict-sample";
+    } else {
+        dictStatus.textContent = "Révision";
+        dictStatus.className = "control-status dict-revision";
     }
 
     if (trainingType === 0) {
@@ -370,7 +374,13 @@ function afficherResultat(resultat) {
 
 // ============== CONTROL HANDLERS ==============
 dictBtn.addEventListener('click', async () => {
-    dictionnaire = dictionnaire === 1 ? 2 : 1;
+    if (dictionnaire === 2) {
+        dictionnaire = 1;
+    } else if (dictionnaire === 1) {
+        dictionnaire = 3;
+    } else {
+        dictionnaire = 2;
+    }
     await loadDictionary(dictionnaire);
     updateStatuts();
     if (trainingType === 3) initRevision();

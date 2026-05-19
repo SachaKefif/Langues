@@ -451,6 +451,7 @@ body {
 /* Status color variants */
 .control-status.dict-complet { color: #5eadff; }
 .control-status.dict-sample { color: #22c55e; }
+.control-status.dict-revision { color: #fbbf24; }
 .control-status.train-mixte { color: #a855f7; }
 .control-status.train-trad { color: #ef4444; }
 .control-status.train-conj { color: #f97316; }

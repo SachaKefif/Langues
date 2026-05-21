@@ -1,10 +1,17 @@
-Repas % yeda
-Lit % krovat'
-Médecin % doktor
-Alphabet % alfavit
-Photographie % fotografiya
-Vidéo % vidyeo
-Façon % sposob
-Vérité % pravda
-Mensonge % loj'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

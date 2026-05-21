@@ -96,6 +96,8 @@ Fils (son) % syn
 Fille (daughter) % dyevochka
 Grand-père % dyedoushka
 Grand-mère % baboushka
+Ami % droug
+Amie % podrouga
 
 Bonjour % zdravstvouîtye
 Salut % privyet
@@ -159,6 +161,10 @@ Rien % nichyego
 Pourquoi % za chto
 Parce que % potomou chto
 Encore % snova
+Même % dajye
+Presque % pochti
+À % imyeyet
+Aucun(e) % nikto
 
 Tic de language (genre) % tipo
 Va te faire foutre % idi na khouî
@@ -191,6 +197,12 @@ Venir % prikhodit'
 Voir % vidyet'
 Ouvrir % otkryt'
 Fermer % zakryvat'
+Acheter % koupit'
+Vendre % prodavat'
+Dormir % spat'
+Payer % platit'
+Écrire % napisat'
+Lire % chitat'
 
 Beau % krasivyî
 Belle % krasivaya

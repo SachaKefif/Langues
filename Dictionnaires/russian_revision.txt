@@ -1,8 +1,39 @@
-Ami % droug
-Amie % podrouga
-Acheter % koupit'
-Vendre % prodavat'
-Dormir % spat'
-Payer % platit'
-Écrire % napisat'
-Lire % chitat'
+Comprendre % ponyat'
+Montrer % pokazat'
+Oublier % zabyvat'
+Vivre % jit'
+Jouer % igrat'
+Mentir % loj'
+
+Homme % moujchina
+Garçon (genre) % mujskoy
+Femme % jyenshshiny
+Fille (genre) % jyenskiy
+Enfant % ryebyenok
+
+Meilleur(e) % louchshiî
+Pire % khoudshiî
+
+Vache % korova
+Cheval % loshad'
+Poisson % ryba
+Poule % kouritsa
+
+Sel % sol'
+Riz % ris
+Sauce % soous
+Sucre % sakhar
+Jus % sok
+Huile % maslo
+
+Livre % kniga
+Voiture % mashina
+Cours % kours
+Amour % lyubov'
+Médecin % doktor
+Façon % sposob
+Sport % sport
+Chance % shans
+Choix % vybor
+Lieu % myesto
+Drapeau % flag

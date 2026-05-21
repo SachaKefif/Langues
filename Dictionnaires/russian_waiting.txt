@@ -6,22 +6,17 @@
 
 
 
-Baiser % yebat'
-Homme % moujchina
-Femme % jyenshshiny
-Enfant % ryebyenok
-Garçon (sexe) % muzhskoy
-Fille (sexe) % zhenskiy
 
 
 
 
 
-Film % fil'm
-Lumière % svyet
-Feu % ogon'
-Mot % slovo
-Lettre (alphabet) % pis'mo
+
+
+
+
+
+
 
 
 
@@ -65,8 +60,36 @@ Lettre (alphabet) % pis'mo
 100 000 % sto tysyach
 1 000 000 % million
 
+Moi (Pronom Tonique) % mnye
+Toi (Pronom Tonique) % ty
+Lui (Pronom Tonique) % yemou
+Elle (Pronom Tonique) % ona
+Nous (Pronom Tonique) % my
+Vous (Pronom Tonique) % ty
+Eux (Pronom Tonique) % ikh
+Elles (Pronom Tonique) % oni
+
+Me (Pronom Réfléchi) % mnye
+Te (Pronom Réfléchi) % ty
+Se (Pronom Réfléchi) % sye
+Le (Pronom Réfléchi) % to
+La (Pronom Réfléchi) % tam
+Les 
+Nous (Pronom Réfléchi) % my
+Vous (Pronom Réfléchi) % ty
+
+Moi-même% sam
+Toi-même % sam
+Lui-même % sam
+Elle-même % syebya
+Nous-mêmes % my sami
+Vous-mêmes % sami
+Eux-mêmes % sami syebya
+Elles-mêmes % sami syebya
+
 Penis % khouî
 Vagin % pîzda
+Baiser % yebat'
 
 Matin % outro
 Après-midi % poldyen'
@@ -111,16 +134,6 @@ En dessous % nijye
 Bon appétit % naslajdaîtyes' yedoî
 Devant % spyeryedi
 Derrière % pozadi
-
-Même % dajye
-Presque % pochti
-À % imyeyet
-Aucun % nikto
-Aucune % nikto
-Meilleur % louchshiî
-Meilleure % louchshiî
-Pire % khoudshiî
-Pire % khoudshiî
 
 Autre (M) % drougoî
 Autre (M) % drougoî
@@ -234,31 +247,23 @@ Couper % ryezat'
 
 Tirer % vytashshit'
 Pousser % tolkat'
-Vivre % jit'
 Mourir % oumyeryet'
 Apporter/Ammener % prinyesi
 Emporter/Emmener % zabrat'
-Comprendre % ponyat'
-Montrer % pokazat'
 Casser % slomat'
 
-Voler (steal) % lyetat'
-Voler (fly) % lyetat'
+Voler % lyetat'
 Arrêter % ostanavlivat'sya
 Nager % plavat'
 Écouter % sloushat'
 Entendre % slyshat'
-Jouer (aux jeux vidéos) % igrat'
-Jouer (en général) % igrat'
 
 Éteindre % vyklyuchat'
 Allumer % zajyech'
 Uriner % mochit'sya
 Détester % nyenavidyet'
-Oublier % zabyvat'
 Commencer % dlya nachala
-Terminer (t) % zakonchit'
-Terminer (a) % zakonchit'
+Terminer % zakonchit'
 
 Gagner % zarabatyvat'
 Perdre % tyeryat'
@@ -272,7 +277,6 @@ Sauver % sokhranyat'
 Jeter % brosat'
 Sauter % pryjok
 Devenir % stanovit'sya
-Mentir % loj'
 Se souvenir % pomnit'
 Laisser % ouîti
 Embrasser % potsyelovat'
@@ -348,8 +352,7 @@ S'échapper % pobyeg
 Vivre (habiter) % jit'
 
 Apparaître % poyavlyat'sya
-Disparaître (d) % propadat'
-Disparaître (s) % propadat'
+Disparaître % propadat'
 Déchirer % rvat'
 Mélanger % smyeshivaniye
 Continuer % prodoljat'
@@ -547,36 +550,6 @@ Ronfler % khrap
 Péter % pyerdyet'
 Inviter % priglashat'
 Se demander % oudivlyat'sya
-
-Moi (Pronom Tonique) % mnye
-Toi (Pronom Tonique) % ty
-Lui (Pronom Tonique) % yemou
-Elle (Pronom Tonique) % ona
-Nous (Pronom Tonique) % my
-Vous (Pronom Tonique) % ty
-Eux (Pronom Tonique) % ikh
-Elles (Pronom Tonique) % oni
-
-Me (Pronom Réfléchi) % mnye
-Te (Pronom Réfléchi) % ty
-Se (Pronom Réfléchi) % sye
-Le (Pronom Réfléchi) % to
-La (Pronom Réfléchi) % tam
-Nous (Pronom Réfléchi) % my
-Vous (Pronom Réfléchi) % ty
-
-Moi-même (M) % sam
-Moi-même (F) % sam
-Toi-même (M) % sam
-Toi-même (F) % sam
-Lui-même % sam
-Elle-même % syebya
-Nous-mêmes (M) % my sami
-Nous-mêmes (F) % my sami
-Vous-mêmes (M) % sami
-Vous-mêmes (F) % sami
-Eux-mêmes % sami syebya
-Elles-mêmes % sami syebya
 
 Moche (M) % ourodlivyî
 Moche (F) % ourodlivyî
@@ -922,6 +895,11 @@ Urgente % srochnyî
 Éternelle % vyechnyî
 
 
+
+
+
+
+
 Cousin % dvoyurodnyî brat
 Cousine % dvoyurodnyî brat
 Oncle % dyadya
@@ -931,23 +909,10 @@ Nièce % plyemyannitsa
 Petit-fils % vnouk
 Petite-fille % vnouchka
 
-Vache % korova
-Cheval % loshad'
-Poisson % ryba
-Cochon % svin'ya
-Cochonne % shlyukha
-Mouton % ovtsa
-Poule % kouritsa
 
-Sel % sol'
+
+
 Poivre % pyeryets
-Riz % ris
-Sauce % soous
-Sucre % sakhar
-Jus % sok
-Huile % maslo
-Ail % chyesnok
-
 Jambon % vyetchina
 Beurre % maslo
 Thé % chaî
@@ -970,32 +935,21 @@ Tomate % pomidor
 Salade % salat
 Oignon % louk
 Pomme de terre % kartofyel'
-Maïs % no
 Haricot % fasol'
 Courgette % tsoukkini
+
+
+
 
 Sortie % vykhod
 Entrée % vkhod
 Route % doroga
-Voiture % mashina
-Cours % kours
-Amour % lyubov'
 Soleil % solntsye
+Ciel % nyebo
 Ville % gorod
 Magasin % magazin
 Plage % plyaj
 
-
-
-
-
-
-
-
-
-
-
-Livre % kniga
 Sac % soumka
 Pluie % dojd'
 Mer % morye
@@ -1019,7 +973,6 @@ T-shirt % foutbolka
 Lunettes % ochki
 Bouteille % boutylka
 Nuage % oblako
-Ciel % nyebo
 Restaurant % ryestoran
 Bras % rouka
 
@@ -1043,11 +996,23 @@ Salon % gostinaya
 Pharmacie % aptyeka
 Hôpital % bol'nitsa
 
+Repas % yeda
+Lit % krovat'
+Alphabet % alfavit
+Photographie % fotografiya
+Vidéo % vidyeo
+Vérité % pravda
+Mensonge % loj'
+
+Film % fil'm
+Lumière % svyet
+Feu % ogon'
+Mot % slovo
+Lettre (alphabet) % pis'mo
 
 Langue % yazyk
 Musée % mouzyeî
 Coeur % syerdtsye
-Sport % sport
 Point % tochka
 Point d'interrogation % znak voprosa
 Point d'exclamation % vosklitsatyel'nyî znak
@@ -1076,10 +1041,7 @@ Automne % osyen'
 Hiver % zima
 Printemps % vyesna
 Groupe/Bande % grouppa
-Chance % shans
-Choix % vybor
 
-Lieu % myesto
 Peur % strakh
 Idée % idyeya
 Animal % jivotnoye
@@ -1107,7 +1069,6 @@ Douche % doush
 Pièce (part) % kousok
 Tâche % pyatno
 Client % kliyent
-Cliente % kliyent
 Analyse % analiz
 Milieu % syeryedina
 Équipe % komanda
@@ -1120,7 +1081,6 @@ Conséquence % poslyedstviye
 Avion % samolyet
 Bateau % lodka
 Train % tryenirovat'sya
-Drapeau % flag
 Trou % dyra
 Papier % boumaga
 Virage % povyernout'
@@ -1173,7 +1133,6 @@ Sujet % pryedmyet
 Roi % korol'
 Reine % korolyeva
 Voisin % sosyed
-Voisine % sosyed
 Nature % priroda
 Beauté % krasota
 Église % tsyerkov'
@@ -1216,10 +1175,7 @@ Objet % ob"yekt
 Responsable % otvyetstvyennyî
 
 Doute % somnyevat'sya
-Blessure (bobo) % rana
-Blessure (grave) % rana
-Gamin (méchant) % ryebyenok
-Gamin (normal) % ryebyenok
+Blessure % rana
 Mec/Bro % chouvak / bratan
 Stade % stadion
 Glace (ice) % lyed
@@ -1345,10 +1301,8 @@ Habitude % privychka
 Midi % poldyen'
 Minuit % polnoch'
 Voleur % vor
-Voleuse % vor
 
-Échelle (ladder) % lyestnitsa
-Échelle (scale) % lyestnitsa
+Échelle % lyestnitsa
 Collection % kollyektsiya
 Charisme % kharizma
 Couronnne % korona

@@ -98,6 +98,11 @@ Grand-père % dyedoushka
 Grand-mère % baboushka
 Ami % droug
 Amie % podrouga
+Homme % moujchina
+Garçon (genre) % mujskoy
+Femme % jyenshshiny
+Fille (genre) % jyenskiy
+Enfant % ryebyenok
 
 Bonjour % zdravstvouîtye
 Salut % privyet
@@ -203,6 +208,12 @@ Dormir % spat'
 Payer % platit'
 Écrire % napisat'
 Lire % chitat'
+Comprendre % ponyat'
+Montrer % pokazat'
+Oublier % zabyvat'
+Vivre % jit'
+Jouer % igrat'
+Mentir % loj'
 
 Beau % krasivyî
 Belle % krasivaya
@@ -221,6 +232,8 @@ Mauvais % plokhoî
 Mauvaise % plokhaya
 Difficile (M) % troudnyî
 Difficile (F) % troudnaya
+Meilleur(e) % louchshiî
+Pire % khoudshiî
 
 Petit-déjeuner % zavtrak
 Déjeuner % obyed
@@ -232,10 +245,20 @@ Lait % moloko
 Viande % myaso
 Fromage % syr
 Banane % banan
+Sel % sol'
+Riz % ris
+Sauce % soous
+Sucre % sakhar
+Jus % sok
+Huile % maslo
 
 Chien % sobaka
 Chat % koshka
 Oiseau % ptitsa
+Vache % korova
+Cheval % loshad'
+Poisson % ryba
+Poule % kouritsa
 
 Pays % strana
 Russie % rossiya
@@ -250,3 +273,14 @@ Téléphone % tyelyefon
 Maison % dom
 Dieu % bog
 École % shkola
+Livre % kniga
+Voiture % mashina
+Cours % kours
+Amour % lyubov'
+Médecin % doktor
+Façon % sposob
+Sport % sport
+Chance % shans
+Choix % vybor
+Lieu % myesto
+Drapeau % flag

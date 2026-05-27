@@ -1,3 +1,18 @@
+Matin % outro
+Après-midi % poldyen'
+Soir % vyechyer
+Nuit % noch'
+Seconde % vtoroî
+Minute % minouta
+Heure % chas
+
+
+Bus % avtobous
+Yeux % glaza
+
+
+
+
 
 
 

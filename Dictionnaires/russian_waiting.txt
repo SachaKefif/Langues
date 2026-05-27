@@ -74,7 +74,7 @@ Te (Pronom Réfléchi) % ty
 Se (Pronom Réfléchi) % sye
 Le (Pronom Réfléchi) % to
 La (Pronom Réfléchi) % tam
-Les 
+Les ()
 Nous (Pronom Réfléchi) % my
 Vous (Pronom Réfléchi) % ty
 
@@ -90,14 +90,6 @@ Elles-mêmes % sami syebya
 Penis % khouî
 Vagin % pîzda
 Baiser % yebat'
-
-Matin % outro
-Après-midi % poldyen'
-Soir % vyechyer
-Nuit % noch'
-Seconde % vtoroî
-Minute % minouta
-Heure % chas
 
 Fois % vryemya
 Temps % vryemya
@@ -151,7 +143,6 @@ Trop % slishkom
 Pas assez % nyedostatochno
 Assez % dostatochno
 
-À partir de % ot
 Personne (nobody) % chyelovyek
 Personne (somebody) % chyelovyek
 Comme ça % vot tak
@@ -550,6 +541,17 @@ Ronfler % khrap
 Péter % pyerdyet'
 Inviter % priglashat'
 Se demander % oudivlyat'sya
+
+
+
+
+
+
+
+
+
+
+
 
 Moche (M) % ourodlivyî
 Moche (F) % ourodlivyî
@@ -986,9 +988,7 @@ Cahier % bloknot
 Montre % smotryet'
 
 Piscine % bassyeîn
-Bus % avtobous
 Marché % khodit'
-Yeux % glaza
 Chambre % spal'nya
 Salle de bain % vannaya komnata
 Cuisine % koukhnya
@@ -1057,11 +1057,9 @@ Nord % syevyer
 Sud % yug
 Est (direction) % vostok
 Ouest % zapad
-Les deux (both) (M) % oba
-Les deux (both) (F) % oba
+Les deux (both) % oba
 Histoire % istoriya
-Propriétaire (M) % vladyelyets
-Propriétaire (F) % vladyelyets
+Propriétaire % vladyelyets
 Espace % kosmos
 Étoile % zvyezda
 
@@ -1110,10 +1108,8 @@ Camion % grouzovik
 Professeur % ouchityel'
 Professeure % profyessor
 Peau % koja
-Élève (M) % ouchyenik
-Élève (F) % ouchyenik
+Élève % ouchyenik
 Étudiant % stoudyent
-Étudiante % stoudyent
 Cerveau % mozg
 Dent % zoub
 
@@ -1288,8 +1284,7 @@ Intérêt % intyeryes
 Respect % ouvajat'
 Opportunité % vozmojnost'
 Guerre % voîna
-Ministre (M) % ministr
-Ministre (F) % ministr
+Ministre % ministr
 
 Président % pryezidyent
 Politique % politika
@@ -1368,8 +1363,7 @@ Siège % sidyen'ye
 Angoisse % toska
 Collier % ojyeryel'ye
 Boucle % pyetlya
-Casque (moto) % shlyem
-Casque (musique) % shlyem
+Casque % shlyem
 Passion % strast'
 Talent % talant
 Possession % vladyeniye

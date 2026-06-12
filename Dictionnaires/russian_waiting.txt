@@ -2,26 +2,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 11 % odinnadtsat'
 12 % dvyenadtsat'
 13 % trinadtsat'
@@ -1360,9 +1340,6 @@ Magie % magiya
 
 Parents % rodityeli
 Siège % sidyen'ye
-Angoisse % toska
-Collier % ojyeryel'ye
-Boucle % pyetlya
 Casque % shlyem
 Passion % strast'
 Talent % talant
@@ -1372,10 +1349,8 @@ Défi % ispytaniye
 Folie % byezoumiye
 Jeunesse % molodost'
 Dragon % drakon
-Cinglé % soumasshyedshiî
 Esprit % doukh
 Ennemi % vrag
-Sanction % sanktsiya
 Imagination % voobrajyeniye
 Incendie % ogon'
 Absence % otsoutstviye
@@ -1389,7 +1364,6 @@ Expérience % opyt
 Coffre % groud'
 Nid % gnyezdo
 Addiction % zavisimost'
-Feu (signalisation) % ogon'
 Fenêtre % okno
 Urgence % chryezvychaînaya sitouatsiya
 
@@ -1401,7 +1375,6 @@ Critique % kritichyeskiî
 Génie % gyeniî
 Tour de magie % volshyebnyî tryuk
 Trahison % izmyena
-Admiration % voskhishshyeniye
 Statue % statouya
 Distance % rasstoyaniye
 
@@ -1411,20 +1384,14 @@ Chapeau % shlyapa
 Casquette % kyepka
 Veste % kourtka
 Tasse % chashka
-Sieste % vzdryemnout'
 Prince % prints
 Princesse % printsyessa
-Tour (bâtiment) % krouglyî
 Monde % mir
 
-Corne % rog
-Restriction % ogranichyeniye
-Horaire % yejyechasno
 Hypocrisie % litsyemyeriye
 Graine % syemya
 Racine % koryen'
 Célébration % prazdnik
-Blessé (émotionnel) % povryedit'
 Spectacle % pokazyvat'
 
 Jalousie % ryevnost'

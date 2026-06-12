@@ -158,18 +158,15 @@ Il faut % nado
 En % v
 Chez % k
 Par % po
+Pendant que % poka
+Aucun(e) % nikto
 Gauche % lyevyî
 Droite % vyerno
-Pendant que % poka
-Déjà % oujye
 Rien % nichyego
 Pourquoi % za chto
 Parce que % potomou chto
 Encore % snova
-Même % dajye
-Presque % pochti
 À % imyeyet
-Aucun(e) % nikto
 
 Tic de language (genre) % tipo
 Va te faire foutre % idi na khouî
@@ -198,22 +195,16 @@ Aimer % lyubit'
 Prendre % brat'
 Dire % skazat'
 Attendre % jdat'
-Venir % prikhodit'
-Voir % vidyet'
 Ouvrir % otkryt'
 Fermer % zakryvat'
 Acheter % koupit'
-Vendre % prodavat'
-Dormir % spat'
-Payer % platit'
 Écrire % napisat'
 Lire % chitat'
-Comprendre % ponyat'
-Montrer % pokazat'
-Oublier % zabyvat'
 Vivre % jit'
 Jouer % igrat'
 Mentir % loj'
+Dormir % spat'
+Payer % platit'
 
 Beau % krasivyî
 Belle % krasivaya
@@ -223,6 +214,8 @@ Petit % malyen'kiî
 Petite % malyen'kaya
 Facile (M) % lyogkiî
 Facile (F) % lyogkaya
+Difficile (M) % troudnyî
+Difficile (F) % troudnaya
 Heureux % schastlivyî
 Heureuse % schastlivaya
 Bon % khoroshiî
@@ -230,10 +223,6 @@ Bonne % khoroshaya
 Bien % khorosho
 Mauvais % plokhoî
 Mauvaise % plokhaya
-Difficile (M) % troudnyî
-Difficile (F) % troudnaya
-Meilleur(e) % louchshiî
-Pire % khoudshiî
 
 Petit-déjeuner % zavtrak
 Déjeuner % obyed
@@ -280,7 +269,5 @@ Amour % lyubov'
 Médecin % doktor
 Façon % sposob
 Sport % sport
-Chance % shans
-Choix % vybor
-Lieu % myesto
 Drapeau % flag
+Chance % shans

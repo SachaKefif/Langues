@@ -1,8 +1,16 @@
+Déjà % oujye
+Même % dajye
+Presque % pochti
 
+Vendre % prodavat'
+Venir % prikhodit'
+Voir % vidyet'
+Comprendre % ponyat'
+Montrer % pokazat'
+Oublier % zabyvat'
 
+Meilleur(e) % louchshiî
+Pire % khoudshiî
 
-
-
-
-
-
+Choix % vybor
+Lieu % myesto

@@ -60,7 +60,7 @@ const verbesIrreguliers = [
     "soglachat'sya", "dvigat'sya"
 ];
 
-const temps = ["présent", "passé", "gérondif"];
+const temps = ["présent", "passé", "futur"];
 const pronoms = ["ya", "ty", "on/ona", "my", "vy", "oni"];
 const genresPasse = ["Masculin (Ya/Ty/On)", "Féminin (Ya/Ty/Ona)", "Neutre (Ono)", "Pluriel (My/Vy/Oni)"];
 const genresParticipe = ["Masculin", "Féminin", "Neutre", "Pluriel"];
@@ -193,7 +193,38 @@ const irregulierConj = {
     }
 };
 
+const auxiliaireFutur = ["boudou", "boudyech'", "boudyet", "boudyem", "boudyetye", "boudout"];
+
+// Verbes perfectifs connus : leur futur se forme comme le présent.
+const verbesPerfectifs = new Set([
+    "poloutchit'",
+    "sprosit'"
+]);
+
 // ============== CONJUGATION FUNCTION ==============
+function enleverTFinal(infinitif) {
+    if (infinitif.endsWith("t'sya")) return { radical: infinitif.slice(0, -5), reflexif: true };
+    if (infinitif.endsWith("t'")) return { radical: infinitif.slice(0, -2), reflexif: false };
+    return { radical: infinitif, reflexif: false };
+}
+
+function suffixeReflexif(reflexif, pronomIndex) {
+    if (!reflexif) return "";
+    return pronomIndex === 2 || pronomIndex === 5 ? "sya" : "s'";
+}
+
+function conjuguerPresentRegulier(typeVerbe, pronomIndex, radical, reflexif) {
+    return radical + terminaisons[typeVerbe]["présent"][pronomIndex] + suffixeReflexif(reflexif, pronomIndex);
+}
+
+function conjuguerFuturRegulier(verbe, typeVerbe, pronomIndex, radical, reflexif) {
+    if (verbesPerfectifs.has(verbe)) {
+        return conjuguerPresentRegulier(typeVerbe, pronomIndex, radical, reflexif);
+    }
+
+    return `${auxiliaireFutur[pronomIndex]} ${verbe}`;
+}
+
 function conjuguerVerbe(verbe, pronomIndex, tempsChoisi, genreIndex = null) {
     const idxGenre = (tempsChoisi === "passé" || tempsChoisi === "participe passé") && genreIndex !== null ? genreIndex : pronomIndex;
 
@@ -213,17 +244,15 @@ function conjuguerVerbe(verbe, pronomIndex, tempsChoisi, genreIndex = null) {
     else if (verbes2emeConj.includes(verbe)) typeVerbe = "2eme";
     else return verbe;
 
-    let radical;
-    if (verbe.endsWith("at'") || verbe.endsWith("it'") || verbe.endsWith("et'")) radical = verbe.slice(0, -3);
-    else if (verbe.endsWith("t'")) radical = verbe.slice(0, -2);
-    else radical = verbe;
+    const { radical, reflexif } = enleverTFinal(verbe);
 
     if (tempsChoisi === "participe passé") return radical + terminaisons[typeVerbe][tempsChoisi][idxGenre];
     if (tempsChoisi === "gérondif") return radical + terminaisons[typeVerbe][tempsChoisi][0];
     if (tempsChoisi === "impératif" && pronomIndex === 0) return "Forme inexistante à l'impératif";
     if (tempsChoisi === "passé") {
-        const radPasse = verbe.endsWith("t'") ? verbe.slice(0, -2) : radical;
-        return radPasse + terminaisons[typeVerbe][tempsChoisi][idxGenre];
+        return radical + terminaisons[typeVerbe][tempsChoisi][idxGenre];
     }
-    return radical + terminaisons[typeVerbe][tempsChoisi][pronomIndex];
+    if (tempsChoisi === "futur") return conjuguerFuturRegulier(verbe, typeVerbe, pronomIndex, radical, reflexif);
+    if (tempsChoisi === "présent") return conjuguerPresentRegulier(typeVerbe, pronomIndex, radical, reflexif);
+    return verbe;
 }

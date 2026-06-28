@@ -228,6 +228,189 @@ Armoire % boufyet
 Frigo % kholodil'nik
 Propriétaire % vladyelyets
 Virage % povyernout'
+Couteau % noj
+Fourchette % vilka
+Odeur % zapakh
+Sens % smysl
+Vue % vid
+Odorat % zapakh
+Toucher (sens) % prikosnout'sya
+Goût % vkous
+Ouïe % sloukh
+Jardin % sad
+Camion % grouzovik
+Avantage % pryeimoushshyestvo
+Poids % massa
+Occupation % zanyatiye
+Hésitation % kolyebaniye
+Émotion % emotsii
+Bougie % svyecha
+Poudre % poudra
+Terrain % zyemlya
+Confiance % dovyeryat'
+Conclusion % zaklyuchyeniye
+Touriste % touristichyeskiî
+Sac à dos % ryukzak
+Responsable % otvyetstvyennyî
+Doute % somnyevat'sya
+Glace (ice) % lyed
+Espoir % nadyeyat'sya
+Pause % pyeryeryv
+Dessert % dyesyert
+Voeu % jyelaniye
+Verre % styeklo
+Voyage % poutyeshyestviye
+Éducation % obrazovaniye
+Match % sootvyetstvovat'
+Serviette % polotyentsye
+Piège % lovoushka
+Corde % vyeryevka
+Usine % fabrika
+Escalier % lyestnitsa
+Ascenseur % lift
+Gomme % lastik
+Chute % padat'
+Comportement % povyedyeniye
+Sucette % lyedyenyets
+Gorgée (d'eau) % glotok
+Flèche (pour panneau) % stryelka
+Chaussette % nosok
+Réseau % syet'
+Stress % stryess
+Visage % litso
+Os % kost'
+Muscle % myshtsy
+Vague (wave) % volna
+Conversation % byesyeda
+Réunion % vstryecha
+Succès % ouspyekh
+Gossip % sloukh
+Cas (case) % slouchaî
+Accident % nyeschastnyî slouchaî
+Condition % sostoyaniye
+Brosse à dents % zoubnaya shshyetka
+Dentifrice % zoubnaya pasta
+Prison % tyur'ma
+Supporter (fan) % poddyerjivat'
+Air % vozdoukh
+Paysage % pyeîzaj
+Honte % styd
+Conseil % sovyet
+Plaisir % oudovol'stviye
+Pitié % jalost'
+Proie % dobycha
+Prédateur % khishshnik
+Cash % nalichnyye
+Arbitre (foot) % arbitr
+Poubelle % mousornyî bak
+Déchet % naprasno tratit'
+Publicité % ryeklama
+Information % informatsiya
+Définition % opryedyelyeniye
+Organisation % organizatsiya
+Description % opisaniye
+Réalité % ryeal'nost'
+Motivation % motivatsiya
+Journal % gazyeta
+Dos (corps) % nazad
+Avancement % prodvijyeniye
+Détail % dyetal'
+Intérêt % intyeryes
+Respect % ouvajat'
+Valeur % tsyenit'
+Fumée % dym
+Habitude % privychka
+Remboursement % vozvrashshat' dyen'gi
+Voix (voice) % golos
+Arnaque % moshyennichyestvo
+Arnaqueur % moshyennik
+Câlin % priyatnyî
+Échelle % lyestnitsa
+Collection % kollyektsiya
+Charisme % kharizma
+Trésor % sokrovishshye
+Arme % vooroujyen
+Épée % myech
+Tir % vystryelil
+Opération % opyeratsiya
+Bijou % dragotsyennost'
+Trésor % sokrovishshye
+Arme % vooroujyen
+Épée % myech
+Tir % vystryelil
+Opération % opyeratsiya
+Bijou % dragotsyennost'
+Pouvoir (power) % vlast'
+Manifestation % dyemonstratsiya
+Devoir (homework) % dolg
+Lac % ozyero
+Noël % rojdyestvo
+Bouton % knopka
+Avant hier % do vchyerashnyego dnya
+Après demain % poslye zavtra
+Pompier % pojarnyî
+Policier % politsyeîskiî
+Culture % koul'toura
+Recette % ryetsyept
+Ventre % jivot
+Gueule de bois % pokhmyel'ye
+Trajet % marshrout
+Couronnne % korona
+Herbe % trava
+Couloir % koridor
+Poche % otvarnoî
+Pouce % bol'shoî palyets
+Noeud % ouzyel
+Cou % shyeya
+Magie % magiya
+Siège % sidyen'ye
+Casque % shlyem
+Passion % strast'
+Talent % talant
+Possession % vladyeniye
+Défi % ispytaniye
+Folie % byezoumiye
+Jeunesse % molodost'
+Dragon % drakon
+Ennemi % vrag
+Imagination % voobrajyeniye
+Incendie % ogon'
+Absence % otsoutstviye
+Commerce % torgovlya
+
+Honneur % chyest'
+Foyer % ochag
+Armure % bronya
+Garage % garaj
+Expérience % opyt
+Coffre % groud'
+Nid % gnyezdo
+Addiction % zavisimost'
+Urgence % chryezvychaînaya sitouatsiya
+Génération % pokolyeniye
+Feu d'artifice % fyeîyervyerk
+Victoire % pobyeda
+Critique % kritichyeskiî
+Tour de magie % volshyebnyî tryuk
+Trahison % izmyena
+Trône % tron
+Chapeau % shlyapa
+Casquette % kyepka
+Veste % kourtka
+Tasse % chashka
+Prince % prints
+Princesse % printsyessa
+Hypocrisie % litsyemyeriye
+Graine % syemya
+Racine % koryen'
+Célébration % prazdnik
+Spectacle % pokazyvat'
+Jalousie % ryevnost'
+Humour % yumor
+Gros mot % rougannoye slovo
+Autoroute % shossye
+Bombe % bombit'
+Recherche % isslyedovat'
 
 
 

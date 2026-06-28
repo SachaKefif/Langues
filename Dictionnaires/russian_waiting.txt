@@ -9,7 +9,8 @@
 
 Montrer % pokazat'
 Oublier % zabyvat'
-
+Midi % poldyen'
+Minuit % polnoch'
 
 
 11 % odinnadtsat'
@@ -704,6 +705,7 @@ Tomate % pomidor
 Salade % salat
 Oignon % louk
 Pomme de terre % kartofyel'
+Miel % myed
 
 Soleil % solntsye
 Lune % louna
@@ -740,6 +742,10 @@ Pied % stoupnya
 Doigt % palyets
 Sein % groud'
 Cheveux % volosy
+Peau % koja
+Cerveau % mozg
+Dent % zoub
+Corps % tyelo
 Douleur % bol'
 Prix % tsyena
 Question % vopros
@@ -811,39 +817,18 @@ Train % tryenirovat'sya
 Trou % dyra
 Papier % boumaga
 Anniversaire % dyen' rojdyeniya
-
-Couteau % noj
-Fourchette % vilka
-Odeur % zapakh
-Sens % smysl
-Vue % vid
-Odorat % zapakh
-Toucher (sens) % prikosnout'sya
-Goût % vkous
-Ouïe % sloukh
-Village (indigène) % dyeryevnya
-Village (urbain) % dyeryevnya
-
+Village % dyeryevnya
 Problème % problyema
 Solution % ryeshyeniye
 Nouvelle (news) % novyî
 Chaise % stoul
 Cadeau % podarok
-
-Jardin % sad
-Camion % grouzovik
-Professeur % ouchityel'
-Professeure % profyessor
-Peau % koja
+Professeur % pryepodavatyel'
+Professeure % pryepodavatyel'nitsa
 Élève % ouchyenik
 Étudiant % stoudyent
-Cerveau % mozg
-Dent % zoub
-
 Cauchemar % koshmar
 Dessin % risounok
-Avantage % pryeimoushshyestvo
-Poids % massa
 Vitesse % skorost'
 Taille % razmyer
 Passé % prokhodit'
@@ -851,7 +836,6 @@ Présent % zdyes'
 Futur % boudoushshyeye
 Bagarre % drat'sya
 Paix % mir
-
 Sujet % pryedmyet
 Roi % korol'
 Reine % korolyeva
@@ -859,290 +843,89 @@ Voisin % sosyed
 Nature % priroda
 Beauté % krasota
 Église % tsyerkov'
-Champ % polye
 Raison % prichina
-Occupation % zanyatiye
-
+Champ % polye
 Bruit % shoum
-Hésitation % kolyebaniye
-Émotion % emotsii
-Bougie % svyecha
 Outil % instroumyent
 Or (gold) % zoloto
 Chemin % pout'
 Étage % pol
 Moment % momyent
-
 Adresse % adryes
 Objectif % tsyel'
 Signal % signal
 Campagne (countryside) % kampaniya
-Poudre % poudra
-Blague (grosse blague) % shoutit'
-Blague (petite blague) % shoutit'
+Blague % shoutit'
 Surprise % syurpriz
 Entreprise % biznyes
 Immeuble % zdaniye
-Terrain % zyemlya
-
 Personnage % kharaktyer
-Confiance % dovyeryat'
-Touriste % touristichyeskiî
 Énergie % enyergiya
-Conclusion % zaklyuchyeniye
 Exemple % primyer
 Limite % limit
 Option % variant
-Sac à dos % ryukzak
 Objet % ob"yekt
-Responsable % otvyetstvyennyî
-
-Doute % somnyevat'sya
 Blessure % rana
-Mec/Bro % chouvak / bratan
+Mec/Bro (c) % chouvak
+Mec/Bro (b) % bratan
 Stade % stadion
-Glace (ice) % lyed
-Espoir % nadyeyat'sya
-Pause % pyeryeryv
-Dessert % dyesyert
-
-Voeu % jyelaniye
-Verre % styeklo
-Voyage % poutyeshyestviye
 Niveau % ourovyen'
 Vacance % vakansiya
-Éducation % obrazovaniye
 Bisou % tsyelovat'
-Miel % myed
 Vie % jizn'
-Match % sootvyetstvovat'
-Serviette % polotyentsye
-
-Piège % lovoushka
-Corde % vyeryevka
-Usine % fabrika
 Action % dyeîstviye
-Escalier % lyestnitsa
-Ascenseur % lift
-Gomme % lastik
-Corps % tyelo
-Chute % padat'
-Comportement % povyedyeniye
 Neige % snyeg
-
-Sucette % lyedyenyets
-Gorgée (d'eau) % glotok
-Flèche (pour panneau) % stryelka
-Chaussette % nosok
-Réseau % syet'
-Stress % stryess
 Bande déssinée % komiks
-Vague (wave) % volna
-Visage % litso
-Os % kost'
-Muscle % myshtsy
-
-Conversation % byesyeda
-Réunion % vstryecha
-Succès % ouspyekh
-Gossip % sloukh
-Cas (case) % slouchaî
-Accident % nyeschastnyî slouchaî
-Condition % sostoyaniye
-Planète % planyeta
-Brosse à dents % zoubnaya shshyetka
-Dentifrice % zoubnaya pasta
-Prison % tyur'ma
-
 Erreur % oshibka
+Planète % planyeta
 Maladie % bolyezn'
 Science % naouka
-Supporter (fan) % poddyerjivat'
-Air % vozdoukh
-Paysage % pyeîzaj
 Humain % chyelovyek
 Humanité % chyelovyechyestvo
 Nourriture % yeda
 Boisson % napitok
-
-Honte % styd
-Conseil % sovyet
-Plaisir % oudovol'stviye
-Pitié % jalost'
 Quantité % kolichyestvo
 Risque % risk
 Récompense % nagrada
-Proie % dobycha
-Prédateur % khishshnik
-Alphabet % alfavit
 Art % iskousstvo
-
 Alcool % alkogol'
-Cash % nalichnyye
 Accent % aktsyent
-Arbitre (foot) % arbitr
-Poubelle % mousornyî bak
-Déchet % naprasno tratit'
-Publicité % ryeklama
-Information % informatsiya
 Liste % spisok
 Paradis % nyebyesa
 Enfer % ad
-
-Définition % opryedyelyeniye
-Organisation % organizatsiya
-Description % opisaniye
 Guide % gid
 Transport % transport
 Éléctricité % elyektrichyestvo
-Réalité % ryeal'nost'
-Motivation % motivatsiya
-Journal % gazyeta
-Carte (card) % karta
-Carte (map) % karta
-
-Dos (corps) % nazad
+Carte % karta
 Internet % intyernyet
 Bébé % malysh
-Avancement % prodvijyeniye
-Détail % dyetal'
-Intérêt % intyeryes
-Respect % ouvajat'
 Opportunité % vozmojnost'
 Guerre % voîna
 Ministre % ministr
-
 Président % pryezidyent
 Politique % politika
 Origine % istochnik
-Avis / Opinion % obzor / mnyeniye
-Valeur % tsyenit'
-Fumée % dym
-Habitude % privychka
-Midi % poldyen'
-Minuit % polnoch'
+Avis % obzor
+Opinion % mnyeniye
 Voleur % vor
-
-Échelle % lyestnitsa
-Collection % kollyektsiya
-Charisme % kharizma
-Couronnne % korona
-Trésor % sokrovishshye
-Arme % vooroujyen
-Épée % myech
-Tir % vystryelil
-Opération % opyeratsiya
-Bijou % dragotsyennost'
-
-Voix (voice) % golos
-Arnaque % moshyennichyestvo
-Arnaqueur % moshyennik
-Câlin % priyatnyî
 Code % kod
-Domaine % domyen
-Taux % stavka
-Bordel (mess) % byesporyadok
-Indice (hint) % namyekat'
-Examen % ekzamyen
 Étape % etap
-
-Remboursement % vozvrashshat' dyen'gi
-Pouvoir (power) % vlast'
-Manifestation % dyemonstratsiya
-Trajet % marshrout
-Devoir (homework) % dolg
-Lac % ozyero
-Noël % rojdyestvo
-Bouton % knopka
-Avant hier % do vchyerashnyego dnya
-Après demain % poslye zavtra
-Pompier % pojarnyî
-
-Policier % politsyeîskiî
 Police % politsiya
-Culture % koul'toura
-Recette % ryetsyept
-Ventre % jivot
 Loi % zakon
 Avocat (lawyer) % advokat
-Boule % myach
-Ballon % myach
-
+Boule/Ballon % myach
 Carré % kvadrat
 Triangle % tryeougol'nik
 Cercle % kroug
-Gueule de bois % pokhmyel'ye
 Bois % napitok
-
-Herbe % trava
-Couloir % koridor
-Poche % otvarnoî
-Pouce % bol'shoî palyets
-Noeud % ouzyel
-Cou % shyeya
 Moustache % ousy
 Barbe % boroda
-Magie % magiya
-
 Parents % rodityeli
-Siège % sidyen'ye
-Casque % shlyem
-Passion % strast'
-Talent % talant
-Possession % vladyeniye
-Défi % ispytaniye
-
-Folie % byezoumiye
-Jeunesse % molodost'
-Dragon % drakon
 Esprit % doukh
-Ennemi % vrag
-Imagination % voobrajyeniye
-Incendie % ogon'
-Absence % otsoutstviye
-Commerce % torgovlya
-
-Honneur % chyest'
-Foyer % ochag
-Armure % bronya
-Garage % garaj
-Expérience % opyt
-Coffre % groud'
-Nid % gnyezdo
-Addiction % zavisimost'
 Fenêtre % okno
-Urgence % chryezvychaînaya sitouatsiya
-
-Génération % pokolyeniye
-Feu d'artifice % fyeîyervyerk
 Fête % vyechyerinka
-Victoire % pobyeda
-Critique % kritichyeskiî
 Génie % gyeniî
-Tour de magie % volshyebnyî tryuk
-Trahison % izmyena
 Statue % statouya
 Distance % rasstoyaniye
-
 Diplôme % diplom
-Trône % tron
-Chapeau % shlyapa
-Casquette % kyepka
-Veste % kourtka
-Tasse % chashka
-Prince % prints
-Princesse % printsyessa
 Monde % mir
-
-Hypocrisie % litsyemyeriye
-Graine % syemya
-Racine % koryen'
-Célébration % prazdnik
-Spectacle % pokazyvat'
-
-Jalousie % ryevnost'
-Humour % yumor
-Gros mot % rougannoye slovo
-Autoroute % shossye
-Bombe % bombit'
-Recherche % isslyedovat'

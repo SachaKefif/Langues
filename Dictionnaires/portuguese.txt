@@ -1237,7 +1237,6 @@ Pharmacie % farmácia
 Hôpital % hospital
 Médecin (M) % médico
 Médecin (F) % médica
-Alphabet % alfabeto
 Photographie % fotografia
 Vidéo % vídeo
 Langue % língua

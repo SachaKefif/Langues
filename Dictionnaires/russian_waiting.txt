@@ -1,18 +1,3 @@
-
-
-
-
-
-
-
-
-
-Montrer % pokazat'
-Oublier % zabyvat'
-Midi % poldyen'
-Minuit % polnoch'
-
-
 11 % odinnadtsat'
 12 % dvyenadtsat'
 13 % trinadtsat'
@@ -109,6 +94,7 @@ Devant % spyeryedi
 Derrière % pozadi
 Autre (M) % drougoî
 Autre (F) % drougaya
+Souvent % chasto
 Quelque chose (spécifique) % chto-to
 Quelque chose (hypothétique) % chto-niboud'
 Quelqu'un (spécifique) % kto-to
@@ -301,402 +287,171 @@ Rechercher % iskat'
 Afficher % otobrajat'
 Critiquer % kritikovat'
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Moche (M) % ourodlivyî
-Moche (F) % ourodlivyî
-Triste % groustno
+Moche (F) % ourodlivaya
+Triste (M) % groustnyî
+Triste (F) % groustnaya
 Chaud % goryachiî
+Chaude % goryachaya
 Froid % kholodnyî
-Froide % kholodnyî
-Reposé % otdokhnouvshiî
-Reposée % otdokhnouvshiî
-Fatigué % oustalost'
-Fatiguée % oustalyî
-
+Froide % kholodnaya
 Nouveau % novyî
-Nouvelle % novyî
-Ancien % dryevniî
-Ancienne % staryî
-Jeune % molodoî
+Nouvelle % novaya
+Ancien % staryî
+Ancienne % staraya
+Jeune (M) % molodoî
+Jeune (F) % molodaya
 Vieux % staryî
-Vieille % staryî
+Vieille % staraya
 Cher % dorogoî
-Chère % dorogoî
-Bon marché (M) % dyeshyevyî
-Bon marché (F) % dyeshyevyî
+Chère % dorogaya
+Bon marché (M) % dyeshyovyî
+Bon marché (F) % dyeshyovaya
 
-Propre (M) % sobstvyennyî
-Propre (F) % sobstvyennyî
+Propre (clean) (M) % chistyî
+Propre (clean) (F) % chistaya
 Sale (M) % gryaznyî
-Sale (F) % gryaznyî
+Sale (F) % gryaznaya
 Rapide (M) % bystryî
-Rapide (F) % bystryî
+Rapide (F) % bystraya
 Lent % myedlyennyî
-Lente % myedlyennyî
+Lente % myedlyennaya
 Gentil % dobryî
+Gentille % dobraya
 Méchant % zloî
-Méchante % zlo
-
+Méchante % zlaya
 Intelligent % oumnyî
+Intelligente % oumnaya
 Débile (M) % gloupyî
-Débile (F) % gloupyî
+Débile (F) % gloupaya
 Gros % tolstyî
-Grosse % tolstyî
+Grosse % tolstaya
+Maigre (M) % khoudoî
+Maigre (F) % khoudaya
 Riche (M) % bogatyî
-Riche (F) % bogatyî
-Pauvre % byednyî
-Possible % vozmojnyî
-
-Impossible % nyevozmojnyî
-Souvent % chasto
+Riche (F) % bogataya
+Pauvre (M) % byednyî
+Pauvre (F) % byednaya
+Possible (M) % vozmojnyî
+Possible (F) % vozmojnaya
+Impossible (M) % nyevozmojnyî
+Impossible (F) % nyevozmojnaya
 Rare (M) % ryedkiî
-Rare (F) % ryedkiî
+Rare (F) % ryedkaya
 Lourd % tyajyelyî
-Lourde % tyajyelyî
-Léger % svyet
-Légère % svyet
-Libre % byesplatno
-Obligatoire % obyazatyel'nyî
-
+Lourde % tyajyelaya
+Léger % lyokhkiî
+Légère % lyohkaya
 Plein % polnyî
-Pleine % polnyî
+Pleine % polnaya
 Vide (M) % poustoî
-Vide (F) % poustoî
+Vide (F) % poustaya
 Parfait % idyeal'nyî
-Parfaite % idyeal'nyî
-Incroyable % oudivityel'nyî
+Parfaite % idyeal'naya
+Incroyable (M) % nyevyeroyatnyî
+Incroyable (F) % nyevyeroyatnaya
 Drôle (M) % zabavnyî
-Drôle (F) % zabavnyî
-Sérieux % syer'yeznyî
-Sérieuse % syer'yeznyî
-
-Évident % ochyevidnyî
-Discret % sdyerjannyî
-Discrète % sdyerjannyî
+Drôle (F) % zabavnaya
+Sérieux % syer'yoznyî
+Sérieuse % syer'yoznaya
 Mignon % milyî
-Mignonne % milyî
+Mignonne % milaya
 Premier % pyervyî
-Première % pyervyî
+Première % pyervaya
 Dernier % poslyedniî
-Dernière % poslyedniî
-Calme (M) % spokoîstviye
-Calme (F) % spokoîstviye
-
+Dernière % poslyednyaya
 Long % dlinnyî
-Longue % dlinnyî
+Longue % dlinnaya
 Court % korotkiî
-Courte % korotkiî
-Spécial % osobyennyî
-Spéciale % osobyennyî
-Ordinaire % obychnyî
-Timide (M) % zastyenchivyî
-Timide (F) % zastyenchivyî
+Courte % korotkaya
 Prêt % gotovyî
-Prête % gotovyî
-
-Malade % bol'noî
-Malade % bol'noî
-Bourré (drunk) % p'yanyî
-Bourrée (drunk) % farshirovannyye
+Prête % gotovaya
+Malade (M) % bol'noî
+Malade (F) % bol'naya
+Bourré (drunk) (M) % p'yanyî
+Bourrée (drunk) (F) % p'yanaya
 Vrai % istinnyî
-Vraie % istinnyî
+Vraie % istinnaya
 Faux % fal'shivyî
-Fausse % loj'
+Fausse % fal'shivaya
 Fort % sil'nyî
-Forte % fortye
+Forte % sil'naya
 Faible (M) % slabyî
-Faible (F) % slabyî
-
-Généreux % shshyedryî
-Généreuse % shshyedryî
-Égoïste % egotsyentrichnyî
-Juste (fair) (M) % tol'ko
-Juste (fair) (F) % tol'ko
+Faible (F) % slabaya
+Juste (fair) (M) % spravyedlivyî
+Juste (fair) (F) % spravyedlivaya
 Injuste (M) % nyespravyedlivyî
-Injuste (F) % nyespravyedlivyî
-En avance (M) % zaranyeye
-En avance (F) % zaranyeye
-En retard (M) % pozdno
-En retard (F) % pozdno
-
-Seul % odin
-Seule % odin
-Clair % prozrachnyî
-Claire % prozrachnyî
-Sombre (M) % tyemnyî
-Sombre (F) % tyemnyî
-Précis % tochnyî
-Précise % tochnyî
-Imprécis % nyetochnyî
-Imprécise % nyeyasno
-
-Occupé % zanyatyî
-Occupée % zanyatyî
-Curieux % lyubopytnyî
-Curieuse % lyubopytnyî
-Curieuse % lyubopytnyî
+Injuste (F) % nyespravyedlivaya
+En avance (M) % ranniî
+En avance (F) % rannyaya
+En retard (M) % pozdniî
+En retard (F) % pozdnyaya
+Seul % odinokoî
+Seule % odinokaya
+Occupé % zanyatoî
+Occupée % zanyataya
 Intéressant % intyeryesnyî
-Intéressante % intyeryesnyî
-Ennuyeux % skouchnyî
-Ennuyeuse % skouchnyî
+Intéressante % intyeryesnaya
 Étrange (M) % strannyî
-Étrange (F) % strannyî
-
-Anxieux % tryevojnyî
-Anxieuse % tryevojnyî
+Étrange (F) % strannaya
 Normal % normal'nyî
-Normale % normal'nyî
-Original % original
-Originale % original
-Autorisé % dopoustimyî
-Autorisée % avtorizovannyî
-Interdit % zapryeshshyennyî
-Interdite % zapryeshshyennyî
-
+Normale % normal'naya
+Autorisé % razryeshyonnyî
+Autorisée % razryeshyonnaya
+Interdit % zapryeshshyonnyî
+Interdite % zapryeshshyonnaya
 Important % vajnyî
-Importante % vajnyî
-Capable % sposobnyî
-Incapable % nye mogoushshiî
-Soudain % vnyezapno
-Soudaine % vnyezapno
+Importante % vajnaya
 Vivant % jivoî
-Vivante % jivoî
-Mort (adj) % myertvyî
-Morte (adj) % myertvyî
-
-Maigre (M) % toshshiî
-Maigre (F) % toshshiî
-Blessé % povryedit'
-Blessée % ranyenyî
+Vivante % jivaya
+Mort % myortvyî
+Morte % myortvaya
+Blessé % ranyenyî
+Blessée % ranyenaya
 Excellent % otlichnyî
-Excellente % otlichnyî
-Chiant % outomityel'nyî
-Chiante % skouchnyî
-
-Sec % soukhoî
-Sèche % soushyenyî
-Mouillé % vlajnyî
-Mouillée % vlajnyî
-Entier % vyes'
-Entière % vyes'
-Certain % opryedyelyennyî
-Certaine % opryedyelyennyî
-Incertain % nyeopryedyelyennyî
-Incertaine % nyeopryedyelyennyî
-
-Fier % gordyî
-Fière % gordyî
-Deçu % rasstroyennyî
-Deçue % rasstroyennyî
-Principal % osnovnoî
-Principale % osnovnoî
-Réel % nastoyashshiî
-Réelle % nastoyashshiî
-Fictif % vymyshlyennyî
-Fictive % vymyshlyennyî
-
-Solide (M) % tvyerdyî
-Solide (F) % tvyerdyî
-Liquide (M) % jidkost'
-Liquide (F) % jidkost'
+Excellente % otlichnaya
+Chiant % byesyashshiî
+Chiante % byesyashshaya
+Entier % tsyelyî
+Entière % tsyelaya
+Principal % glavnyî
+Principale % glavnaya
 Dangeureux % opasnyî
-Dangeureuse % opasnyî
-Fou % byezoumnyî
-Folle % soumasshyedshiî
-Utile % polyeznyî
-Inutile % byespolyeznyî
-Nécessaire (M) % nyeobkhodimyî
-Nécessaire (F) % nyeobkhodimyî
-
-Infini % byeskonyechnost'
-Infinie % byeskonyechnyî
-Fini % zakonchyennyî
-Finie % zakonchyennyî
-Impressionnant % vpyechatlyayushshiî
-Impressionnante % vpyechatlyayushshiî
-Simple % prostoî
+Dangeureuse % opasnaya
+Fou % soumasshyedshiî
+Folle % soumasshyedshaya
+Utile (M) % polyeznyî
+Utile (F) % polyeznaya
+Inutile (M) % byespolyeznyî
+Inutile (F) % byespolyeznaya
+Simple (M) % prostoî
+Simple (F) % prostaya
 Compliqué % slojnyî
-Compliquée % slojnyî
-
-Stressant % stryessovyî
-Stressante % stryessovyî
-Basique (M) % bazovyî
-Basique (F) % bazovyî
-Complexe (M) % slojnyî
-Complexe (F) % slojnyî
-Moderne (M) % sovryemyennyî
-Moderne (F) % sovryemyennyî
-
-Neutre (M) % nyeîtral'nyî
-Neutre (F) % nyeîtral'nyî
-Raciste % rasist
-Frais % zatraty
-Fraîche % svyejiî
-Agréable % priyatnyî
+Compliquée % slojnaya
+Raciste (M) % rasistskiî
+Raciste (F) % rasistskaya
 Aléatoire (M) % slouchaînyî
-Aléatoire (F) % slouchaînyî
-
-Précieux % dragotsyennyî
-Précieuse % dragotsyennyî
-Grave % syer'yeznyî
-Honteux % stydyashshiîsya
-Honteuse % stydyashshiîsya
+Aléatoire (F) % slouchaînaya
 Doux % myagkiî
-Douce % nyejnyî
-Gênant % smoushshayushshiî
-Gênante % smoushshayushshiî
-
-Pair % vglyadyet'sya
-Paire % para
-Impair % strannyî
-Impaire % strannyî
+Douce % myagkaya
+Gênant % nyelovkiî
+Gênante % nyelovkaya
 Dégoûtant % otvratityel'nyî
-Dégoûtante % otvratityel'nyî
-Répugnant % otvratityel'nyî
-Répugnante % otvratityel'nyî
+Dégoûtante % otvratityel'naya
 National % natsional'nyî
-Nationale % natsional'nyî
+Nationale % natsional'naya
 International % myejdounarodnyî
-Internationale % myejdounarodnyî
-
-Ridicule (M) % nyelyepyî
-Ridicule (F) % nyelyepyî
-Mou % myagkiî
-Molle % myagkiî
-Dur % jyestkiî
-Dure % jyestkiî
-Automatique (M) % avtomatichyeskiî
-Automatique (F) % avtomatichyeskiî
-Manuel % roukovodstvo
-Manuelle % roukovodstvo
-
-Général % obshshiî
-Générale % obshshiî
-Privé % chastnyî
-Privée % chastnyî
-Public % aouditoriya
-Publique % obshshyestvyennyî
-Efficace % effyektivnyî
-Concentré % kontsyentrat
-Concentrée % kontsyentrirovannyî
-Déconcentré % dyetsyentralizovannyî
-Déconcentrée % dyetsyentralizovannyî
-
+Internationale % myejdounarodnaya
 Jaloux % ryevnivyî
-Jalouse % ryevnivyî
-Logique (M) % logika
-Logique (F) % logika
-Illogique (M) % nyelogichno
-Illogique (F) % nyelogichno
-À l'aise % nyeprinoujdyenno
-Mal à l'aise % nyeoudobno
+Jalouse % ryevnivaya
 Récent % nyedavniî
-Récente % nyedavniî
-Confortable % komfortnyî
-Inconfortable % nyeoudobno
-
-Actuel % tyekoushshiî
-Actuelle % tyekoushshiî
-Fascinant % ocharovatyel'nyî
-Fascinante % ocharovatyel'nyî
-Matériel % matyerial
-Matérielle % matyerial
-Imaginaire (M) % voobrajayemyî
-Imaginaire (F) % voobrajayemyî
-
-Ambitieux % ambitsioznyî
-Ambitieuse % ambitsioznyî
-Géant % gigant
-Géante % vyelikansha
-Nain % karlik
-Naine % karlik
-Commercial % kommyerchyeskiî
-Commerciale % kommyerchyeskiî
-
-Clair (obvious) % prozrachnyî
-Claire (obvious) % prozrachnyî
-Honnête (M) % chyestnyî
-Honnête (F) % chyestnyî
-Secret % syekryet
-Secrète % syekryet
-Enceinte % byeryemyennaya
-Absent % otsoutstvouyushshiî
-Absente % otsoutstvouyushshiî
-
+Récente % nyedavnyaya
+Évident % ochyevidnyî
+Évidente % ochyevidnaya
 Perdu % potyeryannyî
-Perdue % potyeryannyî
-Fameux/Connu % znamyenityî / izvyestnyî
-Fameuse/Connue % znamyenityî / izvyestnyî
-Spectaculaire % zryelishshnyî
-Comparable % sopostavimyî
-Incomparable % nyesravnyennyî
-
-Aveugle (M) % slyepoî
-Aveugle (F) % slyepoî
-Sourd % gloukhoî
-Sourde % gloukhoî
-Muet % nyemoî
-Muette % nyemoî
-
-Gourmand % gourman
-Gourmande % gourman
-Urgent % srochnyî
-Urgente % srochnyî
-Éternel % vyechnyî
-Éternelle % vyechnyî
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Perdue % potyeryannaya
+Fameux/Connu (M) % izvyestnyî
+Fameuse/Connue (F) % izvyestnaya
 
 Café % kofye
 Pâte % tyesto

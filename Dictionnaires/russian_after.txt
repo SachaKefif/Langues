@@ -166,27 +166,181 @@ Réunir % vossoyedinit'sya
 Déclarer % ob"yavit'
 Dépenser % tratit'
 
-
-
-
-
-
+Reposé % otdokhnouvshiî
+Reposée % otdokhnouvshaya
+Fatigué % oustavshiî
+Fatiguée % oustavshaya
 Prochain % slyedouyushshiî
 Prochaine % slyedouyushshaya
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Libre (M) % svobodnyî
+Libre (F) % svobodnaya
+Obligatoire (M) % obyazatyel'nyî
+Obligatoire (F) % obyazatyel'naya
+Discret % sdyerjannyî
+Discrète % sdyerjannaya
+Calme (M) % spokoînyî
+Calme (F) % spokoînaya
+Spécial % osobyennyî
+Spéciale % osobyennaya
+Ordinaire (M) % obychnyî
+Ordinaire (F) % obychnaya
+Timide (M) % zastyenchivyî
+Timide (F) % zastyenchivaya
+Généreux % shshyedryî
+Généreuse % shshyedraya
+Égoïste (M) % egoistichnyî
+Égoïste (F) % egoistichnaya
+Clair % yasnyî
+Claire % yasnaya
+Sombre (M) % tyomnyî
+Sombre (F) % tyomnaya
+Précis % tochnyî
+Précise % tochnaya
+Imprécis % nyetochnyî
+Imprécise % nyetochnaya
+Curieux % lyubopytnyî
+Curieuse % lyubopytnaya
+Ennuyeux % skouchnyî
+Ennuyeuse % skouchnaya
+Anxieux % tryevojnyî
+Anxieuse % tryevojnaya
+Original % original'nyî
+Originale % original'naya
+Capable (M) % sposobnyî
+Capable (F) % sposobnaya
+Incapable (M) % nyesposobnyî
+Incapable (F) % nyesposobnaya
+Soudain % vnyezapnyî
+Soudaine % vnyezapnaya
+Sec % soukhoî
+Sèche % soukhaya
+Mouillé % mokryî
+Mouillée % mokraya
+Certain % opryedyelyonnyî
+Certaine % opryedyelyonnaya
+Incertain % nyeopryedyelyonnyî
+Incertaine % nyeopryedyelyonnaya
+Fier % gordyî
+Fière % gordaya
+Deçu % razocharovannyî
+Deçue % razocharovannaya
+Réel % nastoyashshiî
+Réelle % nastoyashshaya
+Fictif % vymyshlyennyî
+Fictive % vymyshlyennaya
+Solide (M) % prochnyî
+Solide (F) % prochnaya
+Liquide (M) % jidkiî
+Liquide (F) % jidkaya
+Nécessaire (M) % nyeobkhodimyî
+Nécessaire (F) % nyeobkhodimaya
+Infini % byeskonyechnyî
+Infinie % byeskonyechnaya
+Fini % zakonchyennyî
+Finie % zakonchyennaya
+Impressionnant % vpyechatlyayushshiî
+Impressionnante % vpyechatlyayushshaya
+Stressant % stryessovyî
+Stressante % stryessovaya
+Basique (M) % bazovyî
+Basique (F) % bazovaya
+Complexe (M) % slojnyî
+Complexe (F) % slojnaya
+Moderne (M) % sovryemyennyî
+Moderne (F) % sovryemyennaya
+Neutre (M) % nyeîtral'nyî
+Neutre (F) % nyeîtral'naya
+Frais % svyejiî
+Fraîche % svyejaya
+Agréable (M) % priyatnyî
+Agréable (F) % priyatnaya
+Précieux % dragotsyennyî
+Précieuse % dragotsyennaya
+Grave (M) % syer'yoznyî
+Grave (F) % syer'yoznaya
+Honteux % postydnyî
+Honteuse % postydnaya
+Spectaculaire (M) % zryelishshnyî
+Spectaculaire (F) % zryelishshnaya
+Comparable (M) % sopostavimyî
+Comparable (F) % sopostavimaya
+Incomparable (M) % nyesravnyennyî
+Incomparable (F) % nyesravnyennaya
+Aveugle (M) % slyepoî
+Aveugle (F) % slyepaya
+Sourd % gloukhoî
+Sourde % gloukhaya
+Muet % nyemoî
+Muette % nyemaya
+Gourmand % gourmanskiî
+Gourmande % gourmanskaya
+Urgent % srochnyî
+Urgente % srochnaya
+Éternel % vyechnyî
+Éternelle % vyechnaya
+Pair % chyotnyî
+Paire % chyotnaya
+Impair % nyechyotnyî
+Impaire % nyechyotnaya
+Répugnant % otvratityel'nyî
+Répugnante % otvratityel'naya
+Ridicule (M) % nyelyepyî
+Ridicule (F) % nyelyepaya
+Mou % myagkiî
+Molle % myagkaya
+Dur % tvyordyî
+Dure % tvyordaya
+Automatique (M) % avtomatichyeskiî
+Automatique (F) % avtomatichyeskaya
+Manuel % rouchnoî
+Manuelle % rouchnaya
+Général % obshshiî
+Générale % obshshaya
+Privé % chastnyî
+Privée % chastnaya
+Public % obshshyestvyennyî
+Publique % obshshyestvyennaya
+Efficace (M) % effyektivnyî
+Efficace (F) % effyektivnaya
+Concentré % sosryedotochyennyî
+Concentrée % sosryedotochyennaya
+Déconcentré % rassyeyannyî
+Déconcentrée % rassyeyannaya
+Logique (M) % logichnyî
+Logique (F) % logichnaya
+Illogique (M) % nyelogichnyî
+Illogique (F) % nyelogichnaya
+À l'aise (M) % komfortnyî
+À l'aise (F) % komfortnaya
+Mal à l'aise (M) % nyelovkiî
+Mal à l'aise (F) % nyelovkaya
+Confortable (M) % komfortnyî
+Confortable (F) % komfortnaya
+Inconfortable (M) % nyeoudobnyî
+Inconfortable (F) % nyeoudobnaya
+Actuel % tyekoushshiî
+Actuelle % tyekoushshaya
+Fascinant % zakhvatyvayushshiî
+Fascinante % zakhvatyvayushshaya
+Matériel % matyerial'nyî
+Matérielle % matyerial'naya
+Imaginaire (M) % voobrajayemyî
+Imaginaire (F) % voobrajayemaya
+Ambitieux % ambitsioznyî
+Ambitieuse % ambitsioznaya
+Géant % gigantskiî
+Géante % gigantskaya
+Nain % karlikovyî
+Naine % karlikovaya
+Commercial % kommyerchyeskiî
+Commerciale % kommyerchyeskaya
+Honnête (M) % chyestnyî
+Honnête (F) % chyestnaya
+Secret % syekryetnyî
+Secrète % syekryetnaya
+Enceinte % byeryemyennaya
+Absent % otsoutstvouyushshiî
+Absente % otsoutstvouyushshaya
 
 Cousin % dvoyurodnyî brat
 Cousine % dvoyurodnyî brat
@@ -411,45 +565,3 @@ Gros mot % rougannoye slovo
 Autoroute % shossye
 Bombe % bombit'
 Recherche % isslyedovat'
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

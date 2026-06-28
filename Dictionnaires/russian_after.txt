@@ -1,3 +1,39 @@
+Moi (Pronom Tonique) % mnye
+Toi (Pronom Tonique) % ty
+Lui (Pronom Tonique) % yemou
+Elle (Pronom Tonique) % ona
+Nous (Pronom Tonique) % my
+Vous (Pronom Tonique) % ty
+Eux (Pronom Tonique) % ikh
+Elles (Pronom Tonique) % oni
+
+Me (Pronom Réfléchi) % mnye
+Te (Pronom Réfléchi) % ty
+Se (Pronom Réfléchi) % sye
+Le (Pronom Réfléchi) % to
+La (Pronom Réfléchi) % tam
+Les ()
+Nous (Pronom Réfléchi) % my
+Vous (Pronom Réfléchi) % ty
+
+Moi-même % sam
+Toi-même % sam
+Lui-même % sam
+Elle-même % syebya
+Nous-mêmes % my sami
+Vous-mêmes % sami
+Eux-mêmes % sami syebya
+Elles-mêmes % sami syebya
+
+Orange (M) % oranjyevyî
+Orange (F) % oranjyevaya
+Violet % fiolyetovyî
+Violette % fiolyetovaya
+Rose (M) % rozovyî
+Rose (F) % rozovaya
+Gris % syeryî
+Grise % syeraya
+
 Bon appétit % naslajdaîtyes' yedoî
 Au moins % po myen'shyeî myerye
 Au plus % maksimoum
@@ -20,6 +56,10 @@ C'est-à-dire % to yest'
 Malgré % nyesmotrya na
 Quelconque % lyuboî
 D'affilés % podryad
+À peine % yedva
+Plutôt que % skoryeye, chyem
+Autant que % stol'ko, skol'ko
+Attention (be careful) % ostorojno
 
 Passioner % ouvlyekat'
 Déchiffrer % rasshifrovat'
@@ -165,6 +205,73 @@ Retirer % otzyvat'
 Réunir % vossoyedinit'sya
 Déclarer % ob"yavit'
 Dépenser % tratit'
+Critiquer % kritikovat'
+Éteindre % vyklyuchat'
+Allumer % vklyuchat'
+Uriner % mochit'sya
+Autoriser % razryeshat'
+Interdire % zapryetit'
+Chuchoter % sheptat'
+Soulager % oblyegchit'
+Inventer % izobryetat'
+Suivre % slyedovat'
+Porter (to wear) % nosit'
+Se moquer % izdyevat'sya
+Voter % golosovat'
+Lâcher % otpoustit'
+Afficher % otobrajat'
+Prendre (une photo) % fotografirovat'
+Obtenir % polouchat'
+Galérer (to struggle) % ouchit'sya
+Remplacer % zamyenyat'
+Risquer % riskovat'
+Essayer % poprobovat'
+Organiser % organizovat'
+Revenir % vyernout'sya
+Protéger % zashshishshat'
+Promettre % obyeshshat'
+Préparer % podgotovit'
+Télécharger % skachat'
+Cacher % skryvat'
+Tenir % dyerjat'
+Créer % sozdavat'
+Déplacer % dvigat'sya
+Continuer % prodoljat'
+Partager % dyelit'sya
+Rêver % myechtat'
+Développer % razvivat'
+Comparer % sravnivat'
+Tricher % joulnichat'
+Copier % kopirovat'
+Ajouter % dobavlyat'
+Douter % somnyevat'sya
+Répéter % povtorit'
+Conduire % vodit'
+Paniquer % panikovat'
+Monter % podnyat'sya
+Descendre % spoustit'sya
+Intéresser % intyeryesovat'
+Cliquer % najat'
+Oser % osmyelit'sya
+Échouer % provalit'
+Profiter % naslajdat'sya
+Souffrir % stradat'
+S'entraîner % tryenirovat'sya
+Avancer % dvigat'sya
+Se battre % drat'sya
+Supprimer % oudalit'
+Ralentir % zamyedlit'
+Accélérer % ouskoryat'
+Agir % dyeîstvovat'
+Juger % soudit'
+Sauver % spasat'
+Sauter % prygat'
+Crier % krichat'
+Coller % kleyit'
+Découvrir % obnaroujit'
+Brûler % goryet'
+Voler % lyetat'
+Nager % plavat'
 
 Reposé % otdokhnouvshiî
 Reposée % otdokhnouvshaya
@@ -341,6 +448,26 @@ Secrète % syekryetnaya
 Enceinte % byeryemyennaya
 Absent % otsoutstvouyushshiî
 Absente % otsoutstvouyushshaya
+Fameux/Connu (M) % izvyestnyî
+Fameuse/Connue (F) % izvyestnaya
+Rare (M) % ryedkiî
+Rare (F) % ryedkaya
+Intéressant % intyeryesnyî
+Intéressante % intyeryesnaya
+Fou % soumasshyedshiî
+Folle % soumasshyedshaya
+Doux % myagkiî
+Douce % myagkaya
+National % natsional'nyî
+Nationale % natsional'naya
+International % myejdounarodnyî
+Internationale % myejdounarodnaya
+Jaloux % ryevnivyî
+Jalouse % ryevnivaya
+Récent % nyedavniî
+Récente % nyedavnyaya
+Évident % ochyevidnyî
+Évidente % ochyevidnaya
 
 Cousin % dvoyurodnyî brat
 Cousine % dvoyurodnyî brat

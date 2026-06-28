@@ -81,10 +81,10 @@ Hier % vchyera
 
 Couleur % tsvyet
 Bleu % siniî
-Rouge % krasnyî
+Rouge (M) % krasnyî
 Vert % zyelyonyî
-Jaune % jyoltyî
-Noir % chyornyî
+Jaune (M) % jyoltyî
+Noir % chornyî
 Blanc % byelyî
 
 Famille % syem'ya
@@ -182,7 +182,7 @@ Avoir besoin % noujdat'sya
 Aller % idti
 Devoir % doljyen
 Vouloir % khotyet'
-Apprendre % ouchit'
+Apprendre/Enseigner % ouchit'
 Parler % govorit'
 Marcher % khodit'
 Savoir/Connaître % znat'

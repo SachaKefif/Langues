@@ -32,57 +32,15 @@
 800 % vosyem'sot
 900 % dyevyat'sot
 1 000 % tysyacha
+1 234 % Tysyacha dvyesti tridtsat' chyetyrye
 10 000 % dyesyat' tysyach
 100 000 % sto tysyach
 1 000 000 % million
-
-Moi (Pronom Tonique) % mnye
-Toi (Pronom Tonique) % ty
-Lui (Pronom Tonique) % yemou
-Elle (Pronom Tonique) % ona
-Nous (Pronom Tonique) % my
-Vous (Pronom Tonique) % ty
-Eux (Pronom Tonique) % ikh
-Elles (Pronom Tonique) % oni
-
-Me (Pronom Réfléchi) % mnye
-Te (Pronom Réfléchi) % ty
-Se (Pronom Réfléchi) % sye
-Le (Pronom Réfléchi) % to
-La (Pronom Réfléchi) % tam
-Les ()
-Nous (Pronom Réfléchi) % my
-Vous (Pronom Réfléchi) % ty
-
-Moi-même % sam
-Toi-même % sam
-Lui-même % sam
-Elle-même % syebya
-Nous-mêmes % my sami
-Vous-mêmes % sami
-Eux-mêmes % sami syebya
-Elles-mêmes % sami syebya
 
 Penis % khouî
 Vagin % pîzda
 Baiser % yebat'
 Capote % kapyushon
-
-Fois % vryemya
-Temps % vryemya
-
-Bleue % siniî
-Rouge (F) % krasnyî
-Verte % zyelyenyî
-Jaune (F) % jyeltyî
-Noire % chyernyî
-Blanche % byelyî
-Orange % apyel'sin
-Violet % fiolyetovyî
-Violette % fiolyetovyî
-Rose % rozovyî
-Gris % syeryî
-Grise % syeryî
 
 Près % blizko
 Loin % dalyeko
@@ -95,40 +53,33 @@ Derrière % pozadi
 Autre (M) % drougoî
 Autre (F) % drougaya
 Souvent % chasto
-Quelque chose (spécifique) % chto-to
-Quelque chose (hypothétique) % chto-niboud'
-Quelqu'un (spécifique) % kto-to
-Quelqu'un (hypothétique) % kto-niboud'
+Fois % raz
+Temps % vryemya
 Quelques % nyeskol'ko
 Dedans % vnoutri
-Dehors % vnye
+Dehors % na oulitse
 Parfois % inogda
 Peut-être % mojyet byt'
 Trop % slishkom
 Assez % dostatochno
 Pas assez % nyedostatochno
-Aucun (Absolu) % nikakoî 
+Aucun (Absolu) % nikakoî
 Aucun (Pas un seul) % ni odin
-Personne (nobody) % nikto
 Personne (somebody) % chyelovyek
 Comme ça % vot tak
 Bien sûr % konyechno
 Outre % kromye
-Seulement % tol'ko
+Seulement / Juste % tol'ko
 Tant (so) % tak mnogo
 Tant que % poka
 Ensemble % vmyestye
 Suivant % slyedouyushshiî
 Précédent % pryedydoushshiî
-Durant % v tyechyeniye
+Durant % vo vryemya
 Au secours % pomogitye
 N'est-ce pas % nye tak li
 Côté % storona
-Juste (only) % tol'ko
 Tout droit % pryamo
-Plutôt que % skoryeye, chyem
-Attention (be careful) % ostorojno
-Autant que % stol'ko, skol'ko
 Sauf % kromye
 Contre (against) % protiv
 Il y avait % bylo
@@ -142,150 +93,78 @@ Entre % myejdou
 À côté % ryadom s
 Sous % pod
 Vers % k
-À peine % yedva
 D'ailleurs % kstati
 Allo % allo
 Autour % vokroug
 Nulle part % nigdye
 Bref % korochye
-Au % v
-À la % k
 Récemment % nyedavno
 
 Rester % ostavat'sya
-Essayer % poprobovat'
 Se nommer % nazyvat'sya
 Demander % prosit'
 Répondre % otvyechat'
 Regarder % smotryet'
 Couper % ryezat'
-Brûler % goryet'
-Se moquer % izdyevat'sya
 Tirer % vytashshit'
 Pousser % tolkat'
 Mourir % oumyeryet'
 Apporter/Ammener % prinyesti
 Emporter/Emmener % zabrat'
 Casser % slomat'
-Voler % lyetat'
 Arrêter % ostanavlivat'sya
-Nager % plavat'
 Écouter % sloushat'
 Entendre % slyshat'
-Éteindre % vyklyuchat'
-Allumer % zajyech'
-Uriner % mochit'sya
 Détester % nyenavidyet'
 Commencer % nachinat'
 Terminer % zakonchit'
 Gagner % zarabatyvat'
 Perdre % tyeryat'
-Organiser % organizovat'
-Agir % dyeîstvovat'
-Revenir % vyernout'sya
 Refuser % otkazyvat'sya
-Crier % krichat'
-Sauver % spasat'
 Jeter % brosat'
-Sauter % prygat'
 Devenir % stanovit'sya
 Se souvenir % pomnit'
-Laisser % ouîti
+Laisser % ostavlyat'
 Embrasser % potsyelovat'
 Choisir % vybirat'
 Changer % izmyenit'
 Aider % pomogat'
-Inventer % izobryetat'
-Suivre % slyedovat'
-Porter (to wear) % nosit'
 Porter (to carry) % nyesti
 Penser (trouver) % schitat'
 Envoyer % otpravlyat'
-Obtenir % polouchat'
 Être d'accord % soglashat'sya
 Espérer % nadyeyat'sya
 Expliquer % ob"yasnyat'
-Coller % kleyit'
 Danser % tantsyevat'
 Chanter % pyet'
 Echanger % obmyenyat'
 Arriver % priyezjat'
-Découvrir % obnaroujit'
 Tourner % povyernout'
 Toucher (verbe) % prikosnout'sya
 Manquer % skouchat'
-Bouger % pyeryemyestit'
+Bouger % dvigat'sya
 Tomber % padat'
 Faire confiance % dovyeryat'
-Prendre (une photo) % fotografirovat'
 Pleurer % plakat'
 Fonctionner % rabotat'
-Deviner % pryedpolagat'
+Deviner % ougadat'
 Naître % rodit'sya
 Mettre (à plat) % klast'
 Mettre (debout) % stavit'
 Grandir % rasti
-Protéger % zashshishshat'
-Promettre % obyeshshat'
-Préparer % podgotovit'
 Courrir % byegat'
 Sentir (to feel) % chouvstvovat'
 Se passer (to happen) % slouchat'sya
-Télécharger % skachat'
-Cacher % skryvat'
-Tenir % dyerjat'
-Créer % sozdavat'
-Déplacer % dvigat'sya
 Mentir % vrat'
-Continuer % prodoljat'
-Autoriser % avtorizovat'
-Interdire % zapryetit'
-Chuchoter % sheptat'
-Partager % dyelit'sya
-Rêver % myechtat'
-Développer % razvivat'
-Comparer % sravnivat'
-Tricher % joulnichat'
-Copier % kopirovat'
-Ajouter % dobavlyat'
-Douter % somnyevat'sya
-Juger % soudit'
-Répéter % povtorit'
-Conduire % vodit'
-Paniquer % panikovat'
-Monter % podnyat'sya
-Descendre % spoustit'sya
 Préférer % pryedpochitat'
-Risquer % riskovat'
-Remplacer % zamyenyat'
 Utiliser % ispol'zovat'
 Avoir faim % byt' golodnym
 Avoir soif % khotyet' pit'
 Trouver (to find) % nakhodit'
 Tuer % oubivat'
-Oser % osmyelit'sya
-Intéresser % intyeryesovat'
-Enseigner % ouchit'
-Cliquer % najat'
 Jurer % klyast'sya
-Échouer % potyerpyet' nyeoudachou
-Lâcher % otpoustit'
-Voter % golosovat'
-Soulager % oblyegchit'
-Profiter % naslajdat'sya
-Souffrir % stradat'
-S'entraîner % tryenirovat'sya
-Avancer % prodvigat'sya
-Se battre % drat'sya
-Partir % ostavlyat'
-Supprimer % oudalit'
-Ralentir % zamyedlit'
-Accélérer % ouskoryat'
-Avoir l'habitude % imyet' privychkou
-Galérer (to struggle) % borot'sya
-Rechercher % iskat'
-Afficher % otobrajat'
-Critiquer % kritikovat'
+Partir % ouîti
+Chercher % iskat'
 
 Moche (M) % ourodlivyî
 Moche (F) % ourodlivaya
@@ -307,7 +186,6 @@ Cher % dorogoî
 Chère % dorogaya
 Bon marché (M) % dyeshyovyî
 Bon marché (F) % dyeshyovaya
-
 Propre (clean) (M) % chistyî
 Propre (clean) (F) % chistaya
 Sale (M) % gryaznyî
@@ -336,8 +214,6 @@ Possible (M) % vozmojnyî
 Possible (F) % vozmojnaya
 Impossible (M) % nyevozmojnyî
 Impossible (F) % nyevozmojnaya
-Rare (M) % ryedkiî
-Rare (F) % ryedkaya
 Lourd % tyajyelyî
 Lourde % tyajyelaya
 Léger % lyokhkiî
@@ -390,8 +266,6 @@ Seul % odinokoî
 Seule % odinokaya
 Occupé % zanyatoî
 Occupée % zanyataya
-Intéressant % intyeryesnyî
-Intéressante % intyeryesnaya
 Étrange (M) % strannyî
 Étrange (F) % strannaya
 Normal % normal'nyî
@@ -418,8 +292,6 @@ Principal % glavnyî
 Principale % glavnaya
 Dangeureux % opasnyî
 Dangeureuse % opasnaya
-Fou % soumasshyedshiî
-Folle % soumasshyedshaya
 Utile (M) % polyeznyî
 Utile (F) % polyeznaya
 Inutile (M) % byespolyeznyî
@@ -432,26 +304,12 @@ Raciste (M) % rasistskiî
 Raciste (F) % rasistskaya
 Aléatoire (M) % slouchaînyî
 Aléatoire (F) % slouchaînaya
-Doux % myagkiî
-Douce % myagkaya
 Gênant % nyelovkiî
 Gênante % nyelovkaya
 Dégoûtant % otvratityel'nyî
 Dégoûtante % otvratityel'naya
-National % natsional'nyî
-Nationale % natsional'naya
-International % myejdounarodnyî
-Internationale % myejdounarodnaya
-Jaloux % ryevnivyî
-Jalouse % ryevnivaya
-Récent % nyedavniî
-Récente % nyedavnyaya
-Évident % ochyevidnyî
-Évidente % ochyevidnaya
 Perdu % potyeryannyî
 Perdue % potyeryannaya
-Fameux/Connu (M) % izvyestnyî
-Fameuse/Connue (F) % izvyestnaya
 
 Café % kofye
 Pâte % tyesto

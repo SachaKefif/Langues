@@ -6,11 +6,25 @@ Vendre % prodavat'
 Venir % prikhodit'
 Voir % vidyet'
 Comprendre % ponyat'
-Montrer % pokazat'
-Oublier % zabyvat'
 
 Meilleur(e) % louchshiî
 Pire % khoudshiî
 
 Choix % vybor
 Lieu % myesto
+Bus % avtobous
+Yeux % glaza
+
+Matin % outro
+Après-midi % poldyen'
+Soir % vyechyer
+Nuit % noch'
+Seconde % vtoroî
+Minute % minouta
+Heure % chas
+Bientôt % skoro
+Tôt % rano
+Tard % pozdno
+
+Petit-fils % vnouk
+Petite-fille % vnouchka

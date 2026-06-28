@@ -12,11 +12,6 @@ Oublier % zabyvat'
 
 
 
-
-
-
-
-
 11 % odinnadtsat'
 12 % dvyenadtsat'
 13 % trinadtsat'
@@ -40,8 +35,8 @@ Oublier % zabyvat'
 70 % syem'dyesyat
 80 % vosyem'dyesyat
 90 % dyevyanosto
-100 % sto
 
+100 % sto
 200 % dvyesti
 300 % trista
 400 % chyetyryesta
@@ -73,7 +68,7 @@ Les ()
 Nous (Pronom Réfléchi) % my
 Vous (Pronom Réfléchi) % ty
 
-Moi-même% sam
+Moi-même % sam
 Toi-même % sam
 Lui-même % sam
 Elle-même % syebya
@@ -85,6 +80,7 @@ Elles-mêmes % sami syebya
 Penis % khouî
 Vagin % pîzda
 Baiser % yebat'
+Capote % kapyushon
 
 Fois % vryemya
 Temps % vryemya
@@ -102,161 +98,107 @@ Rose % rozovyî
 Gris % syeryî
 Grise % syeryî
 
-
-
-
-
-
-
-
-
-Près % zakryvat'
+Près % blizko
 Loin % dalyeko
-Il y a % yest'
+Il y a (there is) % yest'
+Il y a (ago) % tomou nazad
 Au dessus % vyshye
 En dessous % nijye
-Bon appétit % naslajdaîtyes' yedoî
 Devant % spyeryedi
 Derrière % pozadi
-
 Autre (M) % drougoî
-Autre (M) % drougoî
-Quelque chose % chto-niboud'
-Quelqu'un % kto-to
-Quelques (M) % nyeskol'ko
-Quelques (F) % nyeskol'ko
+Autre (F) % drougaya
+Quelque chose (spécifique) % chto-to
+Quelque chose (hypothétique) % chto-niboud'
+Quelqu'un (spécifique) % kto-to
+Quelqu'un (hypothétique) % kto-niboud'
+Quelques % nyeskol'ko
 Dedans % vnoutri
 Dehors % vnye
-
 Parfois % inogda
 Peut-être % mojyet byt'
-À propos % o
 Trop % slishkom
-Pas assez % nyedostatochno
 Assez % dostatochno
-
-Personne (nobody) % chyelovyek
+Pas assez % nyedostatochno
+Aucun (Absolu) % nikakoî 
+Aucun (Pas un seul) % ni odin
+Personne (nobody) % nikto
 Personne (somebody) % chyelovyek
 Comme ça % vot tak
 Bien sûr % konyechno
 Outre % kromye
 Seulement % tol'ko
-tant (so) % tak mnogo
+Tant (so) % tak mnogo
 Tant que % poka
-Ensemble (together) % vmyestye
-
+Ensemble % vmyestye
 Suivant % slyedouyushshiî
-Durant % v tyechyeniye
-Au secours % pomoshsh'
 Précédent % pryedydoushshiî
-N'est-ce pas % nye tak li?
-Côté (side) % storona
+Durant % v tyechyeniye
+Au secours % pomogitye
+N'est-ce pas % nye tak li
+Côté % storona
 Juste (only) % tol'ko
 Tout droit % pryamo
 Plutôt que % skoryeye, chyem
-
-Attention (be careful) % vnimaniye
-Au moins % po myen'shyeî myerye
-Au plus % maksimoum
+Attention (be careful) % ostorojno
 Autant que % stol'ko, skol'ko
-Restant % ostavshiîsya
-Au cause de % iz-za
-Grâce à % blagodarya
 Sauf % kromye
 Contre (against) % protiv
-
-Il y avait % tam bylo
+Il y avait % bylo
 Il y aura % boudyet
 Il y aurait % bylo by
-Soudainement % vnyezapno
 Lentement % myedlyenno
-Sinon % v protivnom slouchaye
+Rapidement % bystro
+Sinon % inachye
 Moitié % polovina
-Malgré % nyesmotrya na
 Entre % myejdou
-
 À côté % ryadom s
-Sous % nijye
+Sous % pod
 Vers % k
 À peine % yedva
-D'ailleurs % kromye
-Allo % privyet
+D'ailleurs % kstati
+Allo % allo
 Autour % vokroug
-Quelconque % lyuboî
-D'affilés % podryad
-Aussitôt que % kak tol'ko
 Nulle part % nigdye
-
-Selon % v sootvyetstvii s
-Bref % kratkiî
-Certainement % konyechno
-Parmi % sryedi
-À travers % chyeryez
-Dès que % kak tol'ko
+Bref % korochye
 Au % v
 À la % k
 Récemment % nyedavno
-Actuellement % v nastoyashshyeye vryemya
-
-
-Dont % iz kotorykh
-Au lieu de % vmyesto
-Plus loin % dal'shye
-Soit (either) % ili
-Propre (own) % sobstvyennyî
-C'est-à-dire % to yest'
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Rester % ostavat'sya
 Essayer % poprobovat'
-Se nommer % nazovitye syebya
+Se nommer % nazyvat'sya
 Demander % prosit'
 Répondre % otvyechat'
 Regarder % smotryet'
 Couper % ryezat'
-
+Brûler % goryet'
+Se moquer % izdyevat'sya
 Tirer % vytashshit'
 Pousser % tolkat'
 Mourir % oumyeryet'
-Apporter/Ammener % prinyesi
+Apporter/Ammener % prinyesti
 Emporter/Emmener % zabrat'
 Casser % slomat'
-
 Voler % lyetat'
 Arrêter % ostanavlivat'sya
 Nager % plavat'
 Écouter % sloushat'
 Entendre % slyshat'
-
 Éteindre % vyklyuchat'
 Allumer % zajyech'
 Uriner % mochit'sya
 Détester % nyenavidyet'
-Commencer % dlya nachala
+Commencer % nachinat'
 Terminer % zakonchit'
-
 Gagner % zarabatyvat'
 Perdre % tyeryat'
-Organiser/Réparer % organizovat' / otryemontirovat'
+Organiser % organizovat'
 Agir % dyeîstvovat'
 Revenir % vyernout'sya
 Refuser % otkazyvat'sya
 Crier % krichat'
-Sauver % sokhranyat'
-
+Sauver % spasat'
 Jeter % brosat'
 Sauter % prygat'
 Devenir % stanovit'sya
@@ -265,21 +207,16 @@ Laisser % ouîti
 Embrasser % potsyelovat'
 Choisir % vybirat'
 Changer % izmyenit'
-
 Aider % pomogat'
-Prétendre % pritvoryat'sya
 Inventer % izobryetat'
-Prendre soin % zabotit'sya
 Suivre % slyedovat'
-Porter (to wear) % nyesti
+Porter (to wear) % nosit'
 Porter (to carry) % nyesti
-Penser (trouver) % doumat'
+Penser (trouver) % schitat'
 Envoyer % otpravlyat'
 Obtenir % polouchat'
 Être d'accord % soglashat'sya
-
 Espérer % nadyeyat'sya
-Exister % soushshyestvovat'
 Expliquer % ob"yasnyat'
 Coller % kleyit'
 Danser % tantsyevat'
@@ -289,250 +226,95 @@ Arriver % priyezjat'
 Découvrir % obnaroujit'
 Tourner % povyernout'
 Toucher (verbe) % prikosnout'sya
-
 Manquer % skouchat'
-Empêcher % pryedotvratit'
 Bouger % pyeryemyestit'
-Répandre % rasprostranyat'
 Tomber % padat'
-Remercier % blagodarit'
 Faire confiance % dovyeryat'
-Parier (bet) % stavka
-Prendre (une photo) % brat'
-
-Sourir % oulybat'sya
+Prendre (une photo) % fotografirovat'
 Pleurer % plakat'
-Assembler % sobrat'
-Décider % ryeshat'
-Servir % sloujit'
-Fonctionner % rabotat' / founktsionirovat'
+Fonctionner % rabotat'
 Deviner % pryedpolagat'
 Naître % rodit'sya
-Placer % klact' / pomyeshshat'
-Garder % dyerjat'
-Maintenir % poddyerjivat'
-
+Mettre (à plat) % klast'
+Mettre (debout) % stavit'
 Grandir % rasti
 Protéger % zashshishshat'
 Promettre % obyeshshat'
 Préparer % podgotovit'
-Confondre % zapoutat'
-Admirer % voskhishshat'sya
-Prier % molit'sya
 Courrir % byegat'
 Sentir (to feel) % chouvstvovat'
 Se passer (to happen) % slouchat'sya
-
 Télécharger % skachat'
 Cacher % skryvat'
 Tenir % dyerjat'
 Créer % sozdavat'
-Contenir % sodyerjat'
-Respirer % dyshat'
 Déplacer % dvigat'sya
-Se moquer % razvlyekaîtyes'
-S'échapper % sbyejat'
-Vivre (habiter) % jit'
-
-Apparaître % poyavlyat'sya
-Disparaître % propadat'
-Déchirer % rvat'
-Mélanger % smyeshivat'
+Mentir % vrat'
 Continuer % prodoljat'
-Remplir % napolnyat'
-Vider % opoustoshat'
-Vomir % rvat'
-Respecter % ouvajat'
 Autoriser % avtorizovat'
-Mettre % 
-
-Permettre % pozvolyat'
 Interdire % zapryetit'
-Interdire % zapryetit'
-Sécher % souchit'
-Mouiller % mochit'
-Accéder % polouchit' dostoup
 Chuchoter % sheptat'
-Partager (c) % dyelit'sya
-Partager (p) % dyelit'sya
+Partager % dyelit'sya
 Rêver % myechtat'
 Développer % razvivat'
-
 Comparer % sravnivat'
-Tricher % izmyenyat'
+Tricher % joulnichat'
 Copier % kopirovat'
 Ajouter % dobavlyat'
-Observer % nablyudat'
-Espionner % shpionit'
-Abandonner % sdat'sya
-Démissionner % podat' v otstavkou
 Douter % somnyevat'sya
 Juger % soudit'
 Répéter % povtorit'
-
-Conduire % yezdit'
+Conduire % vodit'
 Paniquer % panikovat'
 Monter % podnyat'sya
 Descendre % spoustit'sya
-S'asseoir % sidyet'
 Préférer % pryedpochitat'
 Risquer % riskovat'
 Remplacer % zamyenyat'
-Augmenter % ouvyelichivat'
-Soutenir % poddyerjivat'
 Utiliser % ispol'zovat'
-
 Avoir faim % byt' golodnym
-S'inquiéter % volnovat'sya
-Retourner % vozvrashshat'sya
-Avoir soif % jajdat'
+Avoir soif % khotyet' pit'
 Trouver (to find) % nakhodit'
-Se venger % otomstit'
 Tuer % oubivat'
-Accompagner % soprovojdat'
-Réserver % zabronirovat'
-Sonner % zvonit'
-
-Pratiquer % ouprajnyat'sya
 Oser % osmyelit'sya
 Intéresser % intyeryesovat'
 Enseigner % ouchit'
-Déguiser % zamaskirovat'
-Approcher % podkhodit'
 Cliquer % najat'
-Convaincre % oubyejdat'
-Jurer % rougat'sya
-
-Chasser (to hunt) % okhota
-Défendre % zashshishshat'
-Attaquer % vzyat'sya
-Gâcher % portit'sya
-S'éloigner % ouîti
-Prédire % pryedskazyvat'
+Jurer % klyast'sya
 Échouer % potyerpyet' nyeoudachou
 Lâcher % otpoustit'
-Exagérer % pryeouvyelichivat'
-Surprendre % oudivlyat'
-
-Récupérer % vosstanovit'
 Voter % golosovat'
 Soulager % oblyegchit'
-Réduire % oumyen'shat'
-Diminuer % snijat'sya
-Survivre % vyjivat'
-Tendre % tyanout'
-Se dépêcher % toropit'sya
-Conseiller % sovyetovat'
-Lier % svyazyvat'
-
-Récompenser % nagrajdat'
-Croquer % khroustyet'
 Profiter % naslajdat'sya
-Punir % nakazyvat'
 Souffrir % stradat'
-Énerver / Faire chier % razdrajat' / razozlit'
-Faire pitié (dar) % proyavi jalost'
-Faire pitié (fazer) % proyavi jalost'
-Concerner % kasat'sya
-Regretter % sojalyet'
-
-Exciter % vozboujdat'
-Prévenir % pryedotvrashshat'
-S'entraîner (physique) % obouchyeniye
-S'entraîner (général) % obouchyeniye
-Avancer % dvigaîtyes' vpyeryed
-Fair exprès % chyestno namyeryenno
+S'entraîner % tryenirovat'sya
+Avancer % prodvigat'sya
 Se battre % drat'sya
-Séparer % razdyelyat'
 Partir % ostavlyat'
-Piéger/Duper % oulovka / doup
-Supporter (to cheer) % poddyerjivat'
-
 Supprimer % oudalit'
 Ralentir % zamyedlit'
 Accélérer % ouskoryat'
-Définir % opryedyelyat'
-Décrire % opisyvat'
-Guider % napravlyat'
-Programmer % programirovat'
-Motiver % motivirovat'
-Choquer % shok
-Alterner % chyeryedovat'
-
-Présenter % pryedstavit'
-Se tromper % sdyelat' oshibkou
-Habituer % privykaîtye k
-Câliner % obnimat'
-Fumer % kourit'
-Insulter (formel) % oskorblyat'
-Insulter (informel) % oskorblyat'
-Annuler % otmyenit'
 Avoir l'habitude % imyet' privychkou
-
 Galérer (to struggle) % borot'sya
-Arnaquer % obmanout'
-Contrôler % kontrolirovat'
-Sélectionner % vybirat'
-Influencer % vliyat'
-Coincer (physique) % zastryavshiî
-Coincer (stratégique) % zastryavshiî
-Hésiter % somnyevat'sya
-Rembourser % pogasit'
-
-Rechercher % dlya isslyedovaniya
-Harceler % pryeslyedovat'
-Se plaindre % jalovat'sya
-Évaluer % otsyenivat'
-Cultiver % koul'tivirovat'
-Menacer % ougrojat'
-Attirer % privlyekat'
-Empoisonner % otravit'
-Pardonner % prostit'
-Rassurer % ouspokoit'
-
-Prouver % dokazyvat'
-Insister % nastaivat'
-Trahir % pryedavat'
-Exclure % isklyuchat'
-Imaginer % pryedstavlyat' syebye
-Grossir % stat' bol'shye
-Maigrir % pokhoudyet'
-
-Adopter % ousynovit'
-Dépenser % tratit'
-Impacter % vliyaniye
-Élever % podnimat'
-Résoudre % ryeshat'
-Étonner % oudivlyat'
+Rechercher % iskat'
 Afficher % otobrajat'
-Se la péter % vypyendrivat'sya
-Supporter/En pouvoir % poddyerjka / ou vlasti
-
-Passioner % ouvlyekat'
-Posséder % vladyet'
-Brûler % goryet'
-Déchiffrer % rasshifrovat'
-Restreindre % ogranichivat'
-Appartenir % prinadlyejat'
-Moisir % plyesnyevyet'
-Frotter % roub.
-Peindre % risovat'
-
-Apprécier % tsyenit'
-Inonder % zatopit'
-Se lever % vstavat'
-Louer % sdat' v aryendou
-Enlever % oudalit'
-Retirer % otzyvat'
-Réunir % vossoyedinit'sya
-Déclarer % ob"yavit'
-
 Critiquer % kritikovat'
-Tousser % kashlyat'
-Ronfler % khrapyet'
-Péter % pyerdyet'
-Inviter % priglashat'
-Se demander % oudivlyat'sya
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -894,122 +676,62 @@ Urgente % srochnyî
 
 
 
-Cousin % dvoyurodnyî brat
-Cousine % dvoyurodnyî brat
-Oncle % dyadya
-Tante % tyetya
-Neveu % plyemyannik
-Nièce % plyemyannitsa
 
 
 
 
 
-Poivre % pyeryets
-Jambon % vyetchina
-Beurre % maslo
-Thé % chaî
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Café % kofye
-Vanille % vanil'
-Chocolat % shokolad
 Pâte % tyesto
-Blé % pshyenitsa
-Glace (ice cream) % lyed
-Gâteau % tort
-
 Pomme % yabloko
-Orange % apyel'sin
-Raisin % vinograd
-Fraise % kloubnika
-Citron % limon
-
-Carotte % morkov'
 Tomate % pomidor
 Salade % salat
 Oignon % louk
 Pomme de terre % kartofyel'
-Haricot % fasol'
-Courgette % tsoukkini
 
-
-
-
-Sortie % vykhod
-Entrée % vkhod
-Route % doroga
 Soleil % solntsye
+Lune % louna
 Ciel % nyebo
 Ville % gorod
 Magasin % magazin
 Plage % plyaj
-
 Sac % soumka
 Pluie % dojd'
-Mer % morye
-Vent % vyetyer
 Clé % klyuch
 Table % stol
-
-Rivière % ryeka
-Forêt % lyes
+Sortie % vykhod
+Entrée % vkhod
+Route % doroga
 Monnaie % nalichnyye
-Virgule % zapyataya
 Arbre % dyeryevo
 Fleur % tsvyetok
 Musique % mouzyka
 Porte % dvyer'
-Chargeur % zaryadnoye oustroîstvo
-
 Chaussure % chistka
 Pantalon % bryuki
 T-shirt % foutbolka
 Lunettes % ochki
 Bouteille % boutylka
-Nuage % oblako
 Restaurant % ryestoran
 Bras % rouka
-
 Jambe % noga
-Tête % golova
-Prix % tsyena
-Question % vopros
-Réponse % otvyechat'
-Stylo % rouchka
-Cahier % bloknot
-Montre % smotryet'
-
-Piscine % bassyeîn
-Marché % khodit'
-Chambre % spal'nya
-Salle de bain % vannaya komnata
-Cuisine % koukhnya
-Salon % gostinaya
-Pharmacie % aptyeka
-Hôpital % bol'nitsa
-
-Repas % yeda
-Lit % krovat'
-Alphabet % alfavit
-Photographie % fotografiya
-Vidéo % vidyeo
-Vérité % pravda
-Mensonge % loj'
-
-Film % fil'm
-Lumière % svyet
-Feu % ogon'
-Mot % slovo
-Lettre (alphabet) % pis'mo
-
-Langue % yazyk
-Musée % mouzyeî
-Coeur % syerdtsye
-Point % tochka
-Point d'interrogation % znak voprosa
-Point d'exclamation % vosklitsatyel'nyî znak
-
-Phrase % pryedlojyeniye
-Échecs (jeu) % shakhmaty
+Tête % golova44
 Oreille % oukho
 Nez % nos
 Bouche % rot
@@ -1017,54 +739,70 @@ Main % rouka
 Pied % stoupnya
 Doigt % palyets
 Sein % groud'
-
 Cheveux % volosy
 Douleur % bol'
+Prix % tsyena
+Question % vopros
+Réponse % otvyechat'
+Stylo % rouchka
+Cahier % bloknot
+Montre % smotryet'
+Chambre % spal'nya
+Salle de bain % vannaya komnata
+Cuisine % koukhnya
+Salon % gostinaya
+Pharmacie % aptyeka
+Hôpital % bol'nitsa
+Repas % yeda
+Lit % krovat'
+Alphabet % alfavit
+Photographie % fotografiya
+Vidéo % vidyeo
+Vérité % pravda
+Mensonge % loj'
+Film % fil'm
+Lumière % svyet
+Feu % ogon'
+Mot % slovo
+Lettre (alphabet) % pis'mo
+Langue (language) % yazyk
+Musée % mouzyeî
+Coeur % syerdtsye
+Phrase % pryedlojyeniye
 Sol % zyemlya
 Mur % styena
 Montagne % gora
-Prochain % slyedouyushshiî
-Prochaine % slyedouyushshiî
-
 Saison % syezon
 Été % lyeto
 Automne % osyen'
 Hiver % zima
 Printemps % vyesna
 Groupe/Bande % grouppa
-
 Peur % strakh
 Idée % idyeya
 Animal % jivotnoye
 Danger % opasnost'
 Vêtement % odyejda
-Armoire % boufyet
-Frigo % kholodil'nik
-
 Rêve % myechtat'
 Santé % zdorov'ye
-
 Nord % syevyer
 Sud % yug
 Est (direction) % vostok
 Ouest % zapad
 Les deux (both) % oba
 Histoire % istoriya
-Propriétaire % vladyelyets
-Espace % kosmos
+Espace (dimension) % prostranstvo
+Espace (univers) % kosmos
 Étoile % zvyezda
-
 Douche % doush
-Pièce (part) % kousok
+Pièce (partie) % kousok
 Tâche % pyatno
 Client % kliyent
 Analyse % analiz
 Milieu % syeryedina
 Équipe % komanda
-Capote % kapyushon
 Règle (ruler) % pravityel'
 Lien % svyaz'
-
 Cause % prichina
 Conséquence % poslyedstviye
 Avion % samolyet
@@ -1072,9 +810,7 @@ Bateau % lodka
 Train % tryenirovat'sya
 Trou % dyra
 Papier % boumaga
-Virage % povyernout'
 Anniversaire % dyen' rojdyeniya
-Lune % louna
 
 Couteau % noj
 Fourchette % vilka
@@ -1221,8 +957,7 @@ Prison % tyur'ma
 Erreur % oshibka
 Maladie % bolyezn'
 Science % naouka
-Supporter (fan) (t) % poddyerjivat'
-Supporter (fan) (f) % poddyerjivat'
+Supporter (fan) % poddyerjivat'
 Air % vozdoukh
 Paysage % pyeîzaj
 Humain % chyelovyek

@@ -7,8 +7,10 @@ Venir % prikhodit'
 Voir % vidyet'
 Comprendre % ponyat'
 
-Meilleur(e) % louchshiî
-Pire % khoudshiî
+Meilleur % louchshiî
+Meilleure % louchshaya
+Pire (M) % khoudshiî
+Pire (F) % khoudshaya
 
 Choix % vybor
 Lieu % myesto

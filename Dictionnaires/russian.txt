@@ -159,7 +159,6 @@ En % v
 Chez % k
 Par % po
 Pendant que % poka
-Aucun(e) % nikto
 Gauche % lyevyî
 Droite % vyerno
 Rien % nichyego
@@ -202,7 +201,6 @@ Acheter % koupit'
 Lire % chitat'
 Vivre % jit'
 Jouer % igrat'
-Mentir % loj'
 Dormir % spat'
 Payer % platit'
 

@@ -1,24 +1,16 @@
+Montrer % pokazat'
+Oublier % zabyvat'
+
 Déjà % oujye
 Même % dajye
 Presque % pochti
-
-Vendre % prodavat'
-Venir % prikhodit'
-Voir % vidyet'
-Comprendre % ponyat'
-
-Meilleur % louchshiî
-Meilleure % louchshaya
-Pire (M) % khoudshiî
-Pire (F) % khoudshaya
-
-Choix % vybor
-Lieu % myesto
-Bus % avtobous
-Yeux % glaza
+Quelque chose (spécifique) % chto-to
+Quelque chose (hypothétique) % chto-niboud'
+Quelqu'un (spécifique) % kto-to
+Quelqu'un (hypothétique) % kto-niboud'
+Personne (nobody) % nikto
 
 Matin % outro
-Après-midi % poldyen'
 Soir % vyechyer
 Nuit % noch'
 Seconde % vtoroî
@@ -27,6 +19,11 @@ Heure % chas
 Bientôt % skoro
 Tôt % rano
 Tard % pozdno
+Midi % poldyen'
+Minuit % polnoch'
 
 Petit-fils % vnouk
 Petite-fille % vnouchka
+
+Lieu % myesto
+Yeux % glaza

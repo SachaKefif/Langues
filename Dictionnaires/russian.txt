@@ -81,11 +81,17 @@ Hier % vchyera
 
 Couleur % tsvyet
 Bleu % siniî
+Bleue % sinyaya
 Rouge (M) % krasnyî
+Rouge (F) % krasnaya
 Vert % zyelyonyî
+Verte % zyelyonaya
 Jaune (M) % jyoltyî
+Jaune (F) % jyoltaya
 Noir % chornyî
+Noire % chornaya
 Blanc % byelyî
+Blanche % byelaya
 
 Famille % syem'ya
 Mère % mat'
@@ -203,6 +209,10 @@ Vivre % jit'
 Jouer % igrat'
 Dormir % spat'
 Payer % platit'
+Vendre % prodavat'
+Venir % prikhodit'
+Voir % vidyet'
+Comprendre % ponyat'
 
 Beau % krasivyî
 Belle % krasivaya
@@ -221,6 +231,10 @@ Bonne % khoroshaya
 Bien % khorosho
 Mauvais % plokhoî
 Mauvaise % plokhaya
+Meilleur % louchshiî
+Meilleure % louchshaya
+Pire (M) % khoudshiî
+Pire (F) % khoudshaya
 
 Petit-déjeuner % zavtrak
 Déjeuner % obyed
@@ -269,3 +283,13 @@ Façon % sposob
 Sport % sport
 Drapeau % flag
 Chance % shans
+Choix % vybor
+Bus % avtobous
+
+
+
+
+
+
+
+

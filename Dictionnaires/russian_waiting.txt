@@ -41,6 +41,7 @@ Penis % khouî
 Vagin % pîzda
 Baiser % yebat'
 Capote % kapyushon
+Sein % groud'
 
 Près % blizko
 Loin % dalyeko
@@ -58,6 +59,7 @@ Temps % vryemya
 Quelques % nyeskol'ko
 Dedans % vnoutri
 Dehors % na oulitse
+Par exemple % naprimyer
 Parfois % inogda
 Peut-être % mojyet byt'
 Trop % slishkom
@@ -338,7 +340,7 @@ Arbre % dyeryevo
 Fleur % tsvyetok
 Musique % mouzyka
 Porte % dvyer'
-Chaussure % chistka
+Chaussure % obouv'
 Pantalon % bryuki
 T-shirt % foutbolka
 Lunettes % ochki
@@ -346,14 +348,13 @@ Bouteille % boutylka
 Restaurant % ryestoran
 Bras % rouka
 Jambe % noga
-Tête % golova44
+Tête % golova
 Oreille % oukho
 Nez % nos
 Bouche % rot
 Main % rouka
 Pied % stoupnya
 Doigt % palyets
-Sein % groud'
 Cheveux % volosy
 Peau % koja
 Cerveau % mozg
@@ -362,15 +363,9 @@ Corps % tyelo
 Douleur % bol'
 Prix % tsyena
 Question % vopros
-Réponse % otvyechat'
-Stylo % rouchka
-Cahier % bloknot
-Montre % smotryet'
+Réponse % otvyet
 Chambre % spal'nya
-Salle de bain % vannaya komnata
 Cuisine % koukhnya
-Salon % gostinaya
-Pharmacie % aptyeka
 Hôpital % bol'nitsa
 Repas % yeda
 Lit % krovat'
@@ -383,9 +378,8 @@ Film % fil'm
 Lumière % svyet
 Feu % ogon'
 Mot % slovo
-Lettre (alphabet) % pis'mo
+Lettre (alphabet) % boukva
 Langue (language) % yazyk
-Musée % mouzyeî
 Coeur % syerdtsye
 Phrase % pryedlojyeniye
 Sol % zyemlya
@@ -402,7 +396,7 @@ Idée % idyeya
 Animal % jivotnoye
 Danger % opasnost'
 Vêtement % odyejda
-Rêve % myechtat'
+Rêve % son
 Santé % zdorov'ye
 Nord % syevyer
 Sud % yug
@@ -415,25 +409,18 @@ Espace (univers) % kosmos
 Étoile % zvyezda
 Douche % doush
 Pièce (partie) % kousok
-Tâche % pyatno
-Client % kliyent
-Analyse % analiz
 Milieu % syeryedina
 Équipe % komanda
-Règle (ruler) % pravityel'
-Lien % svyaz'
-Cause % prichina
-Conséquence % poslyedstviye
 Avion % samolyet
 Bateau % lodka
-Train % tryenirovat'sya
+Train % poyezd
 Trou % dyra
 Papier % boumaga
 Anniversaire % dyen' rojdyeniya
 Village % dyeryevnya
 Problème % problyema
 Solution % ryeshyeniye
-Nouvelle (news) % novyî
+Nouvelle (news) % novost'
 Chaise % stoul
 Cadeau % podarok
 Professeur % pryepodavatyel'
@@ -444,10 +431,10 @@ Cauchemar % koshmar
 Dessin % risounok
 Vitesse % skorost'
 Taille % razmyer
-Passé % prokhodit'
-Présent % zdyes'
+Passé % proshloye
+Présent % nastoyashshyeye
 Futur % boudoushshyeye
-Bagarre % drat'sya
+Bagarre % draka
 Paix % mir
 Sujet % pryedmyet
 Roi % korol'
@@ -456,54 +443,40 @@ Voisin % sosyed
 Nature % priroda
 Beauté % krasota
 Église % tsyerkov'
-Raison % prichina
-Champ % polye
+Raison % prav
 Bruit % shoum
-Outil % instroumyent
 Or (gold) % zoloto
 Chemin % pout'
-Étage % pol
+Étage % etaj
 Moment % momyent
 Adresse % adryes
 Objectif % tsyel'
-Signal % signal
-Campagne (countryside) % kampaniya
-Blague % shoutit'
+Blague % shoutka
 Surprise % syurpriz
 Entreprise % biznyes
 Immeuble % zdaniye
-Personnage % kharaktyer
-Énergie % enyergiya
-Exemple % primyer
-Limite % limit
-Option % variant
 Objet % ob"yekt
+Truc % shtouka
+Chose % vyeshsh'
 Blessure % rana
 Mec/Bro (c) % chouvak
 Mec/Bro (b) % bratan
 Stade % stadion
-Niveau % ourovyen'
-Vacance % vakansiya
-Bisou % tsyelovat'
+Vacance % otpousk
+Bisou % potsyelouî
 Vie % jizn'
-Action % dyeîstviye
 Neige % snyeg
 Bande déssinée % komiks
 Erreur % oshibka
 Planète % planyeta
 Maladie % bolyezn'
 Science % naouka
-Humain % chyelovyek
-Humanité % chyelovyechyestvo
 Nourriture % yeda
 Boisson % napitok
 Quantité % kolichyestvo
-Risque % risk
-Récompense % nagrada
 Art % iskousstvo
 Alcool % alkogol'
 Accent % aktsyent
-Liste % spisok
 Paradis % nyebyesa
 Enfer % ad
 Guide % gid
@@ -511,14 +484,6 @@ Transport % transport
 Éléctricité % elyektrichyestvo
 Carte % karta
 Internet % intyernyet
-Bébé % malysh
-Opportunité % vozmojnost'
-Guerre % voîna
-Ministre % ministr
-Président % pryezidyent
-Politique % politika
-Origine % istochnik
-Avis % obzor
 Opinion % mnyeniye
 Voleur % vor
 Code % kod
@@ -530,15 +495,12 @@ Boule/Ballon % myach
 Carré % kvadrat
 Triangle % tryeougol'nik
 Cercle % kroug
-Bois % napitok
+Bois % dyeryevo
 Moustache % ousy
 Barbe % boroda
 Parents % rodityeli
-Esprit % doukh
 Fenêtre % okno
 Fête % vyechyerinka
-Génie % gyeniî
-Statue % statouya
 Distance % rasstoyaniye
 Diplôme % diplom
 Monde % mir

@@ -493,6 +493,57 @@ Carotte % morkov'
 Haricot % fasol'
 Courgette % tsoukkini
 
+
+
+
+
+
+
+
+
+
+
+-> A vérifier celui là - Campagne (countryside) % kampaniya
+Montre % chasy
+Stylo % rouchka
+Cahier % bloknot
+Client % kliyent
+Analyse % analiz
+Tâche % pyatno
+Humain % chyelovyek
+Humanité % chyelovyechyestvo
+Limite % limit
+Option % variant
+Signal % signal
+Salle de bain % vannaya komnata
+Salon % gostinaya
+Pharmacie % aptyeka
+Musée % mouzyeî
+Règle (ruler) % linyeîka
+Lien % svyaz'
+Cause % prichina
+Conséquence % poslyedstviye
+Champ % polye
+Outil % instroumyent
+Personnage % pyersonaj
+Énergie % enyergiya
+Niveau % ourovyen'
+Action % dyeîstviye
+Risque % risk
+Récompense % nagrada
+Liste % spisok
+Bébé % malysh
+Opportunité % vozmojnost'
+Guerre % voîna
+Ministre % ministr
+Président % pryezidyent
+Politique % politika
+Origine % istochnik
+Avis % obzor
+Esprit % doukh
+Génie % gyeniî
+Statue % statouya
+
 Vent % vyetyer
 Nuage % oblako
 Mer % morye

@@ -108,18 +108,18 @@ Demander % prosit'
 Répondre % otvyechat'
 Regarder % smotryet'
 Couper % ryezat'
-Tirer % vytashshit'
+Tirer % vytaskivat'
 Pousser % tolkat'
-Mourir % oumyeryet'
-Apporter/Ammener % prinyesti
-Emporter/Emmener % zabrat'
-Casser % slomat'
+Mourir % oumirat'
+Apporter/Ammener % prinosit'
+Emporter/Emmener % zabirat'
+Casser % lomat'
 Arrêter % ostanavlivat'sya
 Écouter % sloushat'
 Entendre % slyshat'
 Détester % nyenavidyet'
 Commencer % nachinat'
-Terminer % zakonchit'
+Terminer % zakanchivat'
 Gagner % zarabatyvat'
 Perdre % tyeryat'
 Refuser % otkazyvat'sya
@@ -127,9 +127,9 @@ Jeter % brosat'
 Devenir % stanovit'sya
 Se souvenir % pomnit'
 Laisser % ostavlyat'
-Embrasser % potsyelovat'
+Embrasser % tsyelovat'
 Choisir % vybirat'
-Changer % izmyenit'
+Changer % izmyenyat'
 Aider % pomogat'
 Porter (to carry) % nyesti
 Penser (trouver) % schitat'
@@ -139,17 +139,17 @@ Espérer % nadyeyat'sya
 Expliquer % ob"yasnyat'
 Danser % tantsyevat'
 Chanter % pyet'
-Echanger % obmyenyat'
+Echanger % obmyenivat'
 Arriver % priyezjat'
-Tourner % povyernout'
-Toucher (verbe) % prikosnout'sya
+Tourner % povorachivat'
+Toucher (verbe) % prikasat'sya
 Manquer % skouchat'
 Bouger % dvigat'sya
 Tomber % padat'
 Faire confiance % dovyeryat'
 Pleurer % plakat'
 Fonctionner % rabotat'
-Deviner % ougadat'
+Deviner % ougadyvat'
 Naître % rodit'sya
 Mettre (à plat) % klast'
 Mettre (debout) % stavit'
@@ -165,7 +165,7 @@ Avoir soif % khotyet' pit'
 Trouver (to find) % nakhodit'
 Tuer % oubivat'
 Jurer % klyast'sya
-Partir % ouîti
+Partir % oukhodit'
 Chercher % iskat'
 
 Moche (M) % ourodlivyî
@@ -178,28 +178,16 @@ Froid % kholodnyî
 Froide % kholodnaya
 Nouveau % novyî
 Nouvelle % novaya
-Ancien % staryî
-Ancienne % staraya
-Jeune (M) % molodoî
-Jeune (F) % molodaya
-Vieux % staryî
-Vieille % staraya
 Cher % dorogoî
 Chère % dorogaya
 Bon marché (M) % dyeshyovyî
 Bon marché (F) % dyeshyovaya
-Propre (clean) (M) % chistyî
-Propre (clean) (F) % chistaya
-Sale (M) % gryaznyî
-Sale (F) % gryaznaya
 Rapide (M) % bystryî
 Rapide (F) % bystraya
 Lent % myedlyennyî
 Lente % myedlyennaya
-Gentil % dobryî
-Gentille % dobraya
-Méchant % zloî
-Méchante % zlaya
+Drôle (M) % zabavnyî
+Drôle (F) % zabavnaya
 Intelligent % oumnyî
 Intelligente % oumnaya
 Débile (M) % gloupyî
@@ -216,24 +204,8 @@ Possible (M) % vozmojnyî
 Possible (F) % vozmojnaya
 Impossible (M) % nyevozmojnyî
 Impossible (F) % nyevozmojnaya
-Lourd % tyajyelyî
-Lourde % tyajyelaya
-Léger % lyokhkiî
-Légère % lyohkaya
-Plein % polnyî
-Pleine % polnaya
-Vide (M) % poustoî
-Vide (F) % poustaya
 Parfait % idyeal'nyî
 Parfaite % idyeal'naya
-Incroyable (M) % nyevyeroyatnyî
-Incroyable (F) % nyevyeroyatnaya
-Drôle (M) % zabavnyî
-Drôle (F) % zabavnaya
-Sérieux % syer'yoznyî
-Sérieuse % syer'yoznaya
-Mignon % milyî
-Mignonne % milaya
 Premier % pyervyî
 Première % pyervaya
 Dernier % poslyedniî
@@ -242,46 +214,23 @@ Long % dlinnyî
 Longue % dlinnaya
 Court % korotkiî
 Courte % korotkaya
-Prêt % gotovyî
-Prête % gotovaya
 Malade (M) % bol'noî
 Malade (F) % bol'naya
 Bourré (drunk) (M) % p'yanyî
 Bourrée (drunk) (F) % p'yanaya
-Vrai % istinnyî
-Vraie % istinnaya
-Faux % fal'shivyî
-Fausse % fal'shivaya
 Fort % sil'nyî
 Forte % sil'naya
 Faible (M) % slabyî
 Faible (F) % slabaya
-Juste (fair) (M) % spravyedlivyî
-Juste (fair) (F) % spravyedlivaya
-Injuste (M) % nyespravyedlivyî
-Injuste (F) % nyespravyedlivaya
-En avance (M) % ranniî
-En avance (F) % rannyaya
-En retard (M) % pozdniî
-En retard (F) % pozdnyaya
+
 Seul % odinokoî
 Seule % odinokaya
-Occupé % zanyatoî
-Occupée % zanyataya
 Étrange (M) % strannyî
 Étrange (F) % strannaya
 Normal % normal'nyî
 Normale % normal'naya
-Autorisé % razryeshyonnyî
-Autorisée % razryeshyonnaya
-Interdit % zapryeshshyonnyî
-Interdite % zapryeshshyonnaya
 Important % vajnyî
 Importante % vajnaya
-Vivant % jivoî
-Vivante % jivaya
-Mort % myortvyî
-Morte % myortvaya
 Blessé % ranyenyî
 Blessée % ranyenaya
 Excellent % otlichnyî

@@ -1,29 +1,24 @@
-Montrer % pokazat'
-Oublier % zabyvat'
+Droite % napravo
 
-Déjà % oujye
-Même % dajye
-Presque % pochti
-Quelque chose (spécifique) % chto-to
-Quelque chose (hypothétique) % chto-niboud'
-Quelqu'un (spécifique) % kto-to
-Quelqu'un (hypothétique) % kto-niboud'
-Personne (nobody) % nikto
+Pourquoi % pochyemou
+Parce que % potomou chto
 
-Matin % outro
-Soir % vyechyer
-Nuit % noch'
-Seconde % vtoroî
-Minute % minouta
-Heure % chas
-Bientôt % skoro
-Tôt % rano
-Tard % pozdno
-Midi % poldyen'
-Minuit % polnoch'
+Fille (daughter) % doch'
+Garçon (genre) % mal'chik
 
-Petit-fils % vnouk
-Petite-fille % vnouchka
+Cours % ourok
 
-Lieu % myesto
-Yeux % glaza
+
+
+
+
+
+Vraie % istinnaya
+
+Fausse % fal'shivaya
+
+Mignonne % milaya
+
+Gentille % dobraya
+
+Méchante % zlaya

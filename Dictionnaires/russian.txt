@@ -77,6 +77,17 @@ Année % god
 Aujourd'hui % syegodnya
 Demain % zavtra
 Hier % vchyera
+Matin % outro
+Soir % vyechyer
+Nuit % noch'
+Seconde % syekounda
+Minute % minouta
+Heure % chas
+Bientôt % skoro
+Tôt % rano
+Tard % pozdno
+Midi % poldyen'
+Minuit % polnoch'
 Âge % vozrast
 
 Couleur % tsvyet
@@ -99,16 +110,16 @@ Père % otyets
 Frère % brat
 Sœur % syestra
 Fils (son) % syn
-Fille (daughter) % dyevochka
 Grand-père % dyedoushka
 Grand-mère % baboushka
 Ami % droug
 Amie % podrouga
 Homme % moujchina
-Garçon (genre) % mujskoy
-Femme % jyenshshiny
-Fille (genre) % jyenskiy
+Femme % jyenshshina
+Fille (genre) % dyevoushka
 Enfant % ryebyenok
+Petit-fils % vnouk
+Petite-fille % vnouchka
 
 Bonjour % zdravstvouîtye
 Salut % privyet
@@ -154,7 +165,7 @@ Plus % bol'shye
 Moins % myen'shye
 Un peu (Adjectif) (Pretty) % nyemnogo
 Chaque % kajdyî
-Tout % vsye
+Tout % vsyo
 Tous % vsye
 Si % yesli
 Comme % kak
@@ -166,14 +177,18 @@ Chez % k
 Par % po
 Pendant que % poka
 Gauche % lyevyî
-Droite % vyerno
 Rien % nichyego
-Pourquoi % za chto
-Parce que % potomou chto
 Encore % snova
-À % imyeyet
+Déjà % oujye
+Même % dajye
+Presque % pochti
+Quelque chose (spécifique) % chto-to
+Quelque chose (hypothétique) % chto-niboud'
+Quelqu'un (spécifique) % kto-to
+Quelqu'un (hypothétique) % kto-niboud'
+Personne (nobody) % nikto
 
-Tic de language (genre) % tipo
+Genre (Tic de language) % tipo
 Va te faire foutre % idi na khouî
 Putain % blyat'
 Language slang % mat
@@ -189,21 +204,16 @@ Aller % idti
 Devoir % doljyen
 Vouloir % khotyet'
 Apprendre/Enseigner % ouchit'
-Parler % govorit'
+Parler / Dire % govorit'
 Marcher % khodit'
 Savoir/Connaître % znat'
 Penser % doumat'
 Croire % vyerit'
-Donner % dat'
 Travailler % rabotat'
 Aimer % lyubit'
 Prendre % brat'
-Dire % skazat'
 Attendre % jdat'
-Ouvrir % otkryt'
 Fermer % zakryvat'
-Acheter % koupit'
-Écrire % napisat'
 Lire % chitat'
 Vivre % jit'
 Jouer % igrat'
@@ -212,7 +222,6 @@ Payer % platit'
 Vendre % prodavat'
 Venir % prikhodit'
 Voir % vidyet'
-Comprendre % ponyat'
 
 Beau % krasivyî
 Belle % krasivaya
@@ -236,9 +245,9 @@ Meilleure % louchshaya
 Pire (M) % khoudshiî
 Pire (F) % khoudshaya
 
-Petit-déjeuner % zavtrak
-Déjeuner % obyed
-Dîner % oujin
+Petit-déjeuner (matin) % zavtrak
+Déjeuner (jour) % obyed
+Dîner (soir) % oujin
 Pain % khlyeb
 Eau % voda
 Oeuf % yaîtso
@@ -276,7 +285,6 @@ Dieu % bog
 École % shkola
 Livre % kniga
 Voiture % mashina
-Cours % kours
 Amour % lyubov'
 Médecin % doktor
 Façon % sposob
@@ -285,11 +293,5 @@ Drapeau % flag
 Chance % shans
 Choix % vybor
 Bus % avtobous
-
-
-
-
-
-
-
-
+Lieu % myesto
+Yeux % glaza

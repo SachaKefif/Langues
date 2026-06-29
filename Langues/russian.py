@@ -39,7 +39,7 @@ os.makedirs(GRAPHS_DIR, exist_ok=True)
 
 # Variable pour choisir le dictionnaire
 # 1: dictionnaire complet, 2: dictionnaire échantillon, 3: dictionnaire révision
-dictionnaire = 2
+dictionnaire = 1
 
 # Variable pour choisir le type d'entraînement
 # 0: conjugaison et traduction, 1: uniquement traduction, 2: uniquement conjugaison

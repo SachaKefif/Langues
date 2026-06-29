@@ -62,7 +62,7 @@ Autant que % stol'ko, skol'ko
 Attention (be careful) % ostorojno
 
 Passioner % ouvlyekat'
-Déchiffrer % rasshifrovat'
+Déchiffrer % rasshifrovyvat'
 Restreindre % ogranichivat'
 Moisir % plyesnyevyet'
 Frotter % tyeryet'
@@ -75,7 +75,7 @@ Piéger / Duper % obmanyvat'
 Motiver % motivirovat'
 Choquer % shokirovat'
 Alterner % chyeryedovat'
-Adopter % ousynovit'
+Adopter % ousynovlyat'
 Impacter % vliyat'
 Élever % podnimat'
 Résoudre % ryeshat'
@@ -88,7 +88,7 @@ Chasser (to hunt) % okhotit'sya
 Défendre % zashshishshat'
 Attaquer % atakovat'
 Gâcher % portit'sya
-S'éloigner % ouîti
+S'éloigner % oukhodit'
 Prédire % pryedskazyvat'
 Exagérer % pryeouvyelichivat'
 Surprendre % oudivlyat'
@@ -99,29 +99,29 @@ Inviter % priglashat'
 Se demander % zadavat'sya voprosom
 S'asseoir % sadit'sya
 Influencer % vliyat'
-Coincer % zastryat'
+Coincer % zastryevat'
 Hésiter % somnyevat'sya
-Rembourser % pogasit'
+Rembourser % pogashat'
 Parier (bet) % stavit'
 Répandre % rasprostranyat'
-Réparer % otryemontirovat'
+Réparer % ryemontirovat'
 Prétendre % pritvoryat'sya
 Prendre soin % zabotit'sya
 Exister % soushshyestvovat'
-Empêcher % pryedotvratit'
+Empêcher % pryedotvrashshat'
 Remercier % blagodarit'
 Sourir % oulybat'sya
-Assembler % sobrat'
+Assembler % sobirat'
 Décider % ryeshat'
 Servir % sloujit'
 Garder % dyerjat'
 Maintenir % poddyerjivat'
-Confondre % zapoutat'
+Confondre % zapoutyvat'
 Admirer % voskhishshat'sya
 Prier % molit'sya
 Contenir % sodyerjat'
 Respirer % dyshat'
-S'échapper % sbyejat'
+S'échapper % sbyegat'
 Apparaître % poyavlyat'sya
 Disparaître % propadat'
 Déchirer % rvat'
@@ -132,25 +132,25 @@ Vomir % rvat'
 Respecter % ouvajat'
 Sécher % souchit'
 Mouiller % mochit'
-Accéder % polouchit' dostoup
+Accéder % polouchat' dostoup
 Permettre % pozvolyat'
 Observer % nablyudat'
 Espionner % shpionit'
-Abandonner % sdat'sya
-Démissionner % podat' v otstavkou
+Abandonner % sdavat'sya
+Démissionner % podavat' v otstavkou
 Augmenter % ouvyelichivat'
 Soutenir % poddyerjivat'
-Se venger % otomstit'
+Se venger % mstit'
 Accompagner % soprovojdat'
 Réduire % oumyen'shat'
 Diminuer % snijat'sya
-Réserver % zabronirovat'
+Réserver % bronirovat'
 Sonner % zvonit'
 Pratiquer % ouprajnyat'sya
-Déguiser % zamaskirovat'
+Déguiser % maskirovat'
 Approcher % podkhodit'
 Convaincre % oubyejdat'
-Récupérer % vosstanovit'
+Récupérer % vosstanavlivat'
 Survivre % vyjivat'
 Tendre % tyanout'
 Se dépêcher % toropit'sya
@@ -169,13 +169,13 @@ Définir % opryedyelyat'
 Décrire % opisyvat'
 Guider % napravlyat'
 Programmer % programirovat'
-Présenter % pryedstavit'
-Se tromper % sdyelat' oshibkou
+Présenter % pryedstavlyat'
+Se tromper % dyelat' oshibkou
 Câliner % obnimat'
 Fumer % kourit'
 Insulter % oskorblyat'
-Annuler % otmyenit'
-Arnaquer % obmanout'
+Annuler % otmyenyat'
+Arnaquer % obmanyvat'
 Contrôler % kontrolirovat'
 Sélectionner % vybirat'
 Harceler % pryeslyedovat'
@@ -184,54 +184,54 @@ Se plaindre % jalovat'sya
 Cultiver % koul'tivirovat'
 Menacer % ougrojat'
 Attirer % privlyekat'
-Empoisonner % otravit'
-Pardonner % prostit'
-Rassurer % ouspokoit'
+Empoisonner % otravlyat'
+Pardonner % proshshat'
+Rassurer % ouspokaivat'
 Prouver % dokazyvat'
 Insister % nastaivat'
 Trahir % pryedavat'
 Exclure % isklyuchat'
 Imaginer % pryedstavlyat' syebye
-Grossir % stat' bol'shye
-Maigrir % pokhoudyet'
+Grossir % stanovit'sya bol'shye
+Maigrir % khoudyet'
 Appartenir % prinadlyejat'
 Posséder % vladyet'
 Apprécier % tsyenit'
-Inonder % zatopit'
+Inonder % zataplivat'
 Se lever % vstavat'
-Louer % sdat' v aryendou
-Enlever % oudalit'
+Louer % sdavat' v aryendou
+Enlever % oudalyat'
 Retirer % otzyvat'
-Réunir % vossoyedinit'sya
-Déclarer % ob"yavit'
+Réunir % vossoyedinyat'sya
+Déclarer % ob"yavlyat'
 Dépenser % tratit'
 Critiquer % kritikovat'
 Éteindre % vyklyuchat'
 Allumer % vklyuchat'
 Uriner % mochit'sya
 Autoriser % razryeshat'
-Interdire % zapryetit'
+Interdire % zapryeshshat'
 Chuchoter % sheptat'
-Soulager % oblyegchit'
+Soulager % oblyegchat'
 Inventer % izobryetat'
 Suivre % slyedovat'
 Porter (to wear) % nosit'
 Se moquer % izdyevat'sya
 Voter % golosovat'
-Lâcher % otpoustit'
+Lâcher % otpouskat'
 Afficher % otobrajat'
 Prendre (une photo) % fotografirovat'
 Obtenir % polouchat'
 Galérer (to struggle) % ouchit'sya
 Remplacer % zamyenyat'
 Risquer % riskovat'
-Essayer % poprobovat'
+Essayer % probovat'
 Organiser % organizovat'
-Revenir % vyernout'sya
+Revenir % vozvrashshat'sya
 Protéger % zashshishshat'
 Promettre % obyeshshat'
-Préparer % podgotovit'
-Télécharger % skachat'
+Préparer % podgotavlivat'
+Télécharger % skachivat'
 Cacher % skryvat'
 Tenir % dyerjat'
 Créer % sozdavat'
@@ -245,22 +245,22 @@ Tricher % joulnichat'
 Copier % kopirovat'
 Ajouter % dobavlyat'
 Douter % somnyevat'sya
-Répéter % povtorit'
+Répéter % povtoryat'
 Conduire % vodit'
 Paniquer % panikovat'
-Monter % podnyat'sya
-Descendre % spoustit'sya
+Monter % podnimat'sya
+Descendre % spouskat'sya
 Intéresser % intyeryesovat'
-Cliquer % najat'
-Oser % osmyelit'sya
-Échouer % provalit'
+Cliquer % najimat'
+Oser % osmyelivat'sya
+Échouer % provalivat'
 Profiter % naslajdat'sya
 Souffrir % stradat'
 S'entraîner % tryenirovat'sya
 Avancer % dvigat'sya
 Se battre % drat'sya
-Supprimer % oudalit'
-Ralentir % zamyedlit'
+Supprimer % oudalyat'
+Ralentir % zamyedlyat'
 Accélérer % ouskoryat'
 Agir % dyeîstvovat'
 Juger % soudit'
@@ -268,7 +268,7 @@ Sauver % spasat'
 Sauter % prygat'
 Crier % krichat'
 Coller % kleyit'
-Découvrir % obnaroujit'
+Découvrir % obnaroujivat'
 Brûler % goryet'
 Voler % lyetat'
 Nager % plavat'
@@ -317,7 +317,46 @@ Capable (M) % sposobnyî
 Capable (F) % sposobnaya
 Incapable (M) % nyesposobnyî
 Incapable (F) % nyesposobnaya
-Soudain % vnyezapnyî
+Sérieux % syer'yoznyî
+Sérieuse % syer'yoznaya
+Propre (clean) (M) % chistyî
+Propre (clean) (F) % chistaya
+Sale (M) % gryaznyî
+Sale (F) % gryaznaya
+Juste (fair) (M) % spravyedlivyî
+Juste (fair) (F) % spravyedlivaya
+Injuste (M) % nyespravyedlivyî
+Injuste (F) % nyespravyedlivaya
+Prêt % gotovyî
+Prête % gotovaya
+Incroyable (M) % nyevyeroyatnyî
+Incroyable (F) % nyevyeroyatnaya
+Plein % polnyî
+Pleine % polnaya
+Vide (M) % poustoî
+Vide (F) % poustaya
+Lourd % tyajyelyî
+Lourde % tyajyelaya
+Léger % lyokhkiî
+Légère % lyohkaya
+Jeune (M) % molodoî
+Jeune (F) % molodaya
+Vieux % staryî
+Vieille % staraya
+En avance (M) % ranniî
+En avance (F) % rannyaya
+En retard (M) % pozdniî
+En retard (F) % pozdnyayaSoudain % vnyezapnyî
+Occupé % zanyatoî
+Occupée % zanyataya
+Autorisé % razryeshyonnyî
+Autorisée % razryeshyonnaya
+Interdit % zapryeshshyonnyî
+Interdite % zapryeshshyonnaya
+Vivant % jivoî
+Vivante % jivaya
+Mort % myortvyî
+Morte % myortvaya
 Soudaine % vnyezapnaya
 Sec % soukhoî
 Sèche % soukhaya
@@ -566,7 +605,7 @@ Odeur % zapakh
 Sens % smysl
 Vue % vid
 Odorat % zapakh
-Toucher (sens) % prikosnout'sya
+Toucher (sens) % prikasat'sya
 Goût % vkous
 Ouïe % sloukh
 Jardin % sad

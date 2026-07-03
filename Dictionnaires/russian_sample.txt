@@ -1,13 +1,5 @@
-Vrai % istinnyî
-Faux % fal'shivyî
-Mignon % milyî
-Gentil % dobryî
-Méchant % zloî
-
-Comprendre % ponimat'
-Montrer % pokazyvat'
-Oublier % zabyvat'
-Acheter % pokoupat'
-Écrire % pisat'
-Ouvrir % otkryvat'
-Donner % davat'
+Saison % syezon
+Hiver % zima
+Printemps % vyesna
+Été % lyeto
+Automne % osyen'

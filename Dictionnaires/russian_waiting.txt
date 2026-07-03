@@ -102,71 +102,70 @@ Nulle part % nigdye
 Bref % korochye
 Récemment % nyedavno
 
-Rester % ostavat'sya
-Se nommer % nazyvat'sya
-Demander % prosit'
-Répondre % otvyechat'
-Regarder % smotryet'
-Couper % ryezat'
-Tirer % vytaskivat'
-Pousser % tolkat'
-Mourir % oumirat'
-Apporter/Ammener % prinosit'
-Emporter/Emmener % zabirat'
-Casser % lomat'
-Arrêter % ostanavlivat'sya
-Écouter % sloushat'
-Entendre % slyshat'
-Détester % nyenavidyet'
-Commencer % nachinat'
-Terminer % zakanchivat'
-Gagner % zarabatyvat'
-Perdre % tyeryat'
-Refuser % otkazyvat'sya
-Jeter % brosat'
-Devenir % stanovit'sya
-Se souvenir % pomnit'
-Laisser % ostavlyat'
-Embrasser % tsyelovat'
-Choisir % vybirat'
-Changer % izmyenyat'
-Aider % pomogat'
-Porter (to carry) % nyesti
-Penser (trouver) % schitat'
-Envoyer % otpravlyat'
-Être d'accord % soglashat'sya
-Espérer % nadyeyat'sya
-Expliquer % ob"yasnyat'
-Danser % tantsyevat'
-Chanter % pyet'
-Echanger % obmyenivat'
-Arriver % priyezjat'
-Tourner % povorachivat'
-Toucher (verbe) % prikasat'sya
-Manquer % skouchat'
-Bouger % dvigat'sya
-Tomber % padat'
-Faire confiance % dovyeryat'
-Pleurer % plakat'
-Fonctionner % rabotat'
-Deviner % ougadyvat'
-Naître % rodit'sya
-Mettre (à plat) % klast'
-Mettre (debout) % stavit'
-Grandir % rasti
-Courrir % byegat'
-Sentir (to feel) % chouvstvovat'
-Se passer (to happen) % slouchat'sya
-Mentir % vrat'
-Préférer % pryedpochitat'
-Utiliser % ispol'zovat'
-Avoir faim % byt' golodnym
-Avoir soif % khotyet' pit'
-Trouver (to find) % nakhodit'
-Tuer % oubivat'
-Jurer % klyast'sya
-Partir % oukhodit'
-Chercher % iskat'
+Rester (HCB) % ostavat'sya
+Se nommer (HCB) % nazyvat'sya
+Demander (HCB) % prosit'
+Répondre (HCB) % otvyechat'
+Regarder (HCB) % smotryet'
+Couper (HCB) % ryezat'
+Tirer (HCB) % vytaskivat'
+Pousser (HCB) % tolkat'
+Mourir (HCB) % oumirat'
+Apporter/Ammener (HCB) % prinosit'
+Emporter/Emmener (HCB) % zabirat'
+Casser (HCB) % lomat'
+Arrêter (HCB) % ostanavlivat'sya
+Écouter (HCB) % sloushat'
+Entendre (HCB) % slyshat'
+Détester (HCB) % nyenavidyet'
+Commencer (HCB) % nachinat'
+Terminer (HCB) % zakanchivat'
+Gagner (HCB) % zarabatyvat'
+Perdre (HCB) % tyeryat'
+Refuser (HCB) % otkazyvat'sya
+Jeter (HCB) % brosat'
+Devenir (HCB) % stanovit'sya
+Se souvenir (HCB) % pomnit'
+Laisser (HCB) % ostavlyat'
+Embrasser (HCB) % tsyelovat'
+Choisir (HCB) % vybirat'
+Changer (HCB) % izmyenyat'
+Aider (HCB) % pomogat'
+Porter (to carry) (HCB) % nyesti
+Penser (trouver) (HCB) % schitat'
+Envoyer (HCB) % otpravlyat'
+Être d'accord (HCB) % soglashat'sya
+Espérer (HCB) % nadyeyat'sya
+Expliquer (HCB) % ob"yasnyat'
+Danser (HCB) % tantsyevat'
+Chanter (HCB) % pyet'
+Echanger (HCB) % obmyenivat'
+Arriver (HCB) % priyezjat'
+Tourner (HCB) % povorachivat'
+Toucher (verbe) (HCB) % prikasat'sya
+Manquer (HCB) % skouchat'
+Bouger (HCB) % dvigat'sya
+Tomber (HCB) % padat'
+Pleurer (HCB) % plakat'
+Fonctionner (HCB) % rabotat'
+Deviner (HCB) % ougadyvat'
+Naître (HCB) % rodit'sya
+Mettre (à plat) (HCB) % klast'
+Mettre (debout) (HCB) % stavit'
+Grandir (HCB) % rasti
+Courrir (HCB) % byegat'
+Sentir (to feel) (HCB) % chouvstvovat'
+Se passer (to happen) (HCB) % slouchat'sya
+Mentir (HCB) % vrat'
+Préférer (HCB) % pryedpochitat'
+Utiliser (HCB) % ispol'zovat'
+Avoir faim (HCB) % byt' golodnym
+Avoir soif (HCB) % khotyet' pit'
+Trouver (to find) (HCB) % nakhodit'
+Tuer (HCB) % oubivat'
+Jurer (HCB) % klyast'sya
+Partir (HCB) % oukhodit'
+Chercher (HCB) % iskat'
 
 Moche (M) % ourodlivyî
 Moche (F) % ourodlivaya
@@ -295,20 +294,7 @@ T-shirt % foutbolka
 Lunettes % ochki
 Bouteille % boutylka
 Restaurant % ryestoran
-Bras % rouka
-Jambe % noga
-Tête % golova
-Oreille % oukho
-Nez % nos
-Bouche % rot
-Main % rouka
-Pied % stoupnya
-Doigt % palyets
-Cheveux % volosy
-Peau % koja
-Cerveau % mozg
-Dent % zoub
-Corps % tyelo
+
 Douleur % bol'
 Prix % tsyena
 Question % vopros
@@ -325,8 +311,6 @@ Vérité % pravda
 Mensonge % loj'
 Film % fil'm
 Lumière % svyet
-Feu % ogon'
-Mot % slovo
 Lettre (alphabet) % boukva
 Langue (language) % yazyk
 Coeur % syerdtsye
@@ -334,11 +318,6 @@ Phrase % pryedlojyeniye
 Sol % zyemlya
 Mur % styena
 Montagne % gora
-Saison % syezon
-Été % lyeto
-Automne % osyen'
-Hiver % zima
-Printemps % vyesna
 Groupe/Bande % grouppa
 Peur % strakh
 Idée % idyeya

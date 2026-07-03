@@ -61,217 +61,218 @@ Plutôt que % skoryeye, chyem
 Autant que % stol'ko, skol'ko
 Attention (be careful) % ostorojno
 
-Passioner % ouvlyekat'
-Déchiffrer % rasshifrovyvat'
-Restreindre % ogranichivat'
-Moisir % plyesnyevyet'
-Frotter % tyeryet'
-Peindre % risovat'
-Faire pitié % vyzyvat' jalost'
-Habituer % privykat'
-Faire exprès % dyelat' naroshno
-Séparer % razdyelyat'
-Piéger / Duper % obmanyvat'
-Motiver % motivirovat'
-Choquer % shokirovat'
-Alterner % chyeryedovat'
-Adopter % ousynovlyat'
-Impacter % vliyat'
-Élever % podnimat'
-Résoudre % ryeshat'
-Étonner % oudivlyat'
-Se la péter % vypyendrivat'sya
-Supporter/En pouvoir % tyerpyet'
-S'inquiéter % volnovat'sya
-Retourner % vozvrashshat'sya
-Chasser (to hunt) % okhotit'sya
-Défendre % zashshishshat'
-Attaquer % atakovat'
-Gâcher % portit'sya
-S'éloigner % oukhodit'
-Prédire % pryedskazyvat'
-Exagérer % pryeouvyelichivat'
-Surprendre % oudivlyat'
-Tousser % kashlyat'
-Ronfler % khrapyet'
-Péter % pyerdyet'
-Inviter % priglashat'
-Se demander % zadavat'sya voprosom
-S'asseoir % sadit'sya
-Influencer % vliyat'
-Coincer % zastryevat'
-Hésiter % somnyevat'sya
-Rembourser % pogashat'
-Parier (bet) % stavit'
-Répandre % rasprostranyat'
-Réparer % ryemontirovat'
-Prétendre % pritvoryat'sya
-Prendre soin % zabotit'sya
-Exister % soushshyestvovat'
-Empêcher % pryedotvrashshat'
-Remercier % blagodarit'
-Sourir % oulybat'sya
-Assembler % sobirat'
-Décider % ryeshat'
-Servir % sloujit'
-Garder % dyerjat'
-Maintenir % poddyerjivat'
-Confondre % zapoutyvat'
-Admirer % voskhishshat'sya
-Prier % molit'sya
-Contenir % sodyerjat'
-Respirer % dyshat'
-S'échapper % sbyegat'
-Apparaître % poyavlyat'sya
-Disparaître % propadat'
-Déchirer % rvat'
-Mélanger % smyeshivat'
-Remplir % napolnyat'
-Vider % opoustoshat'
-Vomir % rvat'
-Respecter % ouvajat'
-Sécher % souchit'
-Mouiller % mochit'
-Accéder % polouchat' dostoup
-Permettre % pozvolyat'
-Observer % nablyudat'
-Espionner % shpionit'
-Abandonner % sdavat'sya
-Démissionner % podavat' v otstavkou
-Augmenter % ouvyelichivat'
-Soutenir % poddyerjivat'
-Se venger % mstit'
-Accompagner % soprovojdat'
-Réduire % oumyen'shat'
-Diminuer % snijat'sya
-Réserver % bronirovat'
-Sonner % zvonit'
-Pratiquer % ouprajnyat'sya
-Déguiser % maskirovat'
-Approcher % podkhodit'
-Convaincre % oubyejdat'
-Récupérer % vosstanavlivat'
-Survivre % vyjivat'
-Tendre % tyanout'
-Se dépêcher % toropit'sya
-Conseiller % sovyetovat'
-Lier % svyazyvat'
-Récompenser % nagrajdat'
-Croquer % khroustyet'
-Punir % nakazyvat'
-Énerver % razdrajat'
-Concerner % kasat'sya
-Regretter % sojalyet'
-Exciter % vozboujdat'
-Prévenir % pryedotvrashshat'
-Supporter (to cheer) % poddyerjivat'
-Définir % opryedyelyat'
-Décrire % opisyvat'
-Guider % napravlyat'
-Programmer % programirovat'
-Présenter % pryedstavlyat'
-Se tromper % dyelat' oshibkou
-Câliner % obnimat'
-Fumer % kourit'
-Insulter % oskorblyat'
-Annuler % otmyenyat'
-Arnaquer % obmanyvat'
-Contrôler % kontrolirovat'
-Sélectionner % vybirat'
-Harceler % pryeslyedovat'
-Se plaindre % jalovat'sya
-Évaluer % otsyenivat'
-Cultiver % koul'tivirovat'
-Menacer % ougrojat'
-Attirer % privlyekat'
-Empoisonner % otravlyat'
-Pardonner % proshshat'
-Rassurer % ouspokaivat'
-Prouver % dokazyvat'
-Insister % nastaivat'
-Trahir % pryedavat'
-Exclure % isklyuchat'
-Imaginer % pryedstavlyat' syebye
-Grossir % stanovit'sya bol'shye
-Maigrir % khoudyet'
-Appartenir % prinadlyejat'
-Posséder % vladyet'
-Apprécier % tsyenit'
-Inonder % zataplivat'
-Se lever % vstavat'
-Louer % sdavat' v aryendou
-Enlever % oudalyat'
-Retirer % otzyvat'
-Réunir % vossoyedinyat'sya
-Déclarer % ob"yavlyat'
-Dépenser % tratit'
-Critiquer % kritikovat'
-Éteindre % vyklyuchat'
-Allumer % vklyuchat'
-Uriner % mochit'sya
-Autoriser % razryeshat'
-Interdire % zapryeshshat'
-Chuchoter % sheptat'
-Soulager % oblyegchat'
-Inventer % izobryetat'
-Suivre % slyedovat'
-Porter (to wear) % nosit'
-Se moquer % izdyevat'sya
-Voter % golosovat'
-Lâcher % otpouskat'
-Afficher % otobrajat'
-Prendre (une photo) % fotografirovat'
-Obtenir % polouchat'
-Galérer (to struggle) % ouchit'sya
-Remplacer % zamyenyat'
-Risquer % riskovat'
-Essayer % probovat'
-Organiser % organizovat'
-Revenir % vozvrashshat'sya
-Protéger % zashshishshat'
-Promettre % obyeshshat'
-Préparer % podgotavlivat'
-Télécharger % skachivat'
-Cacher % skryvat'
-Tenir % dyerjat'
-Créer % sozdavat'
-Déplacer % dvigat'sya
-Continuer % prodoljat'
-Partager % dyelit'sya
-Rêver % myechtat'
-Développer % razvivat'
-Comparer % sravnivat'
-Tricher % joulnichat'
-Copier % kopirovat'
-Ajouter % dobavlyat'
-Douter % somnyevat'sya
-Répéter % povtoryat'
-Conduire % vodit'
-Paniquer % panikovat'
-Monter % podnimat'sya
-Descendre % spouskat'sya
-Intéresser % intyeryesovat'
-Cliquer % najimat'
-Oser % osmyelivat'sya
-Échouer % provalivat'
-Profiter % naslajdat'sya
-Souffrir % stradat'
-S'entraîner % tryenirovat'sya
-Avancer % dvigat'sya
-Se battre % drat'sya
-Supprimer % oudalyat'
-Ralentir % zamyedlyat'
-Accélérer % ouskoryat'
-Agir % dyeîstvovat'
-Juger % soudit'
-Sauver % spasat'
-Sauter % prygat'
-Crier % krichat'
-Coller % kleyit'
-Découvrir % obnaroujivat'
-Brûler % goryet'
-Voler % lyetat'
-Nager % plavat'
+Passioner (HCB) % ouvlyekat'
+Déchiffrer (HCB) % rasshifrovyvat'
+Restreindre (HCB) % ogranichivat'
+Moisir (HCB) % plyesnyevyet'
+Frotter (HCB) % tyeryet'
+Peindre (HCB) % risovat'
+Faire pitié (HCB) % vyzyvat' jalost'
+Habituer (HCB) % privykat'
+Faire exprès (HCB) % dyelat' naroshno
+Séparer (HCB) % razdyelyat'
+Piéger / Duper (HCB) % obmanyvat'
+Motiver (HCB) % motivirovat'
+Choquer (HCB) % shokirovat'
+Alterner (HCB) % chyeryedovat'
+Adopter (HCB) % ousynovlyat'
+Impacter (HCB) % vliyat'
+Élever (HCB) % podnimat'
+Résoudre (HCB) % ryeshat'
+Étonner (HCB) % oudivlyat'
+Se la péter (HCB) % vypyendrivat'sya
+Supporter/En pouvoir (HCB) % tyerpyet'
+S'inquiéter (HCB) % volnovat'sya
+Retourner (HCB) % vozvrashshat'sya
+Chasser (to hunt) (HCB) % okhotit'sya
+Défendre (HCB) % zashshishshat'
+Attaquer (HCB) % atakovat'
+Gâcher (HCB) % portit'sya
+S'éloigner (HCB) % oukhodit'
+Prédire (HCB) % pryedskazyvat'
+Exagérer (HCB) % pryeouvyelichivat'
+Surprendre (HCB) % oudivlyat'
+Tousser (HCB) % kashlyat'
+Ronfler (HCB) % khrapyet'
+Péter (HCB) % pyerdyet'
+Inviter (HCB) % priglashat'
+Se demander (HCB) % zadavat'sya voprosom
+S'asseoir (HCB) % sadit'sya
+Influencer (HCB) % vliyat'
+Coincer (HCB) % zastryevat'
+Hésiter (HCB) % somnyevat'sya
+Rembourser (HCB) % pogashat'
+Parier (bet) (HCB) % stavit'
+Répandre (HCB) % rasprostranyat'
+Réparer (HCB) % ryemontirovat'
+Prétendre (HCB) % pritvoryat'sya
+Prendre soin (HCB) % zabotit'sya
+Exister (HCB) % soushshyestvovat'
+Empêcher (HCB) % pryedotvrashshat'
+Remercier (HCB) % blagodarit'
+Sourir (HCB) % oulybat'sya
+Assembler (HCB) % sobirat'
+Décider (HCB) % ryeshat'
+Servir (HCB) % sloujit'
+Garder (HCB) % dyerjat'
+Maintenir (HCB) % poddyerjivat'
+Confondre (HCB) % zapoutyvat'
+Admirer (HCB) % voskhishshat'sya
+Prier (HCB) % molit'sya
+Contenir (HCB) % sodyerjat'
+Respirer (HCB) % dyshat'
+S'échapper (HCB) % sbyegat'
+Apparaître (HCB) % poyavlyat'sya
+Disparaître (HCB) % propadat'
+Déchirer (HCB) % rvat'
+Mélanger (HCB) % smyeshivat'
+Remplir (HCB) % napolnyat'
+Vider (HCB) % opoustoshat'
+Vomir (HCB) % rvat'
+Respecter (HCB) % ouvajat'
+Sécher (HCB) % souchit'
+Mouiller (HCB) % mochit'
+Accéder (HCB) % polouchat' dostoup
+Permettre (HCB) % pozvolyat'
+Observer (HCB) % nablyudat'
+Espionner (HCB) % shpionit'
+Abandonner (HCB) % sdavat'sya
+Démissionner (HCB) % podavat' v otstavkou
+Augmenter (HCB) % ouvyelichivat'
+Soutenir (HCB) % poddyerjivat'
+Se venger (HCB) % mstit'
+Accompagner (HCB) % soprovojdat'
+Réduire (HCB) % oumyen'shat'
+Diminuer (HCB) % snijat'sya
+Réserver (HCB) % bronirovat'
+Sonner (HCB) % zvonit'
+Pratiquer (HCB) % ouprajnyat'sya
+Déguiser (HCB) % maskirovat'
+Approcher (HCB) % podkhodit'
+Convaincre (HCB) % oubyejdat'
+Récupérer (HCB) % vosstanavlivat'
+Survivre (HCB) % vyjivat'
+Tendre (HCB) % tyanout'
+Se dépêcher (HCB) % toropit'sya
+Conseiller (HCB) % sovyetovat'
+Lier (HCB) % svyazyvat'
+Récompenser (HCB) % nagrajdat'
+Croquer (HCB) % khroustyet'
+Punir (HCB) % nakazyvat'
+Énerver (HCB) % razdrajat'
+Concerner (HCB) % kasat'sya
+Regretter (HCB) % sojalyet'
+Exciter (HCB) % vozboujdat'
+Prévenir (HCB) % pryedotvrashshat'
+Supporter (to cheer) (HCB) % poddyerjivat'
+Définir (HCB) % opryedyelyat'
+Décrire (HCB) % opisyvat'
+Guider (HCB) % napravlyat'
+Programmer (HCB) % programirovat'
+Présenter (HCB) % pryedstavlyat'
+Se tromper (HCB) % dyelat' oshibkou
+Câliner (HCB) % obnimat'
+Fumer (HCB) % kourit'
+Insulter (HCB) % oskorblyat'
+Annuler (HCB) % otmyenyat'
+Arnaquer (HCB) % obmanyvat'
+Contrôler (HCB) % kontrolirovat'
+Sélectionner (HCB) % vybirat'
+Harceler (HCB) % pryeslyedovat'
+Se plaindre (HCB) % jalovat'sya
+Évaluer (HCB) % otsyenivat'
+Cultiver (HCB) % koul'tivirovat'
+Menacer (HCB) % ougrojat'
+Attirer (HCB) % privlyekat'
+Empoisonner (HCB) % otravlyat'
+Pardonner (HCB) % proshshat'
+Rassurer (HCB) % ouspokaivat'
+Prouver (HCB) % dokazyvat'
+Insister (HCB) % nastaivat'
+Trahir (HCB) % pryedavat'
+Exclure (HCB) % isklyuchat'
+Imaginer (HCB) % pryedstavlyat' syebye
+Grossir (HCB) % stanovit'sya bol'shye
+Maigrir (HCB) % khoudyet'
+Appartenir (HCB) % prinadlyejat'
+Posséder (HCB) % vladyet'
+Apprécier (HCB) % tsyenit'
+Inonder (HCB) % zataplivat'
+Se lever (HCB) % vstavat'
+Louer (HCB) % sdavat' v aryendou
+Enlever (HCB) % oudalyat'
+Retirer (HCB) % otzyvat'
+Réunir (HCB) % vossoyedinyat'sya
+Déclarer (HCB) % ob"yavlyat'
+Dépenser (HCB) % tratit'
+Critiquer (HCB) % kritikovat'
+Éteindre (HCB) % vyklyuchat'
+Allumer (HCB) % vklyuchat'
+Uriner (HCB) % mochit'sya
+Autoriser (HCB) % razryeshat'
+Interdire (HCB) % zapryeshshat'
+Chuchoter (HCB) % sheptat'
+Soulager (HCB) % oblyegchat'
+Inventer (HCB) % izobryetat'
+Suivre (HCB) % slyedovat'
+Porter (to wear) (HCB) % nosit'
+Se moquer (HCB) % izdyevat'sya
+Voter (HCB) % golosovat'
+Lâcher (HCB) % otpouskat'
+Afficher (HCB) % otobrajat'
+Prendre (une photo) (HCB) % fotografirovat'
+Obtenir (HCB) % polouchat'
+Galérer (to struggle) (HCB) % ouchit'sya
+Remplacer (HCB) % zamyenyat'
+Risquer (HCB) % riskovat'
+Essayer (HCB) % probovat'
+Organiser (HCB) % organizovat'
+Revenir (HCB) % vozvrashshat'sya
+Protéger (HCB) % zashshishshat'
+Promettre (HCB) % obyeshshat'
+Préparer (HCB) % podgotavlivat'
+Télécharger (HCB) % skachivat'
+Cacher (HCB) % skryvat'
+Tenir (HCB) % dyerjat'
+Créer (HCB) % sozdavat'
+Déplacer (HCB) % dvigat'sya
+Continuer (HCB) % prodoljat'
+Partager (HCB) % dyelit'sya
+Rêver (HCB) % myechtat'
+Développer (HCB) % razvivat'
+Comparer (HCB) % sravnivat'
+Tricher (HCB) % joulnichat'
+Copier (HCB) % kopirovat'
+Ajouter (HCB) % dobavlyat'
+Douter (HCB) % somnyevat'sya
+Répéter (HCB) % povtoryat'
+Conduire (HCB) % vodit'
+Paniquer (HCB) % panikovat'
+Monter (HCB) % podnimat'sya
+Descendre (HCB) % spouskat'sya
+Intéresser (HCB) % intyeryesovat'
+Cliquer (HCB) % najimat'
+Oser (HCB) % osmyelivat'sya
+Échouer (HCB) % provalivat'
+Profiter (HCB) % naslajdat'sya
+Souffrir (HCB) % stradat'
+S'entraîner (HCB) % tryenirovat'sya
+Avancer (HCB) % dvigat'sya
+Se battre (HCB) % drat'sya
+Supprimer (HCB) % oudalyat'
+Ralentir (HCB) % zamyedlyat'
+Accélérer (HCB) % ouskoryat'
+Agir (HCB) % dyeîstvovat'
+Juger (HCB) % soudit'
+Sauver (HCB) % spasat'
+Sauter (HCB) % prygat'
+Crier (HCB) % krichat'
+Coller (HCB) % kleyit'
+Découvrir (HCB) % obnaroujivat'
+Brûler (HCB) % goryet'
+Voler (HCB) % lyetat'
+Nager (HCB) % plavat'
+Faire confiance (HCB) % dovyeryat'
 
 Reposé % otdokhnouvshiî
 Reposée % otdokhnouvshaya
@@ -546,6 +547,11 @@ Courgette % tsoukkini
 Montre % chasy
 Stylo % rouchka
 Cahier % bloknot
+Peau % koja
+Cerveau % mozg
+Dent % zoub
+Pied % stoupnya
+Doigt % palyets
 Client % kliyent
 Analyse % analiz
 Tâche % pyatno

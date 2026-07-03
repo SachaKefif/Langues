@@ -3,22 +3,25 @@ Droite % napravo
 Pourquoi % pochyemou
 Parce que % potomou chto
 
-Fille (daughter) % doch'
-Garçon (genre) % mal'chik
-
-Cours % ourok
-
-
-
-
-
-
+Vrai % istinnyî
 Vraie % istinnaya
-
+Faux % fal'shivyî
 Fausse % fal'shivaya
-
+Mignon % milyî
 Mignonne % milaya
-
+Gentil % dobryî
 Gentille % dobraya
-
+Méchant % zloî
 Méchante % zlaya
+
+Bras % rouka
+Jambe % noga
+Tête % golova
+Oreille % oukho
+Nez % nos
+Bouche % rot
+Main % rouka
+Cheveux % volosy
+Corps % tyelo
+Mot % slovo
+Feu % ogon'

@@ -110,11 +110,13 @@ Père % otyets
 Frère % brat
 Sœur % syestra
 Fils (son) % syn
+Fille (daughter) % doch'
 Grand-père % dyedoushka
 Grand-mère % baboushka
 Ami % droug
 Amie % podrouga
 Homme % moujchina
+Garçon (genre) % mal'chik
 Femme % jyenshshina
 Fille (genre) % dyevoushka
 Enfant % ryebyenok
@@ -193,35 +195,42 @@ Va te faire foutre % idi na khouî
 Putain % blyat'
 Language slang % mat
 
-Être % byt'
-Avoir % imyet'
-Faire % dyelat'
-Manger % yest'
-Boire % pit'
-Pouvoir % moch'
-Avoir besoin % noujdat'sya
-Aller % idti
-Devoir % doljyen
-Vouloir % khotyet'
-Apprendre/Enseigner % ouchit'
-Parler / Dire % govorit'
-Marcher % khodit'
-Savoir/Connaître % znat'
-Penser % doumat'
-Croire % vyerit'
-Travailler % rabotat'
-Aimer % lyubit'
-Prendre % brat'
-Attendre % jdat'
-Fermer % zakryvat'
-Lire % chitat'
-Vivre % jit'
-Jouer % igrat'
-Dormir % spat'
-Payer % platit'
-Vendre % prodavat'
-Venir % prikhodit'
-Voir % vidyet'
+Être (HCB) % byt'
+Avoir (HCB) % imyet'
+Faire (HCB) % dyelat'
+Manger (HCB) % yest'
+Boire (HCB) % pit'
+Pouvoir (HCB) % moch'
+Avoir besoin (HCB) % noujdat'sya
+Aller (HCB) % idti
+Devoir (HCB) % doljyen
+Vouloir (HCB) % khotyet'
+Apprendre/Enseigner (HCB) % ouchit'
+Parler / Dire (HCB) % govorit'
+Marcher (HCB) % khodit'
+Savoir/Connaître (HCB) % znat'
+Penser (HCB) % doumat'
+Croire (HCB) % vyerit'
+Travailler (HCB) % rabotat'
+Aimer (HCB) % lyubit'
+Prendre (HCB) % brat'
+Attendre (HCB) % jdat'
+Fermer (HCB) % zakryvat'
+Lire (HCB) % chitat'
+Vivre (HCB) % jit'
+Jouer (HCB) % igrat'
+Dormir (HCB) % spat'
+Payer (HCB) % platit'
+Vendre (HCB) % prodavat'
+Venir (HCB) % prikhodit'
+Voir (HCB) % vidyet'
+Comprendre (HCB) % ponimat'
+Montrer (HCB) % pokazyvat'
+Oublier (HCB) % zabyvat'
+Acheter (HCB) % pokoupat'
+Écrire (HCB) % pisat'
+Ouvrir (HCB) % otkryvat'
+Donner (HCB) % davat'
 
 Beau % krasivyî
 Belle % krasivaya
@@ -295,3 +304,4 @@ Choix % vybor
 Bus % avtobous
 Lieu % myesto
 Yeux % glaza
+Cours % ourok

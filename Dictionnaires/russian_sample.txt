@@ -1,5 +1,9 @@
-Saison % syezon
-Hiver % zima
-Printemps % vyesna
-Été % lyeto
-Automne % osyen'
+11 % odinnadtsat'
+12 % dvyenadtsat'
+13 % trinadtsat'
+14 % chyetyrnadtsat'
+15 % pyatnadtsat'
+16 % shyestnadtsat'
+17 % syemnadtsat'
+18 % vosyemnadtsat'
+19 % dyevyatnadtsat'

@@ -1,5 +1,4 @@
 Droite % napravo
-
 Pourquoi % pochyemou
 Parce que % potomou chto
 
@@ -14,6 +13,14 @@ Gentille % dobraya
 Méchant % zloî
 Méchante % zlaya
 
+Café % kofye
+Pâte % tyesto
+Pomme % yabloko
+Tomate % pomidor
+Salade % salat
+Oignon % louk
+Miel % myed
+
 Bras % rouka
 Jambe % noga
 Tête % golova
@@ -25,3 +32,16 @@ Cheveux % volosy
 Corps % tyelo
 Mot % slovo
 Feu % ogon'
+Saison % syezon
+Hiver % zima
+Printemps % vyesna
+Été % lyeto
+Automne % osyen'
+Magasin % magazin
+Soleil % solntsye
+Lune % louna
+Ciel % nyebo
+Pluie % dojd'
+Ville % gorod
+Sac % soumka
+Clé % klyuch

@@ -552,6 +552,7 @@ Cerveau % mozg
 Dent % zoub
 Pied % stoupnya
 Doigt % palyets
+Plage % plyaj
 Client % kliyent
 Analyse % analiz
 Tâche % pyatno

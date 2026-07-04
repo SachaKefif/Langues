@@ -589,7 +589,6 @@ Avis % obzor
 Esprit % doukh
 Génie % gyeniî
 Statue % statouya
-
 Vent % vyetyer
 Nuage % oblako
 Mer % morye

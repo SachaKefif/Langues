@@ -7,3 +7,17 @@
 17 % syemnadtsat'
 18 % vosyemnadtsat'
 19 % dyevyatnadtsat'
+
+20 % dvadtsat'
+21 % dvadtsat' odin
+22 % dvadtsat' dva
+23 % dvadtsat' tri
+24 % dvadtsat' chyetyrye
+25 % dvadtsat' pyat'
+30 % tridtsat'
+40 % sorok
+50 % pyat'dyesyat
+60 % shyest'dyesyat
+70 % syem'dyesyat
+80 % vosyem'dyesyat
+90 % dyevyanosto

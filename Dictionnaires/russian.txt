@@ -179,6 +179,9 @@ Chez % k
 Par % po
 Pendant que % poka
 Gauche % lyevyî
+Droite % napravo
+Pourquoi % pochyemou
+Parce que % potomou chto
 Rien % nichyego
 Encore % snova
 Déjà % oujye
@@ -253,6 +256,16 @@ Meilleur % louchshiî
 Meilleure % louchshaya
 Pire (M) % khoudshiî
 Pire (F) % khoudshaya
+Vrai % istinnyî
+Vraie % istinnaya
+Faux % fal'shivyî
+Fausse % fal'shivaya
+Mignon % milyî
+Mignonne % milaya
+Gentil % dobryî
+Gentille % dobraya
+Méchant % zloî
+Méchante % zlaya
 
 Petit-déjeuner (matin) % zavtrak
 Déjeuner (jour) % obyed
@@ -270,6 +283,13 @@ Sauce % soous
 Sucre % sakhar
 Jus % sok
 Huile % maslo
+Café % kofye
+Pâte % tyesto
+Pomme % yabloko
+Tomate % pomidor
+Salade % salat
+Oignon % louk
+Miel % myed
 
 Chien % sobaka
 Chat % koshka
@@ -305,3 +325,27 @@ Bus % avtobous
 Lieu % myesto
 Yeux % glaza
 Cours % ourok
+Bras % rouka
+Jambe % noga
+Tête % golova
+Oreille % oukho
+Nez % nos
+Bouche % rot
+Main % rouka
+Cheveux % volosy
+Corps % tyelo
+Mot % slovo
+Feu % ogon'
+Saison % syezon
+Hiver % zima
+Printemps % vyesna
+Été % lyeto
+Automne % osyen'
+Magasin % magazin
+Soleil % solntsye
+Lune % louna
+Ciel % nyebo
+Pluie % dojd'
+Ville % gorod
+Sac % soumka
+Clé % klyuch

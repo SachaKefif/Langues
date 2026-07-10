@@ -344,7 +344,11 @@ function verifierReponse() {
     validateBtn.disabled = true;
     isWaiting = true;
 
-    setTimeout(nouvelleQuestion, 750);
+    setTimeout(() => {
+        // Remove green background before new question appears
+        document.body.classList.remove('bg-green-success');
+        nouvelleQuestion();
+    }, 750);
 }
 
 function afficherResultat(resultat) {
@@ -359,6 +363,8 @@ function afficherResultat(resultat) {
         feedbackOverlay.classList.add('show', 'success');
         correctAnswerEl.textContent = 'Juste !';
         correctAnswerEl.className = 'correct-answer visible success-text';
+        // Turn entire background green on correct answer
+        document.body.classList.add('bg-green-success');
     } else if (resultat === "presque") {
         feedbackOverlay.classList.add('show', 'warning');
         correctAnswerEl.textContent = `Bonne réponse : ${bonneReponse}`;

@@ -36,13 +36,6 @@ Nulle part % nigdye
 Bref % korochye
 Récemment % nyedavno
 
-Se passer (to happen) (HCB) % slouchat'sya
-Rester (HCB) % ostavat'sya
-Se nommer (HCB) % nazyvat'sya
-Demander (HCB) % prosit'
-Répondre (HCB) % otvyechat'
-Regarder (HCB) % smotryet'
-Couper (HCB) % ryezat'
 Tirer (HCB) % vytaskivat'
 Pousser (HCB) % tolkat'
 Mourir (HCB) % oumirat'

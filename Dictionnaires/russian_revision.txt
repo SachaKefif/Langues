@@ -23,4 +23,7 @@ Fois % raz
 Dehors % na oulitse
 Aucun (Absolu) % nikakoî
 Aucun (Pas un seul) % ni odin
+Dedans % vnoutri
+Par exemple % naprimyer
+Parfois % inogda
 Allo % allo

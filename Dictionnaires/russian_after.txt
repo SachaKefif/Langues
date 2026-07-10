@@ -25,6 +25,12 @@ Vous-mêmes % sami
 Eux-mêmes % sami syebya
 Elles-mêmes % sami syebya
 
+Penis % khouî
+Vagin % pîzda
+Baiser % yebat'
+Capote % kapyushon
+Sein % groud'
+
 Orange (M) % oranjyevyî
 Orange (F) % oranjyevaya
 Violet % fiolyetovyî
@@ -35,6 +41,9 @@ Gris % syeryî
 Grise % syeraya
 
 Bon appétit % naslajdaîtyes' yedoî
+Il y avait % bylo
+Il y aura % boudyet
+Il y aurait % bylo by
 Au moins % po myen'shyeî myerye
 Au plus % maksimoum
 Restant % ostavshiîsya

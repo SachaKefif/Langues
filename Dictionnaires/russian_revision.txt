@@ -1,49 +1,26 @@
-11 % odinnadtsat'
-12 % dvyenadtsat'
-13 % trinadtsat'
-14 % chyetyrnadtsat'
-15 % pyatnadtsat'
-16 % shyestnadtsat'
-17 % syemnadtsat'
-18 % vosyemnadtsat'
-19 % dyevyatnadtsat'
+Simple (M) % prostoî
+Simple (F) % prostaya
+Compliqué % slojnyî
+Compliquée % slojnaya
+Dangeureux % opasnyî
+Dangeureuse % opasnaya
+Parfait % idyeal'nyî
+Parfaite % idyeal'naya
+Utile (M) % polyeznyî
+Utile (F) % polyeznaya
+Inutile (M) % byespolyeznyî
+Inutile (F) % byespolyeznaya
 
-20 % dvadtsat'
-21 % dvadtsat' odin
-22 % dvadtsat' dva
-23 % dvadtsat' tri
-24 % dvadtsat' chyetyrye
-25 % dvadtsat' pyat'
-30 % tridtsat'
-40 % sorok
-50 % pyat'dyesyat
-60 % shyest'dyesyat
-70 % syem'dyesyat
-80 % vosyem'dyesyat
-90 % dyevyanosto
+Près % blizko
+Loin % dalyeko
+Au dessus % vyshye
+En dessous % nijye
+Devant % spyeryedi
+Derrière % pozadi
 
-100 % sto
-200 % dvyesti
-300 % trista
-400 % chyetyryesta
-500 % pyat'sot
-600 % shyest'sot
-700 % syem'sot
-800 % vosyem'sot
-900 % dyevyat'sot
-
-1 000 % tysyacha
-2 000 % dvye tysyachi
-3 000 % tri tysyachi
-4 000 % chyetyrye tysyachi
-5 000 % pyat' tysyachi
-6 000 % shyest' tysyachi
-7 000 % syem' tysyachi
-8 000 % vosyem' tysyachi
-9 000 % dyevyat' tysyachi
-10 000 % dyesyat' tysyach
-100 000 % sto tysyach
-1 000 000 % million
-1 000 000 000 % milliard
-
-1 234 % tysyacha dvyesti tridtsat' chyetyrye
+Souvent % chasto
+Fois % raz
+Dehors % na oulitse
+Aucun (Absolu) % nikakoî
+Aucun (Pas un seul) % ni odin
+Allo % allo

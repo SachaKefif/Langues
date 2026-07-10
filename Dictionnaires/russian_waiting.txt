@@ -1,33 +1,11 @@
-Penis % khouî
-Vagin % pîzda
-Baiser % yebat'
-Capote % kapyushon
-Sein % groud'
-
-Près % blizko
-Loin % dalyeko
-Il y a (there is) % yest'
+Autour % vokroug
 Il y a (ago) % tomou nazad
-Au dessus % vyshye
-En dessous % nijye
-Devant % spyeryedi
-Derrière % pozadi
-Autre (M) % drougoî
-Autre (F) % drougaya
-Souvent % chasto
-Fois % raz
 Temps % vryemya
 Quelques % nyeskol'ko
-Dedans % vnoutri
-Dehors % na oulitse
-Par exemple % naprimyer
-Parfois % inogda
 Peut-être % mojyet byt'
 Trop % slishkom
 Assez % dostatochno
 Pas assez % nyedostatochno
-Aucun (Absolu) % nikakoî
-Aucun (Pas un seul) % ni odin
 Personne (somebody) % chyelovyek
 Comme ça % vot tak
 Bien sûr % konyechno
@@ -45,9 +23,6 @@ Côté % storona
 Tout droit % pryamo
 Sauf % kromye
 Contre (against) % protiv
-Il y avait % bylo
-Il y aura % boudyet
-Il y aurait % bylo by
 Lentement % myedlyenno
 Rapidement % bystro
 Sinon % inachye
@@ -57,12 +32,11 @@ Entre % myejdou
 Sous % pod
 Vers % k
 D'ailleurs % kstati
-Allo % allo
-Autour % vokroug
 Nulle part % nigdye
 Bref % korochye
 Récemment % nyedavno
 
+Se passer (to happen) (HCB) % slouchat'sya
 Rester (HCB) % ostavat'sya
 Se nommer (HCB) % nazyvat'sya
 Demander (HCB) % prosit'
@@ -116,7 +90,6 @@ Mettre (debout) (HCB) % stavit'
 Grandir (HCB) % rasti
 Courrir (HCB) % byegat'
 Sentir (to feel) (HCB) % chouvstvovat'
-Se passer (to happen) (HCB) % slouchat'sya
 Mentir (HCB) % vrat'
 Préférer (HCB) % pryedpochitat'
 Utiliser (HCB) % ispol'zovat'
@@ -164,8 +137,6 @@ Possible (M) % vozmojnyî
 Possible (F) % vozmojnaya
 Impossible (M) % nyevozmojnyî
 Impossible (F) % nyevozmojnaya
-Parfait % idyeal'nyî
-Parfaite % idyeal'naya
 Premier % pyervyî
 Première % pyervaya
 Dernier % poslyedniî
@@ -200,18 +171,6 @@ Entier % tsyelyî
 Entière % tsyelaya
 Principal % glavnyî
 Principale % glavnaya
-Dangeureux % opasnyî
-Dangeureuse % opasnaya
-Utile (M) % polyeznyî
-Utile (F) % polyeznaya
-Inutile (M) % byespolyeznyî
-Inutile (F) % byespolyeznaya
-Simple (M) % prostoî
-Simple (F) % prostaya
-Compliqué % slojnyî
-Compliquée % slojnaya
-Raciste (M) % rasistskiî
-Raciste (F) % rasistskaya
 Aléatoire (M) % slouchaînyî
 Aléatoire (F) % slouchaînaya
 Gênant % nyelovkiî
@@ -360,7 +319,6 @@ Voleur % vor
 Code % kod
 Étape % etap
 Police % politsiya
-Loi % zakon
 Avocat (lawyer) % advokat
 Boule/Ballon % myach
 Carré % kvadrat
@@ -375,3 +333,4 @@ Fête % vyechyerinka
 Distance % rasstoyaniye
 Diplôme % diplom
 Monde % mir
+Loi % zakon

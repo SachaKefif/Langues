@@ -348,6 +348,7 @@ function verifierReponse() {
         // Remove background colors before new question appears
         document.body.classList.remove('bg-green-success');
         document.body.classList.remove('bg-red-error');
+        document.body.classList.remove('bg-orange-warning');
         nouvelleQuestion();
     }, 750);
 }
@@ -368,8 +369,10 @@ function afficherResultat(resultat) {
         document.body.classList.add('bg-green-success');
     } else if (resultat === "presque") {
         feedbackOverlay.classList.add('show', 'warning');
-        correctAnswerEl.textContent = `Bonne réponse : ${bonneReponse}`;
-        correctAnswerEl.className = 'correct-answer visible warning-text';
+        correctAnswerEl.className = 'correct-answer';
+        correctAnswerEl.textContent = '';
+        // Turn entire background orange on close answer
+        document.body.classList.add('bg-orange-warning');
     } else {
         feedbackOverlay.classList.add('show', 'error');
         correctAnswerEl.textContent = `Bonne réponse : ${bonneReponse}`;

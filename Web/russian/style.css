@@ -73,6 +73,10 @@ body.bg-green-success {
     background: #22c55e;
 }
 
+body.bg-red-error {
+    background: #ef4444;
+}
+
 /* ============== ANIMATED BACKGROUND ============== */
 .bg-particles {
     position: fixed;

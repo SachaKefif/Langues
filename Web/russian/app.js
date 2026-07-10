@@ -345,8 +345,9 @@ function verifierReponse() {
     isWaiting = true;
 
     setTimeout(() => {
-        // Remove green background before new question appears
+        // Remove background colors before new question appears
         document.body.classList.remove('bg-green-success');
+        document.body.classList.remove('bg-red-error');
         nouvelleQuestion();
     }, 750);
 }
@@ -361,8 +362,8 @@ function afficherResultat(resultat) {
 
     if (resultat === "succes") {
         feedbackOverlay.classList.add('show', 'success');
-        correctAnswerEl.textContent = 'Juste !';
-        correctAnswerEl.className = 'correct-answer visible success-text';
+        correctAnswerEl.className = 'correct-answer';
+        correctAnswerEl.textContent = '';
         // Turn entire background green on correct answer
         document.body.classList.add('bg-green-success');
     } else if (resultat === "presque") {
@@ -373,6 +374,8 @@ function afficherResultat(resultat) {
         feedbackOverlay.classList.add('show', 'error');
         correctAnswerEl.textContent = `Bonne réponse : ${bonneReponse}`;
         correctAnswerEl.className = 'correct-answer visible error-text';
+        // Turn entire background red on wrong answer
+        document.body.classList.add('bg-red-error');
         questionArea.classList.add('shake');
         setTimeout(() => questionArea.classList.remove('shake'), 400);
     }

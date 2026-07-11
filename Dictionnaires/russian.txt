@@ -127,18 +127,9 @@ Année % god
 Aujourd'hui % syegodnya
 Demain % zavtra
 Hier % vchyera
-Matin % outro
-Soir % vyechyer
 Nuit % noch'
 Seconde % syekounda
 Minute % minouta
-Heure % chas
-Bientôt % skoro
-Tôt % rano
-Tard % pozdno
-Midi % poldyen'
-Minuit % polnoch'
-Âge % vozrast
 
 Couleur % tsvyet
 Bleu % siniî
@@ -170,8 +161,6 @@ Garçon (genre) % mal'chik
 Femme % jyenshshina
 Fille (genre) % dyevoushka
 Enfant % ryebyenok
-Petit-fils % vnouk
-Petite-fille % vnouchka
 
 Bonjour % zdravstvouîtye
 Salut % privyet
@@ -237,14 +226,16 @@ Encore % snova
 Déjà % oujye
 Même % dajye
 Presque % pochti
-Quelque chose (spécifique) % chto-to
-Quelque chose (hypothétique) % chto-niboud'
-Quelqu'un (spécifique) % kto-to
-Quelqu'un (hypothétique) % kto-niboud'
 Personne (nobody) % nikto
 Il y a (there is) % yest'
 Autre (M) % drougoî
 Autre (F) % drougaya
+Souvent % chasto
+Fois % raz
+Dehors % na oulitse
+Aucun (Absolu) % nikakoî
+Aucun (Pas un seul) % ni odin
+Allo % allo
 
 Genre (Tic de language) % tipo
 Va te faire foutre % idi na khouî
@@ -321,6 +312,8 @@ Méchant % zloî
 Méchante % zlaya
 Raciste (M) % rasistskiî
 Raciste (F) % rasistskaya
+Parfait % idyeal'nyî
+Parfaite % idyeal'naya
 
 Petit-déjeuner (matin) % zavtrak
 Déjeuner (jour) % obyed
@@ -349,7 +342,6 @@ Miel % myed
 Chien % sobaka
 Chat % koshka
 Oiseau % ptitsa
-Vache % korova
 Cheval % loshad'
 Poisson % ryba
 Poule % kouritsa
@@ -401,6 +393,5 @@ Soleil % solntsye
 Lune % louna
 Ciel % nyebo
 Pluie % dojd'
-Ville % gorod
 Sac % soumka
 Clé % klyuch

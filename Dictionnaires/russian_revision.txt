@@ -4,8 +4,6 @@ Compliqué % slojnyî
 Compliquée % slojnaya
 Dangeureux % opasnyî
 Dangeureuse % opasnaya
-Parfait % idyeal'nyî
-Parfaite % idyeal'naya
 Utile (M) % polyeznyî
 Utile (F) % polyeznaya
 Inutile (M) % byespolyeznyî
@@ -17,13 +15,27 @@ Au dessus % vyshye
 En dessous % nijye
 Devant % spyeryedi
 Derrière % pozadi
-
-Souvent % chasto
-Fois % raz
-Dehors % na oulitse
-Aucun (Absolu) % nikakoî
-Aucun (Pas un seul) % ni odin
 Dedans % vnoutri
 Par exemple % naprimyer
 Parfois % inogda
-Allo % allo
+Quelque chose (spécifique) % chto-to
+Quelque chose (hypothétique) % chto-niboud'
+Quelqu'un (spécifique) % kto-to
+Quelqu'un (hypothétique) % kto-niboud'
+
+Petit-fils % vnouk
+Petite-fille % vnouchka
+
+Vache % korova
+
+Matin % outro
+Soir % vyechyer
+Tôt % rano
+Tard % pozdno
+Heure % chas
+Bientôt % skoro
+Midi % poldyen'
+Minuit % polnoch'
+Âge % vozrast
+
+Ville % gorod

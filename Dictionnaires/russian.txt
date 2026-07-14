@@ -122,7 +122,6 @@ Décembre % dyekabr'
 
 Jour % dyen'
 Semaine % nyedyelya
-Mois % myesyats
 Année % god
 Aujourd'hui % syegodnya
 Demain % zavtra
@@ -130,6 +129,7 @@ Hier % vchyera
 Nuit % noch'
 Seconde % syekounda
 Minute % minouta
+Heure % chas
 
 Couleur % tsvyet
 Bleu % siniî
@@ -156,10 +156,6 @@ Grand-père % dyedoushka
 Grand-mère % baboushka
 Ami % droug
 Amie % podrouga
-Homme % moujchina
-Garçon (genre) % mal'chik
-Femme % jyenshshina
-Fille (genre) % dyevoushka
 Enfant % ryebyenok
 
 Bonjour % zdravstvouîtye
@@ -236,6 +232,11 @@ Dehors % na oulitse
 Aucun (Absolu) % nikakoî
 Aucun (Pas un seul) % ni odin
 Allo % allo
+Loin % dalyeko
+Au dessus % vyshye
+En dessous % nijye
+Devant % spyeryedi
+Derrière % pozadi
 
 Genre (Tic de language) % tipo
 Va te faire foutre % idi na khouî
@@ -269,8 +270,6 @@ Jouer (HCB) % igrat'
 Dormir (HCB) % spat'
 Payer (HCB) % platit'
 Vendre (HCB) % prodavat'
-Venir (HCB) % prikhodit'
-Voir (HCB) % vidyet'
 Comprendre (HCB) % ponimat'
 Montrer (HCB) % pokazyvat'
 Oublier (HCB) % zabyvat'
@@ -314,6 +313,16 @@ Raciste (M) % rasistskiî
 Raciste (F) % rasistskaya
 Parfait % idyeal'nyî
 Parfaite % idyeal'naya
+Simple (M) % prostoî
+Simple (F) % prostaya
+Compliqué % slojnyî
+Compliquée % slojnaya
+Dangeureux % opasnyî
+Dangeureuse % opasnaya
+Utile (M) % polyeznyî
+Utile (F) % polyeznaya
+Inutile (M) % byespolyeznyî
+Inutile (F) % byespolyeznaya
 
 Petit-déjeuner (matin) % zavtrak
 Déjeuner (jour) % obyed
@@ -332,7 +341,6 @@ Sucre % sakhar
 Jus % sok
 Huile % maslo
 Café % kofye
-Pâte % tyesto
 Pomme % yabloko
 Tomate % pomidor
 Salade % salat
@@ -371,7 +379,6 @@ Choix % vybor
 Bus % avtobous
 Lieu % myesto
 Yeux % glaza
-Cours % ourok
 Bras % rouka
 Jambe % noga
 Tête % golova
@@ -381,7 +388,6 @@ Bouche % rot
 Main % rouka
 Cheveux % volosy
 Corps % tyelo
-Mot % slovo
 Feu % ogon'
 Saison % syezon
 Hiver % zima
@@ -395,3 +401,4 @@ Ciel % nyebo
 Pluie % dojd'
 Sac % soumka
 Clé % klyuch
+Ville % gorod

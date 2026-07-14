@@ -1,20 +1,4 @@
-Simple (M) % prostoî
-Simple (F) % prostaya
-Compliqué % slojnyî
-Compliquée % slojnaya
-Dangeureux % opasnyî
-Dangeureuse % opasnaya
-Utile (M) % polyeznyî
-Utile (F) % polyeznaya
-Inutile (M) % byespolyeznyî
-Inutile (F) % byespolyeznaya
-
 Près % blizko
-Loin % dalyeko
-Au dessus % vyshye
-En dessous % nijye
-Devant % spyeryedi
-Derrière % pozadi
 Dedans % vnoutri
 Par exemple % naprimyer
 Parfois % inogda
@@ -23,19 +7,29 @@ Quelque chose (hypothétique) % chto-niboud'
 Quelqu'un (spécifique) % kto-to
 Quelqu'un (hypothétique) % kto-niboud'
 
-Petit-fils % vnouk
-Petite-fille % vnouchka
+Pâte % tyesto
 
 Vache % korova
 
+Mois % myesyats
 Matin % outro
 Soir % vyechyer
 Tôt % rano
 Tard % pozdno
-Heure % chas
 Bientôt % skoro
 Midi % poldyen'
 Minuit % polnoch'
 Âge % vozrast
 
-Ville % gorod
+Petit-fils % vnouk
+Petite-fille % vnouchka
+Homme % moujchina
+Garçon (genre) % mal'chik
+Femme % jyenshshina
+Fille (genre) % dyevoushka
+
+Venir (HCB) % prikhodit'
+Voir (HCB) % vidyet'
+
+Cours % ourok
+Mot % slovo

@@ -953,13 +953,15 @@ class QuizApp:
             if reponse_utilisateur.lower() == self.bonne_reponse.lower():
                 self.afficher_resultat("succes")
             else:
-                reponse_sans_accents = self.normaliser_texte(reponse_utilisateur)
-                bonne_reponse_sans_accents = self.normaliser_texte(self.bonne_reponse)
-
-                if reponse_sans_accents == bonne_reponse_sans_accents:
-                    self.afficher_resultat("presque")
-                else:
-                    self.afficher_resultat("echec")
+                # Ancien comportement : accepter une réponse si les accents étaient absents.
+                # reponse_sans_accents = self.normaliser_texte(reponse_utilisateur)
+                # bonne_reponse_sans_accents = self.normaliser_texte(self.bonne_reponse)
+                #
+                # if reponse_sans_accents == bonne_reponse_sans_accents:
+                #     self.afficher_resultat("presque")
+                # else:
+                #     self.afficher_resultat("echec")
+                self.afficher_resultat("echec")
 
         # Vider immédiatement le champ de saisie
         self.reponse_entry.delete(0, tk.END)
@@ -977,24 +979,14 @@ class QuizApp:
 
     def _evaluer_traduction(self, reponse_utilisateur):
         """Évalue une réponse de traduction et retourne le résultat"""
-        try:
-            index_reponse = mots_russes.index(reponse_utilisateur)
-            if index_reponse == self.index_aleatoire:
-                return "succes"
-            else:
-                reponse_sans_accents = self.normaliser_texte(reponse_utilisateur)
-                bonne_reponse_sans_accents = self.normaliser_texte(self.bonne_reponse)
-                if reponse_sans_accents == bonne_reponse_sans_accents:
-                    return "presque"
-                else:
-                    return "echec"
-        except ValueError:
-            reponse_sans_accents = self.normaliser_texte(reponse_utilisateur)
-            bonne_reponse_sans_accents = self.normaliser_texte(self.bonne_reponse)
-            if reponse_sans_accents == bonne_reponse_sans_accents:
-                return "presque"
-            else:
-                return "echec"
+        if reponse_utilisateur.lower() == self.bonne_reponse.lower():
+            return "succes"
+
+        # Ancien comportement : se baser sur la position dans la liste de mots.
+        # Cela cassait les réponses lorsque plusieurs mots français partageaient la même
+        # translittération russe (par exemple plusieurs entrées avec "oni").
+        # On compare désormais directement à la bonne réponse de la question courante.
+        return "echec"
 
     def afficher_resultat(self, resultat):
         """Affiche le résultat en changeant la couleur de fond de toute la fenêtre"""

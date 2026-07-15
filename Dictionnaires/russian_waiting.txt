@@ -172,6 +172,10 @@ Dégoûtant % otvratityel'nyî
 Dégoûtante % otvratityel'naya
 Perdu % potyeryannyî
 Perdue % potyeryannaya
+Différent (pas pareil) % raznyî
+Différente (pas pareil) % raznaya
+Différent (un autre) % drougoî
+Différente (une autre) % drougaya
 
 Pomme de terre % kartofyel'
 

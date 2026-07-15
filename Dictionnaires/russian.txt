@@ -126,10 +126,16 @@ Année % god
 Aujourd'hui % syegodnya
 Demain % zavtra
 Hier % vchyera
+Tôt % rano
+Tard % pozdno
 Nuit % noch'
 Seconde % syekounda
 Minute % minouta
 Heure % chas
+Bientôt % skoro
+Midi % poldyen'
+Minuit % polnoch'
+Âge % vozrast
 
 Couleur % tsvyet
 Bleu % siniî
@@ -157,6 +163,10 @@ Grand-mère % baboushka
 Ami % droug
 Amie % podrouga
 Enfant % ryebyenok
+Homme % moujchina
+Garçon (genre) % mal'chik
+Femme % jyenshshina
+Fille (genre) % dyevoushka
 
 Bonjour % zdravstvouîtye
 Salut % privyet
@@ -237,6 +247,10 @@ Au dessus % vyshye
 En dessous % nijye
 Devant % spyeryedi
 Derrière % pozadi
+Quelque chose (spécifique) % chto-to
+Quelque chose (hypothétique) % chto-niboud'
+Quelqu'un (spécifique) % kto-to
+Quelqu'un (hypothétique) % kto-niboud'
 
 Genre (Tic de language) % tipo
 Va te faire foutre % idi na khouî
@@ -277,6 +291,8 @@ Acheter (HCB) % pokoupat'
 Écrire (HCB) % pisat'
 Ouvrir (HCB) % otkryvat'
 Donner (HCB) % davat'
+Venir (HCB) % prikhodit'
+Voir (HCB) % vidyet'
 
 Beau % krasivyî
 Belle % krasivaya
@@ -346,6 +362,7 @@ Tomate % pomidor
 Salade % salat
 Oignon % louk
 Miel % myed
+Pâte % tyesto
 
 Chien % sobaka
 Chat % koshka
@@ -353,6 +370,7 @@ Oiseau % ptitsa
 Cheval % loshad'
 Poisson % ryba
 Poule % kouritsa
+Vache % korova
 
 Pays % strana
 Russie % rossiya
@@ -402,3 +420,5 @@ Pluie % dojd'
 Sac % soumka
 Clé % klyuch
 Ville % gorod
+Cours % ourok
+Mot % slovo

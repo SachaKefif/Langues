@@ -179,15 +179,11 @@ Différente (une autre) % drougaya
 
 Pomme de terre % kartofyel'
 
-Table % stol
-Sortie % vykhod
-Entrée % vkhod
-Route % doroga
+Nord % syevyer
+Sud % yug
+Est (direction) % vostok
+Ouest % zapad
 Monnaie % nalichnyye
-Arbre % dyeryevo
-Fleur % tsvyetok
-Musique % mouzyka
-Porte % dvyer'
 Chaussure % obouv'
 Pantalon % bryuki
 T-shirt % foutbolka
@@ -223,13 +219,7 @@ Idée % idyeya
 Animal % jivotnoye
 Danger % opasnost'
 Vêtement % odyejda
-Rêve % son
 Santé % zdorov'ye
-Nord % syevyer
-Sud % yug
-Est (direction) % vostok
-Ouest % zapad
-Les deux (both) % oba
 Histoire % istoriya
 Espace (dimension) % prostranstvo
 Espace (univers) % kosmos
@@ -266,8 +256,6 @@ Paix % mir
 Sujet % pryedmyet
 Roi % korol'
 Reine % korolyeva
-Voisin % sosyed
-Nature % priroda
 Beauté % krasota
 Église % tsyerkov'
 Raison % prav
@@ -276,7 +264,6 @@ Or (gold) % zoloto
 Chemin % pout'
 Étage % etaj
 Moment % momyent
-Adresse % adryes
 Objectif % tsyel'
 Blague % shoutka
 Surprise % syurpriz

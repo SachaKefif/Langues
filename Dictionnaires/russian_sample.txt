@@ -1,1 +1,14 @@
+Table % stol
+Sortie % vykhod
+Entrée % vkhod
+Route % doroga
+Arbre % dyeryevo
+Fleur % tsvyetok
+Musique % mouzyka
+Porte % dvyer'
+Rêve % son
+Voisin % sosyed
+Nature % priroda
+Adresse % adryes
 
+Les deux (both) % oba

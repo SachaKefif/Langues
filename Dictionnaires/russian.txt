@@ -57,7 +57,6 @@
 100 000 % sto tysyach
 1 000 000 % million
 1 000 000 000 % milliard
-
 1 234 % tysyacha dvyesti tridtsat' chyetyrye
 
 Je % ya
@@ -122,12 +121,14 @@ Décembre % dyekabr'
 
 Jour % dyen'
 Semaine % nyedyelya
+Mois % myesyats
 Année % god
 Aujourd'hui % syegodnya
 Demain % zavtra
 Hier % vchyera
 Tôt % rano
 Tard % pozdno
+Matin % outro
 Nuit % noch'
 Seconde % syekounda
 Minute % minouta
@@ -160,6 +161,8 @@ Fils (son) % syn
 Fille (daughter) % doch'
 Grand-père % dyedoushka
 Grand-mère % baboushka
+Petit-fils % vnouk
+Petite-fille % vnouchka
 Ami % droug
 Amie % podrouga
 Enfant % ryebyenok
@@ -251,6 +254,10 @@ Quelque chose (spécifique) % chto-to
 Quelque chose (hypothétique) % chto-niboud'
 Quelqu'un (spécifique) % kto-to
 Quelqu'un (hypothétique) % kto-niboud'
+Près % blizko
+Dedans % vnoutri
+Par exemple % naprimyer
+Parfois % inogda
 
 Genre (Tic de language) % tipo
 Va te faire foutre % idi na khouî

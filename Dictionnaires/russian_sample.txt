@@ -1,14 +1,15 @@
-Table % stol
-Sortie % vykhod
-Entrée % vkhod
-Route % doroga
-Arbre % dyeryevo
-Fleur % tsvyetok
-Musique % mouzyka
-Porte % dvyer'
-Rêve % son
-Voisin % sosyed
-Nature % priroda
-Adresse % adryes
+Peut-être % mojyet byt'
+Autour % vokroug
+Seulement / Juste % tol'ko
+N'est-ce pas % nye tak li
+Côté % storona
+Sauf % kromye
 
-Les deux (both) % oba
+Temps % vryemya
+
+Pomme de terre % kartofyel'
+
+Nord % syevyer
+Sud % yug
+Est (direction) % vostok
+Ouest % zapad

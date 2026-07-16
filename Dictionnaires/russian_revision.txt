@@ -1,14 +1,4 @@
-Près % blizko
-Dedans % vnoutri
-Par exemple % naprimyer
-Parfois % inogda
-
-Mois % myesyats
-Matin % outro
 Soir % vyechyer
-
-Petit-fils % vnouk
-Petite-fille % vnouchka
 
 Se passer (to happen) (HCB) % slouchat'sya
 Rester (HCB) % ostavat'sya
@@ -17,3 +7,18 @@ Demander (HCB) % prosit'
 Répondre (HCB) % otvyechat'
 Regarder (HCB) % smotryet'
 Couper (HCB) % ryezat'
+
+Table % stol
+Sortie % vykhod
+Entrée % vkhod
+Route % doroga
+Arbre % dyeryevo
+Fleur % tsvyetok
+Musique % mouzyka
+Porte % dvyer'
+Rêve % son
+Voisin % sosyed
+Nature % priroda
+Adresse % adryes
+
+Les deux (both) % oba

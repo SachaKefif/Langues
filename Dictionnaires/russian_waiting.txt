@@ -1,8 +1,5 @@
-Autour % vokroug
 Il y a (ago) % tomou nazad
-Temps % vryemya
 Quelques % nyeskol'ko
-Peut-être % mojyet byt'
 Trop % slishkom
 Assez % dostatochno
 Pas assez % nyedostatochno
@@ -10,7 +7,6 @@ Personne (somebody) % chyelovyek
 Comme ça % vot tak
 Bien sûr % konyechno
 Outre % kromye
-Seulement / Juste % tol'ko
 Tant (so) % tak mnogo
 Tant que % poka
 Ensemble % vmyestye
@@ -18,10 +14,7 @@ Suivant % slyedouyushshiî
 Précédent % pryedydoushshiî
 Durant % vo vryemya
 Au secours % pomogitye
-N'est-ce pas % nye tak li
-Côté % storona
 Tout droit % pryamo
-Sauf % kromye
 Contre (against) % protiv
 Lentement % myedlyenno
 Rapidement % bystro
@@ -35,6 +28,8 @@ D'ailleurs % kstati
 Nulle part % nigdye
 Bref % korochye
 Récemment % nyedavno
+
+PRONOM POSSESSIF SVOYEÎ
 
 Tirer (HCB) % vytaskivat'
 Pousser (HCB) % tolkat'
@@ -177,12 +172,6 @@ Différente (pas pareil) % raznaya
 Différent (un autre) % drougoî
 Différente (une autre) % drougaya
 
-Pomme de terre % kartofyel'
-
-Nord % syevyer
-Sud % yug
-Est (direction) % vostok
-Ouest % zapad
 Monnaie % nalichnyye
 Chaussure % obouv'
 Pantalon % bryuki

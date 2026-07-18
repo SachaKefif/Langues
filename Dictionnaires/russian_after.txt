@@ -69,6 +69,7 @@ D'affilés % podryad
 Plutôt que % skoryeye, chyem
 Autant que % stol'ko, skol'ko
 Attention (be careful) % ostorojno
+Au secours % pomogitye
 
 Passioner (HCB) % ouvlyekat'
 Déchiffrer (HCB) % rasshifrovyvat'

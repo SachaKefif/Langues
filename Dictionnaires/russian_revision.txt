@@ -1,13 +1,3 @@
-Soir % vyechyer
-
-Se passer (to happen) (HCB) % slouchat'sya
-Rester (HCB) % ostavat'sya
-Se nommer (HCB) % nazyvat'sya
-Demander (HCB) % prosit'
-Répondre (HCB) % otvyechat'
-Regarder (HCB) % smotryet'
-Couper (HCB) % ryezat'
-
 Table % stol
 Sortie % vykhod
 Entrée % vkhod
@@ -16,9 +6,22 @@ Arbre % dyeryevo
 Fleur % tsvyetok
 Musique % mouzyka
 Porte % dvyer'
-Rêve % son
 Voisin % sosyed
 Nature % priroda
-Adresse % adryes
 
 Les deux (both) % oba
+Peut-être % mojyet byt'
+Autour % vokroug
+Seulement / Juste % tol'ko
+N'est-ce pas % nye tak li
+Côté % storona
+Sauf % kromye
+Nulle part % nigdye
+Sous % pod
+Vers % k
+Nord % syevyer
+Sud % yug
+Est (direction) % vostok
+Ouest % zapad
+
+Pomme de terre % kartofyel'

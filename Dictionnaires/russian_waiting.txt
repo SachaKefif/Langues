@@ -1,33 +1,16 @@
 Il y a (ago) % tomou nazad
 Quelques % nyeskol'ko
-Trop % slishkom
-Assez % dostatochno
-Pas assez % nyedostatochno
 Personne (somebody) % chyelovyek
-Comme ça % vot tak
-Bien sûr % konyechno
 Outre % kromye
 Tant (so) % tak mnogo
 Tant que % poka
-Ensemble % vmyestye
 Suivant % slyedouyushshiî
 Précédent % pryedydoushshiî
 Durant % vo vryemya
-Au secours % pomogitye
 Tout droit % pryamo
 Contre (against) % protiv
-Lentement % myedlyenno
-Rapidement % bystro
-Sinon % inachye
-Moitié % polovina
-Entre % myejdou
 À côté % ryadom s
-Sous % pod
-Vers % k
 D'ailleurs % kstati
-Nulle part % nigdye
-Bref % korochye
-Récemment % nyedavno
 
 PRONOM POSSESSIF SVOYEÎ
 

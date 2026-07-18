@@ -1,15 +1,15 @@
-Peut-être % mojyet byt'
-Autour % vokroug
-Seulement / Juste % tol'ko
-N'est-ce pas % nye tak li
-Côté % storona
-Sauf % kromye
+Lentement % myedlyenno
+Rapidement % bystro
+Sinon % inachye
+Moitié % polovina
+Entre % myejdou
+Comme ça % vot tak
+Bien sûr % konyechno
+Ensemble % vmyestye
+Trop % slishkom
+Assez % dostatochno
+Pas assez % nyedostatochno
+Bref % korochye
+Récemment % nyedavno
 
 Temps % vryemya
-
-Pomme de terre % kartofyel'
-
-Nord % syevyer
-Sud % yug
-Est (direction) % vostok
-Ouest % zapad

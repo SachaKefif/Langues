@@ -128,13 +128,14 @@ Demain % zavtra
 Hier % vchyera
 Tôt % rano
 Tard % pozdno
-Matin % outro
 Nuit % noch'
 Seconde % syekounda
 Minute % minouta
 Heure % chas
 Bientôt % skoro
+Matin % outro
 Midi % poldyen'
+Soir % vyechyer
 Minuit % polnoch'
 Âge % vozrast
 
@@ -300,6 +301,13 @@ Ouvrir (HCB) % otkryvat'
 Donner (HCB) % davat'
 Venir (HCB) % prikhodit'
 Voir (HCB) % vidyet'
+Se passer (to happen) (HCB) % slouchat'sya
+Rester (HCB) % ostavat'sya
+Se nommer (HCB) % nazyvat'sya
+Demander (HCB) % prosit'
+Répondre (HCB) % otvyechat'
+Regarder (HCB) % smotryet'
+Couper (HCB) % ryezat'
 
 Beau % krasivyî
 Belle % krasivaya
@@ -429,3 +437,5 @@ Clé % klyuch
 Ville % gorod
 Cours % ourok
 Mot % slovo
+Rêve % son
+Adresse % adryes

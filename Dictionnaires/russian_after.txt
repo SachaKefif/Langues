@@ -54,6 +54,9 @@ Aussitôt que % kak tol'ko
 Selon % v sootvyetstvii s
 Certainement % konyechno
 Parmi % sryedi
+Longtemps % 
+Outre % kromye
+Tout droit % pryamo
 À travers % chyeryez
 Dès que % kak tol'ko
 Actuellement % v nastoyashshyeye vryemya
@@ -71,6 +74,8 @@ Autant que % stol'ko, skol'ko
 Attention (be careful) % ostorojno
 Au secours % pomogitye
 
+Tirer (HCB) % vytaskivat'
+Pousser (HCB) % tolkat'
 Passioner (HCB) % ouvlyekat'
 Déchiffrer (HCB) % rasshifrovyvat'
 Restreindre (HCB) % ogranichivat'

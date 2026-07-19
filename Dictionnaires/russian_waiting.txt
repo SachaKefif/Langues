@@ -1,21 +1,5 @@
-Il y a (ago) % tomou nazad
-Quelques % nyeskol'ko
-Personne (somebody) % chyelovyek
-Outre % kromye
-Tant (so) % tak mnogo
-Tant que % poka
-Suivant % slyedouyushshiî
-Précédent % pryedydoushshiî
-Durant % vo vryemya
-Tout droit % pryamo
-Contre (against) % protiv
-À côté % ryadom s
-D'ailleurs % kstati
-
 PRONOM POSSESSIF SVOYEÎ
 
-Tirer (HCB) % vytaskivat'
-Pousser (HCB) % tolkat'
 Mourir (HCB) % oumirat'
 Apporter/Ammener (HCB) % prinosit'
 Emporter/Emmener (HCB) % zabirat'
@@ -72,6 +56,10 @@ Jurer (HCB) % klyast'sya
 Partir (HCB) % oukhodit'
 Chercher (HCB) % iskat'
 
+Suivant % slyedouyushshiî
+Suivante % slyedouyushshaya
+Précédent % pryedydoushshiî$
+Précédente % pryedydoushshaya
 Moche (M) % ourodlivyî
 Moche (F) % ourodlivaya
 Triste (M) % groustnyî

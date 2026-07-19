@@ -1,15 +1,25 @@
 Lentement % myedlyenno
 Rapidement % bystro
-Sinon % inachye
-Moitié % polovina
-Entre % myejdou
 Comme ça % vot tak
 Bien sûr % konyechno
 Ensemble % vmyestye
 Trop % slishkom
+Sinon % inachye
 Assez % dostatochno
 Pas assez % nyedostatochno
 Bref % korochye
+Depuis longtemps / Il y a longtemps % davno
 Récemment % nyedavno
+Moitié % polovina
+Entre % myejdou
+Il y a (ago) % tomou nazad
+Quelques % nyeskol'ko
+Personne (somebody) % chyelovyek
+Tant (so) % tak mnogo
+Durant % vo vryemya
+Contre (against) % protiv
+À côté % ryadom s
+D'ailleurs % kstati
+Tant que % poka
 
 Temps % vryemya

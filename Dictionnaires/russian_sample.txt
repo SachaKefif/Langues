@@ -1,25 +1,18 @@
-Lentement % myedlyenno
-Rapidement % bystro
-Comme ça % vot tak
-Bien sûr % konyechno
-Ensemble % vmyestye
-Trop % slishkom
-Sinon % inachye
-Assez % dostatochno
-Pas assez % nyedostatochno
-Bref % korochye
-Depuis longtemps / Il y a longtemps % davno
-Récemment % nyedavno
-Moitié % polovina
-Entre % myejdou
-Il y a (ago) % tomou nazad
-Quelques % nyeskol'ko
-Personne (somebody) % chyelovyek
-Tant (so) % tak mnogo
-Durant % vo vryemya
-Contre (against) % protiv
-À côté % ryadom s
-D'ailleurs % kstati
-Tant que % poka
+"+" (comparatif) % yeye
+"LE +" (superlatif) % yeîshiî
+Le plus % samyî
+Le moins % namyenye
 
-Temps % vryemya
+Rapide (M) % bystryî
+Rapide (F) % bystraya
+Lent % myedlyennyî
+Lente % myedlyennaya
+Seul % odinokoî
+Seule % odinokaya
+Étrange (M) % strannyî
+Étrange (F) % strannaya
+Normal % normal'nyî
+Normale % normal'naya
+
+Repas % yeda
+Nourriture % yeda

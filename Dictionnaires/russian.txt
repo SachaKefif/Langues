@@ -138,6 +138,7 @@ Midi % poldyen'
 Soir % vyechyer
 Minuit % polnoch'
 Âge % vozrast
+Temps % vryemya
 
 Couleur % tsvyet
 Bleu % siniî
@@ -259,6 +260,17 @@ Près % blizko
 Dedans % vnoutri
 Par exemple % naprimyer
 Parfois % inogda
+Les deux (both) % oba
+Peut-être % mojyet byt'
+Autour % vokroug
+N'est-ce pas % nye tak li
+Nulle part % nigdye
+Sous % pod
+Vers % k
+Nord % syevyer
+Sud % yug
+Est (direction) % vostok
+Ouest % zapad
 
 Genre (Tic de language) % tipo
 Va te faire foutre % idi na khouî
@@ -378,6 +390,7 @@ Salade % salat
 Oignon % louk
 Miel % myed
 Pâte % tyesto
+Pomme de terre % kartofyel'
 
 Chien % sobaka
 Chat % koshka
@@ -439,3 +452,13 @@ Cours % ourok
 Mot % slovo
 Rêve % son
 Adresse % adryes
+Table % stol
+Sortie % vykhod
+Entrée % vkhod
+Route % doroga
+Musique % mouzyka
+Arbre % dyeryevo
+Fleur % tsvyetok
+Porte % dvyer'
+Voisin % sosyed
+Nature % priroda

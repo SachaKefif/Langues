@@ -74,10 +74,6 @@ Cher % dorogoî
 Chère % dorogaya
 Bon marché (M) % dyeshyovyî
 Bon marché (F) % dyeshyovaya
-Rapide (M) % bystryî
-Rapide (F) % bystraya
-Lent % myedlyennyî
-Lente % myedlyennaya
 Drôle (M) % zabavnyî
 Drôle (F) % zabavnaya
 Intelligent % oumnyî
@@ -112,12 +108,6 @@ Fort % sil'nyî
 Forte % sil'naya
 Faible (M) % slabyî
 Faible (F) % slabaya
-Seul % odinokoî
-Seule % odinokaya
-Étrange (M) % strannyî
-Étrange (F) % strannaya
-Normal % normal'nyî
-Normale % normal'naya
 Important % vajnyî
 Importante % vajnaya
 Blessé % ranyenyî
@@ -157,7 +147,6 @@ Réponse % otvyet
 Chambre % spal'nya
 Cuisine % koukhnya
 Hôpital % bol'nitsa
-Repas % yeda
 Lit % krovat'
 Alphabet % alfavit
 Photographie % fotografiya
@@ -245,7 +234,6 @@ Erreur % oshibka
 Planète % planyeta
 Maladie % bolyezn'
 Science % naouka
-Nourriture % yeda
 Boisson % napitok
 Quantité % kolichyestvo
 Art % iskousstvo

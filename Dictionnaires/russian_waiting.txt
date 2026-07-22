@@ -1,5 +1,3 @@
-PRONOM POSSESSIF SVOYEÎ
-
 Mourir (HCB) % oumirat'
 Apporter/Ammener (HCB) % prinosit'
 Emporter/Emmener (HCB) % zabirat'
@@ -60,22 +58,16 @@ Suivant % slyedouyushshiî
 Suivante % slyedouyushshaya
 Précédent % pryedydoushshiî$
 Précédente % pryedydoushshaya
-Moche (M) % ourodlivyî
-Moche (F) % ourodlivaya
 Triste (M) % groustnyî
 Triste (F) % groustnaya
 Chaud % goryachiî
 Chaude % goryachaya
 Froid % kholodnyî
 Froide % kholodnaya
-Nouveau % novyî
-Nouvelle % novaya
 Cher % dorogoî
 Chère % dorogaya
 Bon marché (M) % dyeshyovyî
 Bon marché (F) % dyeshyovaya
-Drôle (M) % zabavnyî
-Drôle (F) % zabavnaya
 Intelligent % oumnyî
 Intelligente % oumnaya
 Débile (M) % gloupyî
@@ -100,10 +92,6 @@ Long % dlinnyî
 Longue % dlinnaya
 Court % korotkiî
 Courte % korotkaya
-Malade (M) % bol'noî
-Malade (F) % bol'naya
-Bourré (drunk) (M) % p'yanyî
-Bourrée (drunk) (F) % p'yanaya
 Fort % sil'nyî
 Forte % sil'naya
 Faible (M) % slabyî

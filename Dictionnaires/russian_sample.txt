@@ -1,18 +1,7 @@
-"+" (comparatif) % yeye
-"LE +" (superlatif) % yeîshiî
++ (suffixe comparatif) % yeye
+Le + (suffixe superlatif) % yeîshiî
 Le plus % samyî
 Le moins % namyenye
-
-Rapide (M) % bystryî
-Rapide (F) % bystraya
-Lent % myedlyennyî
-Lente % myedlyennaya
-Seul % odinokoî
-Seule % odinokaya
-Étrange (M) % strannyî
-Étrange (F) % strannaya
-Normal % normal'nyî
-Normale % normal'naya
-
-Repas % yeda
-Nourriture % yeda
+Mon/Ton/Son propre % svoî
+Ma/Ta/Se propre % svoyeî
+Mes/Tes/Ses propre % svoi

@@ -257,9 +257,7 @@ Quelque chose (hypothétique) % chto-niboud'
 Quelqu'un (spécifique) % kto-to
 Quelqu'un (hypothétique) % kto-niboud'
 Près % blizko
-Dedans % vnoutri
 Par exemple % naprimyer
-Parfois % inogda
 Les deux (both) % oba
 Peut-être % mojyet byt'
 Autour % vokroug
@@ -314,7 +312,6 @@ Donner (HCB) % davat'
 Venir (HCB) % prikhodit'
 Voir (HCB) % vidyet'
 Se passer (to happen) (HCB) % slouchat'sya
-Rester (HCB) % ostavat'sya
 Se nommer (HCB) % nazyvat'sya
 Demander (HCB) % prosit'
 Répondre (HCB) % otvyechat'

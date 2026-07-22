@@ -20,8 +20,36 @@ Quelques % nyeskol'ko
 Personne (somebody) % chyelovyek
 Tant (so) % tak mnogo
 Durant % vo vryemya
-Contre (against) % protiv
+Contre % protiv
 À côté % ryadom s
 D'ailleurs % kstati
 Tant que % poka
 
+Rapide (M) % bystryî
+Rapide (F) % bystraya
+Lent % myedlyennyî
+Lente % myedlyennaya
+Seul % odinokoî
+Seule % odinokaya
+Étrange (M) % strannyî
+Étrange (F) % strannaya
+Normal % normal'nyî
+Normale % normal'naya
+Nouveau % novyî
+Nouvelle % novaya
+Moche (M) % ourodlivyî
+Moche (F) % ourodlivaya
+Drôle (M) % zabavnyî
+Drôle (F) % zabavnaya
+Malade (M) % bol'noî
+Malade (F) % bol'naya
+Bourré (drunk) (M) % p'yanyî
+Bourrée (drunk) (F) % p'yanaya
+
+Parfois % inogda
+Dedans % vnoutri
+
+Rester (HCB) % ostavat'sya
+
+Repas % yeda
+Nourriture % yeda

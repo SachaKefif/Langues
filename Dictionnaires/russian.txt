@@ -269,6 +269,22 @@ Nord % syevyer
 Sud % yug
 Est (direction) % vostok
 Ouest % zapad
+Seulement / Juste % tol'ko
+Lentement % myedlyenno
+Rapidement % bystro
+Comme ça % vot tak
+Sinon % inachye
+Assez % dostatochno
+Pas assez % nyedostatochno
+Depuis longtemps / Il y a longtemps % davno
+Récemment % nyedavno
+Il y a (ago) % tomou nazad
+Quelques % nyeskol'ko
+D'ailleurs % kstati
+Tant que % poka
+Tant (so) % tak mnogo
+Parfois % inogda
+Dedans % vnoutri
 
 Genre (Tic de language) % tipo
 Va te faire foutre % idi na khouî
@@ -317,6 +333,7 @@ Demander (HCB) % prosit'
 Répondre (HCB) % otvyechat'
 Regarder (HCB) % smotryet'
 Couper (HCB) % ryezat'
+Rester (HCB) % ostavat'sya
 
 Beau % krasivyî
 Belle % krasivaya
@@ -363,6 +380,18 @@ Utile (M) % polyeznyî
 Utile (F) % polyeznaya
 Inutile (M) % byespolyeznyî
 Inutile (F) % byespolyeznaya
+Rapide (M) % bystryî
+Rapide (F) % bystraya
+Lent % myedlyennyî
+Lente % myedlyennaya
+Étrange (M) % strannyî
+Étrange (F) % strannaya
+Normal % normal'nyî
+Normale % normal'naya
+Nouveau % novyî
+Nouvelle % novaya
+Récent % nyedavniî
+Récente % nyedavnyaya
 
 Petit-déjeuner (matin) % zavtrak
 Déjeuner (jour) % obyed
@@ -459,3 +488,5 @@ Fleur % tsvyetok
 Porte % dvyer'
 Voisin % sosyed
 Nature % priroda
+Repas % yeda
+Nourriture % yeda

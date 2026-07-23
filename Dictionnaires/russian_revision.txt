@@ -1,42 +1,17 @@
-Seulement / Juste % tol'ko
-Côté % storona
 Sauf % kromye
-Lentement % myedlyenno
-Rapidement % bystro
-Comme ça % vot tak
 Bien sûr % konyechno
 Ensemble % vmyestye
 Trop % slishkom
-Sinon % inachye
-Assez % dostatochno
-Pas assez % nyedostatochno
 Bref % korochye
-Depuis longtemps / Il y a longtemps % davno
-Récemment % nyedavno
 Moitié % polovina
 Entre % myejdou
-Il y a (ago) % tomou nazad
-Quelques % nyeskol'ko
 Personne (somebody) % chyelovyek
-Tant (so) % tak mnogo
 Durant % vo vryemya
 Contre % protiv
 À côté % ryadom s
-D'ailleurs % kstati
-Tant que % poka
 
-Rapide (M) % bystryî
-Rapide (F) % bystraya
-Lent % myedlyennyî
-Lente % myedlyennaya
 Seul % odinokoî
 Seule % odinokaya
-Étrange (M) % strannyî
-Étrange (F) % strannaya
-Normal % normal'nyî
-Normale % normal'naya
-Nouveau % novyî
-Nouvelle % novaya
 Moche (M) % ourodlivyî
 Moche (F) % ourodlivaya
 Drôle (M) % zabavnyî
@@ -46,10 +21,14 @@ Malade (F) % bol'naya
 Bourré (drunk) (M) % p'yanyî
 Bourrée (drunk) (F) % p'yanaya
 
-Parfois % inogda
-Dedans % vnoutri
+Côté % storona
 
-Rester (HCB) % ostavat'sya
-
-Repas % yeda
-Nourriture % yeda
++ (suffixe comparatif) % yeye
+Le + (M) (suffixe superlatif) % yeîshiî
+Le + (F) (suffixe superlatif) % yeîshaya
+Le plus (M) % samyî
+Le plus (F) % samaya
+Le moins % naimyenyeye
+Mon/Ton/Son propre % svoî
+Ma/Ta/Sa propre % svoya
+Mes/Tes/Ses propre % svoi

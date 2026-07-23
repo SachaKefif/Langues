@@ -1,7 +1,8 @@
-+ (suffixe comparatif) % yeye
-Le + (suffixe superlatif) % yeîshiî
-Le plus % samyî
-Le moins % namyenye
-Mon/Ton/Son propre % svoî
-Ma/Ta/Se propre % svoyeî
-Mes/Tes/Ses propre % svoi
+Embrasser (HCB) % tsyelovat'
+Gagner (HCB) % zarabatyvat'
+Perdre (HCB) % tyeryat'
+Se souvenir (HCB) % pomnit'
+Choisir (HCB) % vybirat'
+Avoir faim (HCB) % byt' golodnym
+Avoir soif (HCB) % khotyet' pit'
+Fonctionner (HCB) % rabotat'

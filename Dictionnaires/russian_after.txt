@@ -519,8 +519,6 @@ International % myejdounarodnyî
 Internationale % myejdounarodnaya
 Jaloux % ryevnivyî
 Jalouse % ryevnivaya
-Récent % nyedavniî
-Récente % nyedavnyaya
 Évident % ochyevidnyî
 Évidente % ochyevidnaya
 

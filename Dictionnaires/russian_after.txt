@@ -240,7 +240,6 @@ Obtenir (HCB) % polouchat'
 Galérer (to struggle) (HCB) % ouchit'sya
 Remplacer (HCB) % zamyenyat'
 Risquer (HCB) % riskovat'
-Essayer (HCB) % probovat'
 Organiser (HCB) % organizovat'
 Revenir (HCB) % vozvrashshat'sya
 Protéger (HCB) % zashshishshat'
@@ -288,6 +287,10 @@ Brûler (HCB) % goryet'
 Voler (HCB) % lyetat'
 Nager (HCB) % plavat'
 Faire confiance (HCB) % dovyeryat'
+Avoir faim (HCB) % byt' golodnym
+Avoir soif (HCB) % khotyet' pit'
+Emporter/Emmener (HCB) % zabirat'
+Refuser (HCB) % otkazyvat'sya
 
 Reposé % otdokhnouvshiî
 Reposée % otdokhnouvshaya

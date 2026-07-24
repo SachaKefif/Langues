@@ -1,14 +1,8 @@
 Sauf % kromye
 Bien sûr % konyechno
-Ensemble % vmyestye
 Trop % slishkom
 Bref % korochye
-Moitié % polovina
 Entre % myejdou
-Personne (somebody) % chyelovyek
-Durant % vo vryemya
-Contre % protiv
-À côté % ryadom s
 
 Seul % odinokoî
 Seule % odinokaya
@@ -25,10 +19,21 @@ Côté % storona
 
 + (suffixe comparatif) % yeye
 Le + (M) (suffixe superlatif) % yeîshiî
-Le + (F) (suffixe superlatif) % yeîshaya
+La + (F) (suffixe superlatif) % yeîshaya
 Le plus (M) % samyî
-Le plus (F) % samaya
+La plus (F) % samaya
 Le moins % naimyenyeye
 Mon/Ton/Son propre % svoî
 Ma/Ta/Sa propre % svoya
 Mes/Tes/Ses propre % svoi
+
+Embrasser (HCB) % tsyelovat'
+Gagner (HCB) % zarabatyvat'
+Perdre (HCB) % tyeryat'
+Se souvenir (HCB) % pomnit'
+Choisir (HCB) % vybirat'
+Fonctionner (HCB) % rabotat'
+Mourir (HCB) % oumirat'
+Casser (HCB) % lomat'
+Écouter (HCB) % sloushat'
+Tomber (HCB) % padat'

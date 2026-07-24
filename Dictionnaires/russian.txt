@@ -285,6 +285,12 @@ Tant que % poka
 Tant (so) % tak mnogo
 Parfois % inogda
 Dedans % vnoutri
+Ensemble % vmyestye
+Moitié % polovina
+Durant % vo vryemya
+Contre % protiv
+À côté % ryadom s
+Personne (somebody) % chyelovyek
 
 Genre (Tic de language) % tipo
 Va te faire foutre % idi na khouî

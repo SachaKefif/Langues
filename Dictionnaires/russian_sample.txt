@@ -1,8 +1,8 @@
-Embrasser (HCB) % tsyelovat'
-Gagner (HCB) % zarabatyvat'
-Perdre (HCB) % tyeryat'
-Se souvenir (HCB) % pomnit'
-Choisir (HCB) % vybirat'
-Avoir faim (HCB) % byt' golodnym
-Avoir soif (HCB) % khotyet' pit'
-Fonctionner (HCB) % rabotat'
+Monnaie % nalichnyye
+Chaussure % obouv'
+Pantalon % bryuki
+T-shirt % foutbolka
+Lunettes % ochki
+Bouteille % boutylka
+Restaurant % ryestoran
+Douleur % bol'

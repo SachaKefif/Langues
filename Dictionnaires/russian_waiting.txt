@@ -1,143 +1,3 @@
-Mourir (HCB) % oumirat'
-Apporter/Ammener (HCB) % prinosit'
-Emporter/Emmener (HCB) % zabirat'
-Casser (HCB) % lomat'
-Arrêter (HCB) % ostanavlivat'sya
-Écouter (HCB) % sloushat'
-Entendre (HCB) % slyshat'
-Détester (HCB) % nyenavidyet'
-
-Commencer (HCB) % nachinat'
-Terminer (HCB) % zakanchivat'
-Refuser (HCB) % otkazyvat'sya
-Jeter (HCB) % brosat'
-Devenir (HCB) % stanovit'sya
-Laisser (HCB) % ostavlyat'
-Changer (HCB) % izmyenyat'
-Aider (HCB) % pomogat'
-
-Porter (to carry) (HCB) % nyesti
-Penser (trouver) (HCB) % schitat'
-Envoyer (HCB) % otpravlyat'
-Être d'accord (HCB) % soglashat'sya
-Espérer (HCB) % nadyeyat'sya
-Expliquer (HCB) % ob"yasnyat'
-Danser (HCB) % tantsyevat'
-Chanter (HCB) % pyet'
-
-Echanger (HCB) % obmyenivat'
-Arriver (HCB) % priyezjat'
-Tourner (HCB) % povorachivat'
-Toucher (verbe) (HCB) % prikasat'sya
-Manquer (HCB) % skouchat'
-Bouger (HCB) % dvigat'sya
-Tomber (HCB) % padat'
-Pleurer (HCB) % plakat'
-
-Deviner (HCB) % ougadyvat'
-Naître (HCB) % rodit'sya
-Mettre (à plat) (HCB) % klast'
-Mettre (debout) (HCB) % stavit'
-Grandir (HCB) % rasti
-Courrir (HCB) % byegat'
-Sentir (to feel) (HCB) % chouvstvovat'
-Mentir (HCB) % vrat'
-
-Préférer (HCB) % pryedpochitat'
-Utiliser (HCB) % ispol'zovat'
-Trouver (to find) (HCB) % nakhodit'
-Tuer (HCB) % oubivat'
-Jurer (HCB) % klyast'sya
-Partir (HCB) % oukhodit'
-Chercher (HCB) % iskat'
-
-
-
-
-
-Suivant % slyedouyushshiî
-Suivante % slyedouyushshaya
-Précédent % pryedydoushshiî
-Précédente % pryedydoushshaya
-Chaud % goryachiî
-Chaude % goryachaya
-Froid % kholodnyî
-Froide % kholodnaya
-Cher % dorogoî
-Chère % dorogaya
-Bon marché (M) % dyeshyovyî
-Bon marché (F) % dyeshyovaya
-Intelligent % oumnyî
-Intelligente % oumnaya
-Débile (M) % gloupyî
-Débile (F) % gloupaya
-
-Gros % tolstyî
-Grosse % tolstaya
-Maigre (M) % khoudoî
-Maigre (F) % khoudaya
-Riche (M) % bogatyî
-Riche (F) % bogataya
-Pauvre (M) % byednyî
-Pauvre (F) % byednaya
-Possible (M) % vozmojnyî
-Possible (F) % vozmojnaya
-Impossible (M) % nyevozmojnyî
-Impossible (F) % nyevozmojnaya
-Premier % pyervyî
-Première % pyervaya
-Dernier % poslyedniî
-Dernière % poslyednyaya
-
-Long % dlinnyî
-Longue % dlinnaya
-Court % korotkiî
-Courte % korotkaya
-Blessé % ranyenyî
-Blessée % ranyenaya
-Excellent % otlichnyî
-Excellente % otlichnaya
-Chiant % byesyashshiî
-Chiante % byesyashshaya
-Perdu % potyeryannyî
-Perdue % potyeryannaya
-Dégoûtant % otvratityel'nyî
-Dégoûtante % otvratityel'naya
-Aléatoire (M) % slouchaînyî
-Aléatoire (F) % slouchaînaya
-
-Entier % tsyelyî
-Entière % tsyelaya
-Principal % glavnyî
-Principale % glavnaya
-Important % vajnyî
-Importante % vajnaya
-Gênant % nyelovkiî
-Gênante % nyelovkaya
-Fort % sil'nyî
-Forte % sil'naya
-Faible (M) % slabyî
-Faible (F) % slabaya
-Différent (pas pareil) % raznyî
-Différente (pas pareil) % raznaya
-Différent (un autre) % drougoî
-Différente (une autre) % drougaya
-Triste (M) % groustnyî
-Triste (F) % groustnaya
-
-
-
-
-
-Monnaie % nalichnyye
-Chaussure % obouv'
-Pantalon % bryuki
-T-shirt % foutbolka
-Lunettes % ochki
-Bouteille % boutylka
-Restaurant % ryestoran
-Douleur % bol'
-
 Prix % tsyena
 Question % vopros
 Réponse % otvyet
@@ -278,3 +138,130 @@ Distance % rasstoyaniye
 Diplôme % diplom
 Monde % mir
 Loi % zakon
+
+
+
+Apporter/Ammener (HCB) % prinosit'
+Détester (HCB) % nyenavidyet'
+Devenir (HCB) % stanovit'sya
+Essayer (HCB) % probovat'
+
+Commencer (HCB) % nachinat'
+Terminer (HCB) % zakanchivat'
+Entendre (HCB) % slyshat'
+Jeter (HCB) % brosat'
+Laisser (HCB) % ostavlyat'
+Changer (HCB) % izmyenyat'
+Aider (HCB) % pomogat'
+
+Porter (to carry) (HCB) % nyesti
+Penser (trouver) (HCB) % schitat'
+Envoyer (HCB) % otpravlyat'
+Être d'accord (HCB) % soglashat'sya
+Espérer (HCB) % nadyeyat'sya
+Expliquer (HCB) % ob"yasnyat'
+Danser (HCB) % tantsyevat'
+Chanter (HCB) % pyet'
+
+Echanger (HCB) % obmyenivat'
+Arriver (HCB) % priyezjat'
+Tourner (HCB) % povorachivat'
+Toucher (HCB) % prikasat'sya
+Manquer (HCB) % skouchat'
+Bouger (HCB) % dvigat'sya
+Arrêter (HCB) % ostanavlivat'sya
+Pleurer (HCB) % plakat'
+
+Deviner (HCB) % ougadyvat'
+Naître (HCB) % rodit'sya
+Mettre (à plat) (HCB) % klast'
+Mettre (debout) (HCB) % stavit'
+Grandir (HCB) % rasti
+Courrir (HCB) % byegat'
+Sentir (HCB) % chouvstvovat'
+Mentir (HCB) % vrat'
+
+Préférer (HCB) % pryedpochitat'
+Utiliser (HCB) % ispol'zovat'
+Trouver (to find) (HCB) % nakhodit'
+Tuer (HCB) % oubivat'
+Jurer (HCB) % klyast'sya
+Partir (HCB) % oukhodit'
+Chercher (HCB) % iskat'
+
+
+
+
+
+Suivant % slyedouyushshiî
+Suivante % slyedouyushshaya
+Précédent % pryedydoushshiî
+Précédente % pryedydoushshaya
+Chaud % goryachiî
+Chaude % goryachaya
+Froid % kholodnyî
+Froide % kholodnaya
+Cher % dorogoî
+Chère % dorogaya
+Bon marché (M) % dyeshyovyî
+Bon marché (F) % dyeshyovaya
+Intelligent % oumnyî
+Intelligente % oumnaya
+Débile (M) % gloupyî
+Débile (F) % gloupaya
+
+Gros % tolstyî
+Grosse % tolstaya
+Maigre (M) % khoudoî
+Maigre (F) % khoudaya
+Riche (M) % bogatyî
+Riche (F) % bogataya
+Pauvre (M) % byednyî
+Pauvre (F) % byednaya
+Possible (M) % vozmojnyî
+Possible (F) % vozmojnaya
+Impossible (M) % nyevozmojnyî
+Impossible (F) % nyevozmojnaya
+Premier % pyervyî
+Première % pyervaya
+Dernier % poslyedniî
+Dernière % poslyednyaya
+
+Long % dlinnyî
+Longue % dlinnaya
+Court % korotkiî
+Courte % korotkaya
+Blessé % ranyenyî
+Blessée % ranyenaya
+Excellent % otlichnyî
+Excellente % otlichnaya
+Chiant % byesyashshiî
+Chiante % byesyashshaya
+Perdu % potyeryannyî
+Perdue % potyeryannaya
+Dégoûtant % otvratityel'nyî
+Dégoûtante % otvratityel'naya
+Aléatoire (M) % slouchaînyî
+Aléatoire (F) % slouchaînaya
+
+Entier % tsyelyî
+Entière % tsyelaya
+Principal % glavnyî
+Principale % glavnaya
+Important % vajnyî
+Importante % vajnaya
+Gênant % nyelovkiî
+Gênante % nyelovkaya
+Fort % sil'nyî
+Forte % sil'naya
+Faible (M) % slabyî
+Faible (F) % slabaya
+Différent (pas pareil) % raznyî
+Différente (pas pareil) % raznaya
+Différent (un autre) % drougoî
+Différente (une autre) % drougaya
+Triste (M) % groustnyî
+Triste (F) % groustnaya
+
+Cassé %
+Cassée %

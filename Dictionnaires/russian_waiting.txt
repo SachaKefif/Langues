@@ -1,21 +1,3 @@
-Prix % tsyena
-Question % vopros
-Réponse % otvyet
-Chambre % spal'nya
-Cuisine % koukhnya
-Hôpital % bol'nitsa
-Lit % krovat'
-Alphabet % alfavit
-
-Photographie % fotografiya
-Vidéo % vidyeo
-Vérité % pravda
-Mensonge % loj'
-Film % fil'm
-Lumière % svyet
-Lettre (alphabet) % boukva
-Langue (language) % yazyk
-
 Coeur % syerdtsye
 Phrase % pryedlojyeniye
 Sol % zyemlya
@@ -189,6 +171,7 @@ Jurer (HCB) % klyast'sya
 Partir (HCB) % oukhodit'
 Chercher (HCB) % iskat'
 
+Cuisiner % 
 
 
 

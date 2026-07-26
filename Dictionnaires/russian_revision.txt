@@ -1,39 +1,27 @@
-Sauf % kromye
-Bien sûr % konyechno
-Trop % slishkom
-Bref % korochye
-Entre % myejdou
-
-Seul % odinokoî
-Seule % odinokaya
-Moche (M) % ourodlivyî
-Moche (F) % ourodlivaya
-Drôle (M) % zabavnyî
-Drôle (F) % zabavnaya
-Malade (M) % bol'noî
-Malade (F) % bol'naya
-Bourré (drunk) (M) % p'yanyî
-Bourrée (drunk) (F) % p'yanaya
-
-Côté % storona
-
-+ (suffixe comparatif) % yeye
-Le + (M) (suffixe superlatif) % yeîshiî
-La + (F) (suffixe superlatif) % yeîshaya
-Le plus (M) % samyî
-La plus (F) % samaya
-Le moins % naimyenyeye
-Mon/Ton/Son propre % svoî
-Ma/Ta/Sa propre % svoya
-Mes/Tes/Ses propre % svoi
-
 Embrasser (HCB) % tsyelovat'
 Gagner (HCB) % zarabatyvat'
 Perdre (HCB) % tyeryat'
 Se souvenir (HCB) % pomnit'
 Choisir (HCB) % vybirat'
-Fonctionner (HCB) % rabotat'
 Mourir (HCB) % oumirat'
 Casser (HCB) % lomat'
 Écouter (HCB) % sloushat'
 Tomber (HCB) % padat'
+
+Monnaie % nalichnyye
+Chaussure % obouv'
+Pantalon % bryuki
+T-shirt % foutbolka
+Lunettes % ochki
+Bouteille % boutylka
+Restaurant % ryestoran
+Douleur % bol'
+
+Prix % tsyena
+Question % vopros
+Réponse % otvyet
+Chambre % spal'nya
+Cuisine % koukhnya
+Hôpital % bol'nitsa
+Lit % krovat'
+Alphabet % alfavit

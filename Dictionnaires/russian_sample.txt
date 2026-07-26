@@ -1,8 +1,8 @@
-Monnaie % nalichnyye
-Chaussure % obouv'
-Pantalon % bryuki
-T-shirt % foutbolka
-Lunettes % ochki
-Bouteille % boutylka
-Restaurant % ryestoran
-Douleur % bol'
+Photographie % fotografiya
+Vidéo % vidyeo
+Vérité % pravda
+Mensonge % loj'
+Film % fil'm
+Lumière % svyet
+Lettre (alphabet) % boukva
+Langue (language) % yazyk

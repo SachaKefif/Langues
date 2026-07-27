@@ -16,7 +16,6 @@ Lunettes % ochki
 Bouteille % boutylka
 Restaurant % ryestoran
 Douleur % bol'
-
 Prix % tsyena
 Question % vopros
 Réponse % otvyet
@@ -25,3 +24,4 @@ Cuisine % koukhnya
 Hôpital % bol'nitsa
 Lit % krovat'
 Alphabet % alfavit
+

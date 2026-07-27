@@ -804,3 +804,9 @@ Gros mot % rougannoye slovo
 Autoroute % shossye
 Bombe % bombit'
 Recherche % isslyedovat'
+Espace (dimension) % prostranstvo
+Espace (univers) % kosmos
+Fenêtre % okno
+
+
+

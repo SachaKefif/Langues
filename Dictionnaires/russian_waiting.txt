@@ -1,20 +1,11 @@
-Coeur % syerdtsye
-Phrase % pryedlojyeniye
-Sol % zyemlya
-Mur % styena
-Montagne % gora
-Groupe/Bande % grouppa
-Peur % strakh
-Idée % idyeya
-
 Animal % jivotnoye
 Danger % opasnost'
 Vêtement % odyejda
 Santé % zdorov'ye
 Histoire % istoriya
-Espace (dimension) % prostranstvo
-Espace (univers) % kosmos
 Étoile % zvyezda
+Avocat (lawyer) % advokat
+Boule/Ballon % myach
 
 Douche % doush
 Pièce (partie) % kousok
@@ -103,23 +94,21 @@ Voleur % vor
 Code % kod
 Étape % etap
 Police % politsiya
-Avocat (lawyer) % advokat
-Boule/Ballon % myach
-
 Carré % kvadrat
 Triangle % tryeougol'nik
+
 Cercle % kroug
 Bois % dyeryevo
 Moustache % ousy
 Barbe % boroda
 Parents % rodityeli
-Fenêtre % okno
-
 Fête % vyechyerinka
 Distance % rasstoyaniye
 Diplôme % diplom
+
 Monde % mir
 Loi % zakon
+Ordinateur % 
 
 
 

@@ -3,6 +3,14 @@ Vidéo % vidyeo
 Vérité % pravda
 Mensonge % loj'
 Film % fil'm
-Lumière % svyet
+Phrase % pryedlojyeniye
 Lettre (alphabet) % boukva
-Langue (language) % yazyk
+Langue % yazyk
+Coeur % syerdtsye
+Lumière % svyet
+Sol % zyemlya
+Mur % styena
+Montagne % gora
+Groupe/Bande % grouppa
+Peur % strakh
+Idée % idyeya

@@ -1,12 +1,3 @@
-Animal % jivotnoye
-Danger % opasnost'
-Vêtement % odyejda
-Santé % zdorov'ye
-Histoire % istoriya
-Étoile % zvyezda
-Avocat (lawyer) % advokat
-Boule/Ballon % myach
-
 Douche % doush
 Pièce (partie) % kousok
 Milieu % syeryedina

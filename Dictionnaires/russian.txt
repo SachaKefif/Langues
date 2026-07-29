@@ -289,8 +289,6 @@ Quelques % nyeskol'ko
 D'ailleurs % kstati
 Tant que % poka
 Tant (so) % tak mnogo
-Parfois % inogda
-Dedans % vnoutri
 Ensemble % vmyestye
 Moitié % polovina
 Durant % vo vryemya
@@ -340,7 +338,6 @@ Vivre (HCB) % jit'
 Jouer (HCB) % igrat'
 Dormir (HCB) % spat'
 Payer (HCB) % platit'
-Vendre (HCB) % prodavat'
 Comprendre (HCB) % ponimat'
 Montrer (HCB) % pokazyvat'
 Oublier (HCB) % zabyvat'
@@ -386,8 +383,6 @@ Faux % fal'shivyî
 Fausse % fal'shivaya
 Mignon % milyî
 Mignonne % milaya
-Gentil % dobryî
-Gentille % dobraya
 Méchant % zloî
 Méchante % zlaya
 Raciste (M) % rasistskiî

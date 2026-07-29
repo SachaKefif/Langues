@@ -25,3 +25,25 @@ Hôpital % bol'nitsa
 Lit % krovat'
 Alphabet % alfavit
 
+Photographie % fotografiya
+Vidéo % vidyeo
+Film % fil'm
+Montagne % gora
+Groupe/Bande % grouppa
+Idée % idyeya
+Lettre (alphabet) % boukva
+Langue % yazyk
+Vérité % pravda
+Mensonge % loj'
+Lumière % svyet
+Peur % strakh
+
+Coeur % syerdtsye
+
+Parfois % inogda
+Dedans % vnoutri
+
+Vendre (HCB) % prodavat'
+
+Gentil % dobryî
+Gentille % dobraya

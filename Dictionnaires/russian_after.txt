@@ -807,6 +807,8 @@ Recherche % isslyedovat'
 Espace (dimension) % prostranstvo
 Espace (univers) % kosmos
 Fenêtre % okno
-
+Sol % zyemlya
+Mur % styena
+Phrase % pryedlojyeniye
 
 

@@ -1,16 +1,8 @@
-Photographie % fotografiya
-Vidéo % vidyeo
-Vérité % pravda
-Mensonge % loj'
-Film % fil'm
-Phrase % pryedlojyeniye
-Lettre (alphabet) % boukva
-Langue % yazyk
-Coeur % syerdtsye
-Lumière % svyet
-Sol % zyemlya
-Mur % styena
-Montagne % gora
-Groupe/Bande % grouppa
-Peur % strakh
-Idée % idyeya
+Animal % jivotnoye
+Danger % opasnost'
+Vêtement % odyejda
+Santé % zdorov'ye
+Histoire % istoriya
+Étoile % zvyezda
+Avocat (lawyer) % advokat
+Boule/Ballon % myach

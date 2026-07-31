@@ -2,48 +2,20 @@ Embrasser (HCB) % tsyelovat'
 Gagner (HCB) % zarabatyvat'
 Perdre (HCB) % tyeryat'
 Se souvenir (HCB) % pomnit'
-Choisir (HCB) % vybirat'
-Mourir (HCB) % oumirat'
-Casser (HCB) % lomat'
-Écouter (HCB) % sloushat'
-Tomber (HCB) % padat'
 
-Monnaie % nalichnyye
-Chaussure % obouv'
-Pantalon % bryuki
-T-shirt % foutbolka
-Lunettes % ochki
-Bouteille % boutylka
-Restaurant % ryestoran
-Douleur % bol'
-Prix % tsyena
-Question % vopros
-Réponse % otvyet
-Chambre % spal'nya
-Cuisine % koukhnya
-Hôpital % bol'nitsa
-Lit % krovat'
-Alphabet % alfavit
-
-Photographie % fotografiya
-Vidéo % vidyeo
-Film % fil'm
-Montagne % gora
-Groupe/Bande % grouppa
-Idée % idyeya
-Lettre (alphabet) % boukva
-Langue % yazyk
-Vérité % pravda
-Mensonge % loj'
-Lumière % svyet
-Peur % strakh
-
-Coeur % syerdtsye
 
 Parfois % inogda
 Dedans % vnoutri
 
-Vendre (HCB) % prodavat'
 
-Gentil % dobryî
-Gentille % dobraya
+Coeur % syerdtsye
+
+Animal % jivotnoye
+Vêtement % odyejda
+Étoile % zvyezda
+Histoire % istoriya
+Santé % zdorov'ye
+Danger % opasnost'
+Avocat (lawyer) % advokat
+Boule/Ballon % myach
+

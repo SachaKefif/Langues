@@ -2,10 +2,10 @@ Douche % doush
 Pièce (partie) % kousok
 Milieu % syeryedina
 Équipe % komanda
-Avion % samolyet
-Bateau % lodka
-Train % poyezd
-Trou % dyra
+Carte % karta
+Guide % gid
+Transport % transport
+Éléctricité % elyektrichyestvo
 
 Papier % boumaga
 Anniversaire % dyen' rojdyeniya
@@ -69,15 +69,6 @@ Science % naouka
 Boisson % napitok
 Quantité % kolichyestvo
 Art % iskousstvo
-
-Alcool % alkogol'
-Accent % aktsyent
-Paradis % nyebyesa
-Enfer % ad
-Guide % gid
-Transport % transport
-Éléctricité % elyektrichyestvo
-Carte % karta
 
 Internet % intyernyet
 Opinion % mnyeniye

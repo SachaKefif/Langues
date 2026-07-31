@@ -355,6 +355,12 @@ Regarder (HCB) % smotryet'
 Couper (HCB) % ryezat'
 Rester (HCB) % ostavat'sya
 Fonctionner (HCB) % rabotat'
+Vendre (HCB) % prodavat'
+Choisir (HCB) % vybirat'
+Mourir (HCB) % oumirat'
+Casser (HCB) % lomat'
+Écouter (HCB) % sloushat'
+Tomber (HCB) % padat'
 
 Beau % krasivyî
 Belle % krasivaya
@@ -421,6 +427,8 @@ Moche (M) % ourodlivyî
 Moche (F) % ourodlivaya
 Drôle (M) % zabavnyî
 Drôle (F) % zabavnaya
+Gentil % dobryî
+Gentille % dobraya
 
 Petit-déjeuner (matin) % zavtrak
 Déjeuner (jour) % obyed
@@ -520,3 +528,31 @@ Nature % priroda
 Repas % yeda
 Nourriture % yeda
 Côté % storona
+Photographie % fotografiya
+Vidéo % vidyeo
+Film % fil'm
+Montagne % gora
+Groupe/Bande % grouppa
+Idée % idyeya
+Lettre (alphabet) % boukva
+Langue % yazyk
+Vérité % pravda
+Mensonge % loj'
+Lumière % svyet
+Peur % strakh
+Monnaie % nalichnyye
+Chaussure % obouv'
+Pantalon % bryuki
+T-shirt % foutbolka
+Lunettes % ochki
+Bouteille % boutylka
+Restaurant % ryestoran
+Douleur % bol'
+Prix % tsyena
+Question % vopros
+Réponse % otvyet
+Chambre % spal'nya
+Cuisine % koukhnya
+Hôpital % bol'nitsa
+Lit % krovat'
+Alphabet % alfavit

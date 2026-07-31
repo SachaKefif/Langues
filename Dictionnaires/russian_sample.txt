@@ -1,8 +1,8 @@
-Animal % jivotnoye
-Danger % opasnost'
-Vêtement % odyejda
-Santé % zdorov'ye
-Histoire % istoriya
-Étoile % zvyezda
-Avocat (lawyer) % advokat
-Boule/Ballon % myach
+Alcool % alkogol'
+Accent % aktsyent
+Paradis % nyebyesa
+Enfer % ad
+Avion % samolyet
+Bateau % lodka
+Train % poyezd
+Trou % dyra

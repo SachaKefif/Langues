@@ -1,8 +1,10 @@
 // ============== DICTIONARY LOADING ==============
 // Dictionaries embedded from text files - loaded at startup
-const DICT_COMPLETE_URL = '../../Dictionnaires/russian.txt';
-const DICT_SAMPLE_URL = '../../Dictionnaires/russian_sample.txt';
-const DICT_REVISION_URL = '../../Dictionnaires/russian_revision.txt';
+const DICTIONARY_FILES = {
+    1: 'russian.txt',
+    2: 'russian_sample.txt',
+    3: 'russian_revision.txt'
+};
 
 let motsFrancais = [];
 let motsRusses = [];
@@ -56,29 +58,32 @@ const questionArea = document.getElementById('questionArea');
 
 // ============== LOAD DICTIONARY ==============
 async function loadDictionary(type) {
-    const url = type === 1 ? DICT_COMPLETE_URL : (type === 3 ? DICT_REVISION_URL : DICT_SAMPLE_URL);
+    const filename = DICTIONARY_FILES[type] || DICTIONARY_FILES[2];
+
     try {
-        const resp = await fetch(url);
-        const text = await resp.text();
-        motsFrancais = [];
-        motsRusses = [];
+        const text = globalThis.RUSSIAN_DICTIONARIES?.[filename];
+        if (!text) throw new Error(`Unable to load ${filename}`);
+
+        const french = [];
+        const russian = [];
         for (const line of text.split('\n')) {
             const trimmed = line.trim();
             if (trimmed.includes('%')) {
                 const parts = trimmed.split(' % ');
                 if (parts.length === 2) {
-                    motsFrancais.push(parts[0].trim());
-                    motsRusses.push(parts[1].trim());
+                    french.push(parts[0].trim());
+                    russian.push(parts[1].trim());
                 }
             }
         }
-        if (motsFrancais.length === 0) {
-            motsFrancais.push("Erreur");
-            motsRusses.push("Dictionnaire vide");
-        }
+
+        if (french.length === 0) throw new Error(`Empty dictionary: ${filename}`);
+
+        motsFrancais = french;
+        motsRusses = russian;
     } catch (e) {
         motsFrancais = ["Erreur"];
-        motsRusses = ["Fichier introuvable"];
+        motsRusses = ["Dictionnaire indisponible"];
     }
 }
 
@@ -437,26 +442,8 @@ validateBtn.addEventListener('click', (e) => {
     answerInput.focus();
 });
 
-// ============== BACKGROUND PARTICLES ==============
-function createParticles() {
-    const container = document.getElementById('bgParticles');
-    for (let i = 0; i < 12; i++) {
-        const p = document.createElement('div');
-        p.className = 'particle';
-        const size = Math.random() * 4 + 2;
-        p.style.width = size + 'px';
-        p.style.height = size + 'px';
-        p.style.left = Math.random() * 100 + '%';
-        p.style.animationDuration = (Math.random() * 15 + 10) + 's';
-        p.style.animationDelay = (Math.random() * 10) + 's';
-        p.style.opacity = Math.random() * 0.3 + 0.1;
-        container.appendChild(p);
-    }
-}
-
 // ============== INIT ==============
 async function init() {
-    createParticles();
     await loadDictionary(dictionnaire);
     updateStatuts();
     updateScore();

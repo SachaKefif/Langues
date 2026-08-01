@@ -810,5 +810,11 @@ Fenêtre % okno
 Sol % zyemlya
 Mur % styena
 Phrase % pryedlojyeniye
-
+Bande déssinée % komiks
+Chaise % stoul
+Or (gold) % zoloto
+Moustache % ousy
+Barbe % boroda
+Distance % rasstoyaniye
+Papier % boumaga
 

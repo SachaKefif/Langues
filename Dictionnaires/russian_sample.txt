@@ -1,8 +1,15 @@
-Alcool % alkogol'
-Accent % aktsyent
-Paradis % nyebyesa
-Enfer % ad
-Avion % samolyet
-Bateau % lodka
-Train % poyezd
-Trou % dyra
+Chaud % goryachiî
+Froid % kholodnyî
+Cher % dorogoî
+Bon marché (M) % dyeshyovyî
+Intelligent % oumnyî
+Débile (M) % gloupyî
+Entier % tsyelyî
+
+Chaude % goryachaya
+Froide % kholodnaya
+Chère % dorogaya
+Bon marché (F) % dyeshyovaya
+Intelligente % oumnaya
+Débile (F) % gloupaya
+Entière % tsyelaya

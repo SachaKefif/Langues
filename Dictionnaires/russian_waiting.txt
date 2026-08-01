@@ -1,97 +1,87 @@
-Douche % doush
 Pièce (partie) % kousok
 Milieu % syeryedina
-Équipe % komanda
-Carte % karta
-Guide % gid
-Transport % transport
-Éléctricité % elyektrichyestvo
-
-Papier % boumaga
+Loi % zakon
 Anniversaire % dyen' rojdyeniya
 Village % dyeryevnya
-Problème % problyema
-Solution % ryeshyeniye
-Nouvelle (news) % novost'
-Chaise % stoul
-Cadeau % podarok
+Guide % gid
+Transport % transport
+Police % politsiya
 
+Solution % ryeshyeniye
+Cadeau % podarok
 Professeur % pryepodavatyel'
 Professeure % pryepodavatyel'nitsa
 Élève % ouchyenik
-Étudiant % stoudyent
-Cauchemar % koshmar
 Dessin % risounok
+Alcool % alkogol'
+Accent % aktsyent
+
 Vitesse % skorost'
 Taille % razmyer
-
 Passé % proshloye
 Présent % nastoyashshyeye
 Futur % boudoushshyeye
 Bagarre % draka
+Douche % doush
+Problème % problyema
+
 Paix % mir
 Sujet % pryedmyet
 Roi % korol'
 Reine % korolyeva
-
 Beauté % krasota
 Église % tsyerkov'
+Nouvelle (news) % novost'
+Étudiant % stoudyent
+
 Raison % prav
 Bruit % shoum
-Or (gold) % zoloto
 Chemin % pout'
-Étage % etaj
-Moment % momyent
-
 Objectif % tsyel'
 Blague % shoutka
-Surprise % syurpriz
-Entreprise % biznyes
 Immeuble % zdaniye
+Cauchemar % koshmar
+Étage % etaj
+
 Objet % ob"yekt
 Truc % shtouka
 Chose % vyeshsh'
-
 Blessure % rana
 Mec/Bro (c) % chouvak
 Mec/Bro (b) % bratan
-Stade % stadion
+Moment % momyent
+Surprise % syurpriz
+
 Vacance % otpousk
 Bisou % potsyelouî
 Vie % jizn'
 Neige % snyeg
-
-Bande déssinée % komiks
 Erreur % oshibka
-Planète % planyeta
 Maladie % bolyezn'
+Entreprise % biznyes
+Stade % stadion
+
 Science % naouka
 Boisson % napitok
-Quantité % kolichyestvo
 Art % iskousstvo
-
-Internet % intyernyet
 Opinion % mnyeniye
 Voleur % vor
-Code % kod
-Étape % etap
-Police % politsiya
+Planète % planyeta
+Internet % intyernyet
+Ordinateur % komp'yutyer
+
 Carré % kvadrat
 Triangle % tryeougol'nik
-
 Cercle % kroug
-Bois % dyeryevo
-Moustache % ousy
-Barbe % boroda
 Parents % rodityeli
-Fête % vyechyerinka
-Distance % rasstoyaniye
+Monde % mir
+Code % kod
+Étape % etap
 Diplôme % diplom
 
-Monde % mir
-Loi % zakon
-Ordinateur % 
-
+Éléctricité % elyektrichyestvo
+Quantité % kolichyestvo
+Fête % vyechyerinka
 
 
 Apporter/Ammener (HCB) % prinosit'
@@ -145,77 +135,47 @@ Chercher (HCB) % iskat'
 Cuisiner % 
 
 
+Long % dlinnyî
+Court % korotkiî
+Blessé % ranyenyî
+Excellent % otlichnyî
+Chiant % byesyashshiî
+Aléatoire (M) % slouchaînyî
+Triste (M) % groustnyî
+
+Longue % dlinnaya
+Courte % korotkaya
+Blessée % ranyenaya
+Excellente % otlichnaya
+Chiante % byesyashshaya
+Aléatoire (F) % slouchaînaya
+Triste (F) % groustnaya
 
 
+Principal % glavnyî
+Important % vajnyî
+Gênant % nyelovkiî
+Fort % sil'nyî
+Faible (M) % slabyî
+Différent (pas pareil) % raznyî
+Différent (un autre) % drougoî
+
+Principale % glavnaya
+Importante % vajnaya
+Gênante % nyelovkaya
+Forte % sil'naya
+Faible (F) % slabaya
+Différente (pas pareil) % raznaya
+Différente (une autre) % drougaya
+
+
+Cassé %
+Cassée %
 Suivant % slyedouyushshiî
 Suivante % slyedouyushshaya
 Précédent % pryedydoushshiî
 Précédente % pryedydoushshaya
-Chaud % goryachiî
-Chaude % goryachaya
-Froid % kholodnyî
-Froide % kholodnaya
-Cher % dorogoî
-Chère % dorogaya
-Bon marché (M) % dyeshyovyî
-Bon marché (F) % dyeshyovaya
-Intelligent % oumnyî
-Intelligente % oumnaya
-Débile (M) % gloupyî
-Débile (F) % gloupaya
-
-Gros % tolstyî
-Grosse % tolstaya
-Maigre (M) % khoudoî
-Maigre (F) % khoudaya
-Riche (M) % bogatyî
-Riche (F) % bogataya
-Pauvre (M) % byednyî
-Pauvre (F) % byednaya
-Possible (M) % vozmojnyî
-Possible (F) % vozmojnaya
-Impossible (M) % nyevozmojnyî
-Impossible (F) % nyevozmojnaya
-Premier % pyervyî
-Première % pyervaya
-Dernier % poslyedniî
-Dernière % poslyednyaya
-
-Long % dlinnyî
-Longue % dlinnaya
-Court % korotkiî
-Courte % korotkaya
-Blessé % ranyenyî
-Blessée % ranyenaya
-Excellent % otlichnyî
-Excellente % otlichnaya
-Chiant % byesyashshiî
-Chiante % byesyashshaya
 Perdu % potyeryannyî
 Perdue % potyeryannaya
 Dégoûtant % otvratityel'nyî
 Dégoûtante % otvratityel'naya
-Aléatoire (M) % slouchaînyî
-Aléatoire (F) % slouchaînaya
-
-Entier % tsyelyî
-Entière % tsyelaya
-Principal % glavnyî
-Principale % glavnaya
-Important % vajnyî
-Importante % vajnaya
-Gênant % nyelovkiî
-Gênante % nyelovkaya
-Fort % sil'nyî
-Forte % sil'naya
-Faible (M) % slabyî
-Faible (F) % slabaya
-Différent (pas pareil) % raznyî
-Différente (pas pareil) % raznaya
-Différent (un autre) % drougoî
-Différente (une autre) % drougaya
-Triste (M) % groustnyî
-Triste (F) % groustnaya
-
-Cassé %
-Cassée %

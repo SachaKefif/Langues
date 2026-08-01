@@ -1,15 +1,29 @@
+Gros % tolstyî
+Grosse % tolstaya
+Maigre (M) % khoudoî
+Maigre (F) % khoudaya
+Riche (M) % bogatyî
+Riche (F) % bogataya
+Pauvre (M) % byednyî
+Pauvre (F) % byednaya
+Possible (M) % vozmojnyî
+Possible (F) % vozmojnaya
+Impossible (M) % nyevozmojnyî
+Impossible (F) % nyevozmojnaya
+Premier % pyervyî
+Première % pyervaya
+Dernier % poslyedniî
+Dernière % poslyednyaya
+
 Embrasser (HCB) % tsyelovat'
 Gagner (HCB) % zarabatyvat'
 Perdre (HCB) % tyeryat'
 Se souvenir (HCB) % pomnit'
 
-
 Parfois % inogda
 Dedans % vnoutri
 
-
 Coeur % syerdtsye
-
 Animal % jivotnoye
 Vêtement % odyejda
 Étoile % zvyezda
@@ -18,4 +32,12 @@ Santé % zdorov'ye
 Danger % opasnost'
 Avocat (lawyer) % advokat
 Boule/Ballon % myach
-
+Paradis % nyebyesa
+Enfer % ad
+Avion % samolyet
+Bateau % lodka
+Train % poyezd
+Trou % dyra
+Équipe % komanda
+Carte % karta
+Bois % dyeryevo

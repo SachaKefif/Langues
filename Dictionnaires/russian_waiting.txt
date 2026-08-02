@@ -1,3 +1,21 @@
+Principal % glavnyî
+Important % vajnyî
+Gênant % nyelovkiî
+Fort % sil'nyî
+Faible (M) % slabyî
+Différent (pas pareil) % raznyî
+Différent (un autre) % drougoî
+
+Principale % glavnaya
+Importante % vajnaya
+Gênante % nyelovkaya
+Forte % sil'naya
+Faible (F) % slabaya
+Différente (pas pareil) % raznaya
+Différente (une autre) % drougaya
+
+
+
 Pièce (partie) % kousok
 Milieu % syeryedina
 Loi % zakon
@@ -135,40 +153,6 @@ Chercher (HCB) % iskat'
 Cuisiner % 
 
 
-Long % dlinnyî
-Court % korotkiî
-Blessé % ranyenyî
-Excellent % otlichnyî
-Chiant % byesyashshiî
-Aléatoire (M) % slouchaînyî
-Triste (M) % groustnyî
-
-Longue % dlinnaya
-Courte % korotkaya
-Blessée % ranyenaya
-Excellente % otlichnaya
-Chiante % byesyashshaya
-Aléatoire (F) % slouchaînaya
-Triste (F) % groustnaya
-
-
-Principal % glavnyî
-Important % vajnyî
-Gênant % nyelovkiî
-Fort % sil'nyî
-Faible (M) % slabyî
-Différent (pas pareil) % raznyî
-Différent (un autre) % drougoî
-
-Principale % glavnaya
-Importante % vajnaya
-Gênante % nyelovkaya
-Forte % sil'naya
-Faible (F) % slabaya
-Différente (pas pareil) % raznaya
-Différente (une autre) % drougaya
-
-
 Cassé %
 Cassée %
 Suivant % slyedouyushshiî
@@ -179,3 +163,7 @@ Perdu % potyeryannyî
 Perdue % potyeryannaya
 Dégoûtant % otvratityel'nyî
 Dégoûtante % otvratityel'naya
+
+
+Chiant (annoying) % 
+Chiante (annoying) % byesyashshaya

@@ -1,15 +1,27 @@
 Chaud % goryachiî
-Froid % kholodnyî
-Cher % dorogoî
-Bon marché (M) % dyeshyovyî
-Intelligent % oumnyî
-Débile (M) % gloupyî
-Entier % tsyelyî
-
 Chaude % goryachaya
+Froid % kholodnyî
 Froide % kholodnaya
+Cher % dorogoî
 Chère % dorogaya
+Bon marché (M) % dyeshyovyî
 Bon marché (F) % dyeshyovaya
+Intelligent % oumnyî
 Intelligente % oumnaya
+Débile (M) % gloupyî
 Débile (F) % gloupaya
+Entier % tsyelyî
 Entière % tsyelaya
+
+Long % dlinnyî
+Longue % dlinnaya
+Court % korotkiî
+Courte % korotkaya
+Blessé % ranyenyî
+Blessée % ranyenaya
+Excellent % otlichnyî
+Excellente % otlichnaya
+Aléatoire (M) % slouchaînyî
+Aléatoire (F) % slouchaînaya
+Triste (M) % groustnyî
+Triste (F) % groustnaya

@@ -1,21 +1,3 @@
-Principal % glavnyî
-Important % vajnyî
-Gênant % nyelovkiî
-Fort % sil'nyî
-Faible (M) % slabyî
-Différent (pas pareil) % raznyî
-Différent (un autre) % drougoî
-
-Principale % glavnaya
-Importante % vajnaya
-Gênante % nyelovkaya
-Forte % sil'naya
-Faible (F) % slabaya
-Différente (pas pareil) % raznaya
-Différente (une autre) % drougaya
-
-
-
 Pièce (partie) % kousok
 Milieu % syeryedina
 Loi % zakon

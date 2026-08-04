@@ -1,3 +1,18 @@
+Principal % glavnyî
+Principale % glavnaya
+Important % vajnyî
+Importante % vajnaya
+Gênant % nyelovkiî
+Gênante % nyelovkaya
+Fort % sil'nyî
+Forte % sil'naya
+Faible (M) % slabyî
+Faible (F) % slabaya
+Différent (pas pareil) % raznyî
+Différente (pas pareil) % raznaya
+Différent (un autre) % drougoî
+Différente (une autre) % drougaya
+
 Chaud % goryachiî
 Chaude % goryachaya
 Froid % kholodnyî
@@ -13,15 +28,5 @@ Débile (F) % gloupaya
 Entier % tsyelyî
 Entière % tsyelaya
 
-Long % dlinnyî
-Longue % dlinnaya
-Court % korotkiî
-Courte % korotkaya
-Blessé % ranyenyî
-Blessée % ranyenaya
 Excellent % otlichnyî
 Excellente % otlichnaya
-Aléatoire (M) % slouchaînyî
-Aléatoire (F) % slouchaînaya
-Triste (M) % groustnyî
-Triste (F) % groustnaya

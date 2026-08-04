@@ -14,6 +14,16 @@ Premier % pyervyî
 Première % pyervaya
 Dernier % poslyedniî
 Dernière % poslyednyaya
+Long % dlinnyî
+Longue % dlinnaya
+Court % korotkiî
+Courte % korotkaya
+Blessé % ranyenyî
+Blessée % ranyenaya
+Aléatoire (M) % slouchaînyî
+Aléatoire (F) % slouchaînaya
+Triste (M) % groustnyî
+Triste (F) % groustnaya
 
 Embrasser (HCB) % tsyelovat'
 Gagner (HCB) % zarabatyvat'

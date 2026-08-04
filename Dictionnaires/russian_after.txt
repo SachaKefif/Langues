@@ -1,21 +1,3 @@
-Moi (Pronom Tonique) % mnye
-Toi (Pronom Tonique) % ty
-Lui (Pronom Tonique) % yemou
-Elle (Pronom Tonique) % ona
-Nous (Pronom Tonique) % my
-Vous (Pronom Tonique) % ty
-Eux (Pronom Tonique) % ikh
-Elles (Pronom Tonique) % oni
-
-Me (Pronom Réfléchi) % mnye
-Te (Pronom Réfléchi) % ty
-Se (Pronom Réfléchi) % sye
-Le (Pronom Réfléchi) % to
-La (Pronom Réfléchi) % tam
-Les ()
-Nous (Pronom Réfléchi) % my
-Vous (Pronom Réfléchi) % ty
-
 Moi-même % sam
 Toi-même % sam
 Lui-même % sam

@@ -167,3 +167,13 @@ Dégoûtante % otvratityel'naya
 
 Chiant (annoying) % 
 Chiante (annoying) % byesyashshaya
+
+
+Moi (Pronom Tonique) % mnye
+Toi (Pronom Tonique) % ty
+Lui (Pronom Tonique) % yemou
+Elle (Pronom Tonique) % ona
+Nous (Pronom Tonique) % my
+Vous (Pronom Tonique) % ty
+Eux (Pronom Tonique) % ikh
+Elles (Pronom Tonique) % oni

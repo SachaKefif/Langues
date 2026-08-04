@@ -20,9 +20,6 @@ Gagner (HCB) % zarabatyvat'
 Perdre (HCB) % tyeryat'
 Se souvenir (HCB) % pomnit'
 
-Parfois % inogda
-Dedans % vnoutri
-
 Coeur % syerdtsye
 Animal % jivotnoye
 Vêtement % odyejda

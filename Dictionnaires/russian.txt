@@ -1,5 +1,6 @@
 0 % nol'
-1 % odin
+1 (o) % odin
+1 (r) % raz
 2 % dva
 3 % tri
 4 % chyetyrye
@@ -212,7 +213,7 @@ Pour (d) % dlya
 Pour (z) % za
 De % iz
 Beaucoup % mnogo
-Peu (Quantité) % malo
+Peu % malo
 Ici % zdyes'
 Là-bas % tam
 Avant % do
@@ -306,11 +307,14 @@ La plus (suffixe superlatif) % yeîshaya
 Le plus % samyî
 La plus % samaya
 Le moins % naimyenyeye
+Parfois % inogda
+Dedans % vnoutri
+Particule conditionnel % by
 
+Language slang % mat
 Genre (Tic de language) % tipo
 Va te faire foutre % idi na khouî
 Putain % blyat'
-Language slang % mat
 
 Être (HCB) % byt'
 Avoir (HCB) % imyet'
@@ -323,7 +327,7 @@ Aller (HCB) % idti
 Devoir (HCB) % doljyen
 Vouloir (HCB) % khotyet'
 Apprendre/Enseigner (HCB) % ouchit'
-Parler / Dire (HCB) % govorit'
+Parler/Dire (HCB) % govorit'
 Marcher (HCB) % khodit'
 Savoir/Connaître (HCB) % znat'
 Penser (HCB) % doumat'

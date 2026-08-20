@@ -131,7 +131,6 @@ Tuer (HCB) % oubivat'
 Jurer (HCB) % klyast'sya
 Partir (HCB) % oukhodit'
 Chercher (HCB) % iskat'
-
 Cuisiner % 
 
 
@@ -140,16 +139,109 @@ Suivant % slyedouyushshiî
 Précédent % pryedydoushshiî
 Perdu % potyeryannyî
 Dégoûtant % otvratityel'nyî
-
-
 Chiant (annoying) % 
 
 
-Moi (Pronom Tonique) % mnye
-Toi (Pronom Tonique) % ty
-Lui (Pronom Tonique) % yemou
-Elle (Pronom Tonique) % ona
-Nous (Pronom Tonique) % my
-Vous (Pronom Tonique) % ty
-Eux (Pronom Tonique) % ikh
-Elles (Pronom Tonique) % oni
+PRONOMS TONIQUES
+
+
+
+Apporter/Ammener (CB) % prinyesti
+Détester (CB) % voznenavidyet'
+Devenir (CB) % stat'
+Essayer (CB) % poprobovat'
+Commencer (CB) % nachat'
+Terminer (CB) % zakonchit'
+Entendre (CB) % uslyshat'
+Jeter (CB) % brosit'
+Laisser (CB) % ostavit'
+Changer (CB) % izmyenit'
+Aider (CB) % pomoch'
+Porter (to carry) (CB) % ponyesti
+Penser (trouver) (CB) % poschitat'
+Envoyer (CB) % otpravit'
+Être d'accord (CB) % soglasit'sya
+Espérer (CB) % ponadyeyat'sya
+Expliquer (CB) % ob"yasnit'
+Danser (CB) % stantsyevat'
+Chanter (CB) % spyet'
+Echanger (CB) % obmyenyat'
+Arriver (CB) % priyekhat'
+Tourner (CB) % povyernout'
+Toucher (CB) % prikosnout'sya
+Manquer (CB) % soskouchit'sya
+Bouger (CB) % podvinout'sya
+Arrêter (CB) % ostanovit'sya
+Pleurer (CB) % zaplakat'
+Deviner (CB) % ougadat'
+Naître (CB) % rodit'sya
+Mettre (à plat) (CB) % polojit'
+Mettre (debout) (CB) % postavit'
+Grandir (CB) % vyrasti
+Courrir (CB) % pobegat'
+Sentir (CB) % pochouvstvovat'
+Mentir (CB) % sovrat'
+Préférer (CB) % pryedpochest'
+Utiliser (CB) % ispol'zovat'
+Trouver (to find) (CB) % nayti
+Tuer (CB) % oubit'
+Jurer (CB) % poklyast'sya
+Partir (CB) % ouîti
+Chercher (CB) % poiskat'
+
+
+Embrasser (CB) % potsyelovat'
+Gagner (CB) % zarabotat'
+Perdre (CB) % potyeryat'
+Se souvenir (CB) % zapomnit'
+
+
+Être (CB) % pobyt'
+Avoir (CB) % poimet'
+Faire (CB) % sdyelat'
+Manger (CB) % s"yest'
+Boire (CB) % vypit'
+Pouvoir (CB) % soumyet'
+Avoir besoin (CB) % ponadobit'sya
+Aller (CB) % poîti
+Devoir (CB) % pridyotsya
+Vouloir (CB) % zakhotyet'
+Apprendre/Enseigner (CB) % vyoutchit'
+Parler/Dire (CB) % skazat'
+Marcher (CB) % skhodit'
+Savoir/Connaître (CB) % ouznat'
+Penser (CB) % podoumat'
+Croire (CB) % povyerit'
+Travailler (CB) % porabotat'
+Aimer (CB) % polyubit'
+Prendre (CB) % vzyat'
+Attendre (CB) % podojdat'
+Fermer (CB) % zakryt'
+Lire (CB) % prochitat'
+Vivre (CB) % pojit'
+Jouer (CB) % sygrat'
+Dormir (CB) % pospat'
+Payer (CB) % zaplatit'
+Comprendre (CB) % ponyat'
+Montrer (CB) % pokazat'
+Oublier (CB) % zabyt'
+Acheter (CB) % koupit'
+Écrire (CB) % napisat'
+Ouvrir (CB) % otkryt'
+Donner (CB) % dat'
+Venir (CB) % priîti
+Voir (CB) % ouvidyet'
+Se passer (to happen) (CB) % sloutchit'sya
+Se nommer (CB) % nazvat'sya
+Demander (CB) % poprosit'
+Répondre (CB) % otvyetit'
+Regarder (CB) % posmotryet'
+Couper (CB) % poryezat'
+Rester (CB) % ostat'sya
+Fonctionner (CB) % porabotat'
+Vendre (CB) % prodat'
+Choisir (CB) % vybrat'
+Mourir (CB) % oumyeret'
+Casser (CB) % slomat'
+Écouter (CB) % posloushat'
+Tomber (CB) % oupast'

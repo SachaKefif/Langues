@@ -136,19 +136,13 @@ Cuisiner %
 
 
 Cassé %
-Cassée %
 Suivant % slyedouyushshiî
-Suivante % slyedouyushshaya
 Précédent % pryedydoushshiî
-Précédente % pryedydoushshaya
 Perdu % potyeryannyî
-Perdue % potyeryannaya
 Dégoûtant % otvratityel'nyî
-Dégoûtante % otvratityel'naya
 
 
 Chiant (annoying) % 
-Chiante (annoying) % byesyashshaya
 
 
 Moi (Pronom Tonique) % mnye

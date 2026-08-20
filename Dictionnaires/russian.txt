@@ -232,7 +232,6 @@ Jusqu'à % do
 Depuis % ot
 Il faut % nado
 En % v
-Chez % k
 Par % po
 Pendant que % poka
 Gauche % lyevyî
@@ -247,7 +246,6 @@ Presque % pochti
 Personne (nobody) % nikto
 Il y a (there is) % yest'
 Autre (M) % drougoî
-Autre (F) % drougaya
 Souvent % chasto
 Fois % raz
 Dehors % na oulitse
@@ -367,72 +365,39 @@ Casser (HCB) % lomat'
 Tomber (HCB) % padat'
 
 Beau % krasivyî
-Belle % krasivaya
 Grand % bol'shoî
-Grande % bol'shaya
 Petit % malyen'kiî
-Petite % malyen'kaya
 Facile (M) % lyogkiî
-Facile (F) % lyogkaya
 Difficile (M) % troudnyî
-Difficile (F) % troudnaya
 Heureux % schastlivyî
-Heureuse % schastlivaya
 Bon % khoroshiî
-Bonne % khoroshaya
 Bien % khorosho
 Mauvais % plokhoî
-Mauvaise % plokhaya
 Meilleur % louchshiî
-Meilleure % louchshaya
 Pire (M) % khoudshiî
-Pire (F) % khoudshaya
 Vrai % istinnyî
-Vraie % istinnaya
 Faux % fal'shivyî
-Fausse % fal'shivaya
 Mignon % milyî
-Mignonne % milaya
 Méchant % zloî
-Méchante % zlaya
 Raciste (M) % rasistskiî
-Raciste (F) % rasistskaya
 Parfait % idyeal'nyî
-Parfaite % idyeal'naya
 Simple (M) % prostoî
-Simple (F) % prostaya
 Compliqué % slojnyî
-Compliquée % slojnaya
 Dangeureux % opasnyî
-Dangeureuse % opasnaya
 Utile (M) % polyeznyî
-Utile (F) % polyeznaya
 Inutile (M) % byespolyeznyî
-Inutile (F) % byespolyeznaya
 Rapide (M) % bystryî
-Rapide (F) % bystraya
 Lent % myedlyennyî
-Lente % myedlyennaya
 Étrange (M) % strannyî
-Étrange (F) % strannaya
 Normal % normal'nyî
-Normale % normal'naya
 Nouveau % novyî
-Nouvelle % novaya
 Récent % nyedavniî
-Récente % nyedavnyaya
 Malade (M) % bol'noî
-Malade (F) % bol'naya
 Bourré (drunk) (M) % p'yanyî
-Bourrée (drunk) (F) % p'yanaya
 Seul % odinokoî
-Seule % odinokaya
 Moche (M) % ourodlivyî
-Moche (F) % ourodlivaya
 Drôle (M) % zabavnyî
-Drôle (F) % zabavnaya
 Gentil % dobryî
-Gentille % dobraya
 
 Petit-déjeuner (matin) % zavtrak
 Déjeuner (jour) % obyed
@@ -538,15 +503,10 @@ Film % fil'm
 Montagne % gora
 Groupe/Bande % grouppa
 Idée % idyeya
-Lettre (alphabet) % boukva
 Langue % yazyk
-Vérité % pravda
 Mensonge % loj'
 Lumière % svyet
 Peur % strakh
-Monnaie % nalichnyye
-Chaussure % obouv'
-Pantalon % bryuki
 T-shirt % foutbolka
 Lunettes % ochki
 Bouteille % boutylka

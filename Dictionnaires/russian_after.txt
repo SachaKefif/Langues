@@ -279,7 +279,6 @@ Reposée % otdokhnouvshaya
 Fatigué % oustavshiî
 Fatiguée % oustavshaya
 Prochain % slyedouyushshiî
-Prochaine % slyedouyushshaya
 Libre (M) % svobodnyî
 Libre (F) % svobodnaya
 Obligatoire (M) % obyazatyel'nyî
@@ -392,7 +391,6 @@ Stressante % stryessovaya
 Basique (M) % bazovyî
 Basique (F) % bazovaya
 Complexe (M) % slojnyî
-Complexe (F) % slojnaya
 Moderne (M) % sovryemyennyî
 Moderne (F) % sovryemyennaya
 Neutre (M) % nyeîtral'nyî
@@ -430,7 +428,6 @@ Paire % chyotnaya
 Impair % nyechyotnyî
 Impaire % nyechyotnaya
 Répugnant % otvratityel'nyî
-Répugnante % otvratityel'naya
 Ridicule (M) % nyelyepyî
 Ridicule (F) % nyelyepaya
 Mou % myagkiî
@@ -460,7 +457,6 @@ Illogique (F) % nyelogichnaya
 À l'aise (M) % komfortnyî
 À l'aise (F) % komfortnaya
 Mal à l'aise (M) % nyelovkiî
-Mal à l'aise (F) % nyelovkaya
 Confortable (M) % komfortnyî
 Confortable (F) % komfortnaya
 Inconfortable (M) % nyeoudobnyî

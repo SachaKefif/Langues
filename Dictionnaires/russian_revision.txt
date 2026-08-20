@@ -48,3 +48,9 @@ Trou % dyra
 Équipe % komanda
 Carte % karta
 Bois % dyeryevo
+
+Monnaie % nalichnyye
+Chaussure % obouv'
+Pantalon % bryuki
+Vérité % pravda
+Lettre (alphabet) % boukva
